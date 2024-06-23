@@ -1,0 +1,2150 @@
+Speaker ID: spk_0
+Hume Transcribed Text: So it's two weeks from prom, and you don't have a date. What are you gonna do?
+Time: 0.99s - 4.33s
+
+Text Top 3 Emotions:
+  - Gratitude: 0.4380
+  - Disapproval: 0.3368
+  - Annoyance: 0.2083
+
+Audio Top 3 Emotions:
+  - Interest: 0.4724
+  - Determination: 0.3315
+  - Calmness: 0.2488
+
+Video Emotions:
+  Frame at 1.00s:
+    - Confusion: 0.4279
+    - Interest: 0.4148
+    - Concentration: 0.3795
+  Frame at 1.33s:
+    - Confusion: 0.4380
+    - Concentration: 0.3895
+    - Calmness: 0.3630
+  Frame at 1.67s:
+    - Confusion: 0.4601
+    - Concentration: 0.4084
+    - Calmness: 0.3950
+  Frame at 2.00s:
+    - Confusion: 0.4388
+    - Concentration: 0.4123
+    - Interest: 0.3805
+  Frame at 2.34s:
+    - Confusion: 0.3880
+    - Interest: 0.3013
+    - Amusement: 0.2615
+  Frame at 2.67s:
+    - Interest: 0.4719
+    - Desire: 0.4549
+    - Amusement: 0.4079
+  Frame at 3.00s:
+    - Amusement: 0.6023
+    - Interest: 0.4628
+    - Joy: 0.4604
+  Frame at 3.34s:
+    - Calmness: 0.4467
+    - Interest: 0.3895
+    - Amusement: 0.3776
+  Frame at 3.67s:
+    - Confusion: 0.4965
+    - Pain: 0.3919
+    - Sadness: 0.3778
+  Frame at 4.00s:
+    - Fear: 0.4241
+    - Distress: 0.4153
+    - Pain: 0.4036
+
+--------------------------------------------------
+
+Speaker ID: spk_0
+Hume Transcribed Text: Or maybe you have a job interview for that dream job and you really wanna win the employer over
+Time: 5.12s - 9.87s
+
+Text Top 3 Emotions:
+  No text emotions data available
+
+Audio Top 3 Emotions:
+  - Interest: 0.3379
+  - Determination: 0.2723
+  - Pride: 0.2366
+
+Video Emotions:
+  Frame at 5.34s:
+    - Tiredness: 0.4034
+    - Boredom: 0.3380
+    - Calmness: 0.2916
+  Frame at 5.67s:
+    - Calmness: 0.4239
+    - Tiredness: 0.3620
+    - Confusion: 0.3432
+  Frame at 6.01s:
+    - Tiredness: 0.5110
+    - Satisfaction: 0.4685
+    - Desire: 0.4144
+  Frame at 6.34s:
+    - Confusion: 0.4545
+    - Concentration: 0.3689
+    - Calmness: 0.3300
+  Frame at 6.67s:
+    - Confusion: 0.4617
+    - Concentration: 0.4219
+    - Calmness: 0.3770
+  Frame at 7.01s:
+    - Boredom: 0.4091
+    - Tiredness: 0.4000
+    - Calmness: 0.3708
+  Frame at 7.34s:
+    - Confusion: 0.4370
+    - Boredom: 0.4352
+    - Calmness: 0.3964
+  Frame at 7.67s:
+    - Confusion: 0.4141
+    - Calmness: 0.3985
+    - Boredom: 0.3802
+  Frame at 8.01s:
+    - Calmness: 0.4941
+    - Concentration: 0.4866
+    - Boredom: 0.4400
+  Frame at 8.34s:
+    - Confusion: 0.4121
+    - Concentration: 0.3439
+    - Calmness: 0.3293
+  Frame at 8.68s:
+    - Desire: 0.5508
+    - Boredom: 0.3804
+    - Calmness: 0.3479
+  Frame at 9.01s:
+    - Concentration: 0.5209
+    - Calmness: 0.4709
+    - Confusion: 0.4535
+  Frame at 9.34s:
+    - Concentration: 0.4507
+    - Confusion: 0.4455
+    - Calmness: 0.4075
+  Frame at 9.68s:
+    - Confusion: 0.4619
+    - Concentration: 0.4209
+    - Calmness: 0.3748
+
+--------------------------------------------------
+
+Speaker ID: spk_0
+Hume Transcribed Text: but how do you make sure they'll like you? Well, there's actually a very simple
+Time: 10.46s - 14.46s
+
+Text Top 3 Emotions:
+  No text emotions data available
+
+Audio Top 3 Emotions:
+  - Interest: 0.6918
+  - Sympathy: 0.2647
+  - Envy: 0.1377
+
+Video Emotions:
+  Frame at 10.68s:
+    - Amusement: 0.4195
+    - Excitement: 0.4171
+    - Joy: 0.3352
+  Frame at 11.01s:
+    - Confusion: 0.5638
+    - Doubt: 0.3254
+    - Distress: 0.2797
+  Frame at 11.34s:
+    - Confusion: 0.5537
+    - Doubt: 0.3400
+    - Concentration: 0.2812
+  Frame at 11.68s:
+    - Amusement: 0.4766
+    - Joy: 0.4038
+    - Interest: 0.3977
+  Frame at 12.01s:
+    - Calmness: 0.4901
+    - Concentration: 0.4227
+    - Interest: 0.4136
+  Frame at 12.35s:
+    - Interest: 0.3680
+    - Desire: 0.3354
+    - Amusement: 0.3334
+  Frame at 12.68s:
+    - Tiredness: 0.4188
+    - Boredom: 0.3796
+    - Confusion: 0.2997
+  Frame at 13.01s:
+    - Satisfaction: 0.6199
+    - Desire: 0.4987
+    - Tiredness: 0.3999
+  Frame at 13.35s:
+    - Calmness: 0.3877
+    - Boredom: 0.3348
+    - Confusion: 0.3259
+  Frame at 13.68s:
+    - Desire: 0.4068
+    - Boredom: 0.3598
+    - Confusion: 0.3352
+  Frame at 14.01s:
+    - Confusion: 0.4399
+    - Concentration: 0.4138
+    - Interest: 0.3561
+  Frame at 14.35s:
+    - Concentration: 0.4387
+    - Confusion: 0.4275
+    - Interest: 0.3866
+
+--------------------------------------------------
+
+Speaker ID: spk_0
+Hume Transcribed Text: solution and it's called not who you wanna be. Not who you wanna be turns
+Time: 14.46s - 18.31s
+
+Text Top 3 Emotions:
+  No text emotions data available
+
+Audio Top 3 Emotions:
+  - Determination: 0.4471
+  - Anger: 0.4380
+  - Contempt: 0.2288
+
+Video Emotions:
+  Frame at 14.68s:
+    - Interest: 0.3517
+    - Amusement: 0.3400
+    - Awe: 0.3239
+  Frame at 15.02s:
+    - Awe: 0.3985
+    - Confusion: 0.3515
+    - Surprise (positive): 0.3159
+  Frame at 15.35s:
+    - Desire: 0.6355
+    - Satisfaction: 0.4624
+    - Amusement: 0.3256
+  Frame at 15.68s:
+    - Tiredness: 0.6039
+    - Desire: 0.4614
+    - Satisfaction: 0.4089
+  Frame at 16.02s:
+    - Confusion: 0.4795
+    - Concentration: 0.3896
+    - Interest: 0.3676
+  Frame at 16.35s:
+    - Confusion: 0.4155
+    - Interest: 0.3185
+    - Concentration: 0.2889
+  Frame at 16.68s:
+    - Interest: 0.3997
+    - Desire: 0.3463
+    - Amusement: 0.3261
+  Frame at 16.98s:
+    - Tiredness: 0.4275
+    - Boredom: 0.3974
+    - Calmness: 0.3202
+  Frame at 17.32s:
+    - Confusion: 0.4385
+    - Concentration: 0.3742
+    - Calmness: 0.3619
+  Frame at 17.65s:
+    - Calmness: 0.5601
+    - Boredom: 0.5020
+    - Concentration: 0.4967
+  Frame at 17.98s:
+    - Tiredness: 0.5250
+    - Satisfaction: 0.4444
+    - Calmness: 0.4013
+
+--------------------------------------------------
+
+Speaker ID: spk_0
+Hume Transcribed Text: you almost instantly into who someone else wants you to be. For
+Time: 18.31s - 24.43s
+
+Text Top 3 Emotions:
+  No text emotions data available
+
+Audio Top 3 Emotions:
+  - Determination: 0.2940
+  - Interest: 0.2165
+  - Anger: 0.2018
+
+Video Emotions:
+  Frame at 18.32s:
+    - Tiredness: 0.6143
+    - Satisfaction: 0.4708
+    - Desire: 0.4094
+  Frame at 18.65s:
+    - Satisfaction: 0.6997
+    - Desire: 0.6030
+    - Calmness: 0.4175
+  Frame at 18.99s:
+    - Desire: 0.4977
+    - Amusement: 0.4877
+    - Interest: 0.4855
+  Frame at 19.32s:
+    - Amusement: 0.5244
+    - Interest: 0.5096
+    - Desire: 0.4987
+  Frame at 19.65s:
+    - Amusement: 0.4117
+    - Joy: 0.3749
+    - Excitement: 0.3484
+  Frame at 19.99s:
+    - Confusion: 0.3946
+    - Concentration: 0.3618
+    - Interest: 0.3503
+  Frame at 20.32s:
+    - Calmness: 0.4627
+    - Concentration: 0.4473
+    - Confusion: 0.3860
+  Frame at 20.65s:
+    - Amusement: 0.4466
+    - Excitement: 0.4158
+    - Joy: 0.3866
+  Frame at 20.99s:
+    - Concentration: 0.4417
+    - Confusion: 0.4305
+    - Calmness: 0.4211
+  Frame at 21.32s:
+    - Calmness: 0.4507
+    - Tiredness: 0.4268
+    - Boredom: 0.3159
+  Frame at 21.65s:
+    - Interest: 0.3690
+    - Confusion: 0.3644
+    - Amusement: 0.3523
+  Frame at 21.99s:
+    - Interest: 0.3825
+    - Amusement: 0.3803
+    - Excitement: 0.3175
+  Frame at 22.32s:
+    - Desire: 0.7276
+    - Interest: 0.4864
+    - Amusement: 0.3660
+  Frame at 22.66s:
+    - Amusement: 0.5191
+    - Interest: 0.5056
+    - Joy: 0.4469
+  Frame at 22.99s:
+    - Interest: 0.4763
+    - Amusement: 0.4533
+    - Joy: 0.3384
+  Frame at 23.32s:
+    - Interest: 0.4948
+    - Amusement: 0.4776
+    - Joy: 0.3872
+  Frame at 23.66s:
+    - Interest: 0.5701
+    - Amusement: 0.4738
+    - Joy: 0.3789
+  Frame at 23.99s:
+    - Interest: 0.5985
+    - Desire: 0.4797
+    - Amusement: 0.4624
+  Frame at 24.32s:
+    - Desire: 0.6686
+    - Satisfaction: 0.6419
+    - Calmness: 0.3643
+
+--------------------------------------------------
+
+Speaker ID: spk_0
+Hume Transcribed Text: those last minute date Fiasco important job interviews I or meet the families
+Time: 24.43s - 28.68s
+
+Text Top 3 Emotions:
+  No text emotions data available
+
+Audio Top 3 Emotions:
+  - Interest: 0.4348
+  - Admiration: 0.2567
+  - Excitement: 0.2000
+
+Video Emotions:
+  Frame at 24.66s:
+    - Desire: 0.6782
+    - Satisfaction: 0.5991
+    - Ecstasy: 0.4060
+  Frame at 24.99s:
+    - Interest: 0.5812
+    - Desire: 0.5505
+    - Amusement: 0.4704
+  Frame at 25.33s:
+    - Interest: 0.5190
+    - Amusement: 0.4580
+    - Joy: 0.3452
+  Frame at 25.66s:
+    - Desire: 1.0343
+    - Interest: 0.5726
+    - Craving: 0.5357
+  Frame at 25.99s:
+    - Calmness: 0.4196
+    - Confusion: 0.4068
+    - Concentration: 0.4059
+  Frame at 26.33s:
+    - Confusion: 0.4060
+    - Concentration: 0.3690
+    - Interest: 0.3658
+  Frame at 26.66s:
+    - Awe: 0.4606
+    - Surprise (positive): 0.3903
+    - Surprise (negative): 0.3099
+  Frame at 26.99s:
+    - Calmness: 0.4167
+    - Concentration: 0.3919
+    - Confusion: 0.3888
+  Frame at 27.33s:
+    - Tiredness: 0.5973
+    - Desire: 0.5446
+    - Satisfaction: 0.4885
+  Frame at 27.66s:
+    - Calmness: 0.5166
+    - Concentration: 0.4612
+    - Boredom: 0.4401
+  Frame at 27.99s:
+    - Calmness: 0.5558
+    - Interest: 0.4833
+    - Amusement: 0.4348
+  Frame at 28.33s:
+    - Desire: 0.8010
+    - Interest: 0.4705
+    - Craving: 0.3681
+  Frame at 28.66s:
+    - Satisfaction: 0.4887
+    - Tiredness: 0.4739
+    - Relief: 0.3957
+
+--------------------------------------------------
+
+Speaker ID: spk_0
+Hume Transcribed Text: you wouldn't name it. Now, some may say you should always be who you are, but take
+Time: 28.74s - 33.04s
+
+Text Top 3 Emotions:
+  No text emotions data available
+
+Audio Top 3 Emotions:
+  - Anger: 0.3260
+  - Determination: 0.3099
+  - Interest: 0.2605
+
+Video Emotions:
+  Frame at 29.00s:
+    - Satisfaction: 0.4367
+    - Desire: 0.3855
+    - Tiredness: 0.2982
+  Frame at 29.33s:
+    - Calmness: 0.6160
+    - Interest: 0.3818
+    - Concentration: 0.3554
+  Frame at 29.66s:
+    - Amusement: 0.4673
+    - Interest: 0.4280
+    - Excitement: 0.3765
+  Frame at 30.00s:
+    - Amusement: 0.4290
+    - Excitement: 0.3668
+    - Interest: 0.3612
+  Frame at 30.33s:
+    - Calmness: 0.4395
+    - Concentration: 0.4098
+    - Confusion: 0.4040
+  Frame at 30.66s:
+    - Desire: 0.6042
+    - Interest: 0.5068
+    - Concentration: 0.3945
+  Frame at 31.00s:
+    - Tiredness: 0.5961
+    - Calmness: 0.4548
+    - Satisfaction: 0.4155
+  Frame at 31.33s:
+    - Confusion: 0.4500
+    - Awe: 0.3516
+    - Concentration: 0.3422
+  Frame at 31.66s:
+    - Confusion: 0.4272
+    - Concentration: 0.4201
+    - Interest: 0.4176
+  Frame at 32.00s:
+    - Awe: 0.5122
+    - Surprise (positive): 0.4461
+    - Confusion: 0.3631
+  Frame at 32.33s:
+    - Confusion: 0.4360
+    - Boredom: 0.3051
+    - Concentration: 0.3045
+  Frame at 32.67s:
+    - Desire: 0.8273
+    - Satisfaction: 0.5313
+    - Amusement: 0.3479
+  Frame at 33.00s:
+    - Confusion: 0.4203
+    - Interest: 0.4102
+    - Concentration: 0.3592
+
+--------------------------------------------------
+
+Speaker ID: spk_0
+Hume Transcribed Text: it from me, this product can come in handy in a multitude of situations. All
+Time: 33.04s - 37.83s
+
+Text Top 3 Emotions:
+  No text emotions data available
+
+Audio Top 3 Emotions:
+  - Determination: 0.5082
+  - Contempt: 0.3139
+  - Interest: 0.2170
+
+Video Emotions:
+  Frame at 33.33s:
+    - Confusion: 0.5202
+    - Doubt: 0.3466
+    - Concentration: 0.3300
+  Frame at 33.67s:
+    - Interest: 0.5378
+    - Desire: 0.4214
+    - Amusement: 0.3683
+  Frame at 34.00s:
+    - Interest: 0.4247
+    - Desire: 0.4066
+    - Amusement: 0.3363
+  Frame at 34.33s:
+    - Confusion: 0.4283
+    - Interest: 0.3678
+    - Calmness: 0.3449
+  Frame at 34.67s:
+    - Interest: 0.4498
+    - Amusement: 0.4029
+    - Satisfaction: 0.3463
+  Frame at 35.00s:
+    - Desire: 0.3265
+    - Satisfaction: 0.3250
+    - Boredom: 0.3160
+  Frame at 35.34s:
+    - Confusion: 0.3833
+    - Calmness: 0.3526
+    - Concentration: 0.3423
+  Frame at 35.67s:
+    - Confusion: 0.4230
+    - Concentration: 0.3805
+    - Calmness: 0.3712
+  Frame at 36.00s:
+    - Calmness: 0.4667
+    - Satisfaction: 0.4452
+    - Tiredness: 0.4215
+  Frame at 36.34s:
+    - Confusion: 0.4490
+    - Concentration: 0.3367
+    - Interest: 0.3217
+  Frame at 36.67s:
+    - Interest: 0.4440
+    - Concentration: 0.4047
+    - Desire: 0.3609
+  Frame at 37.00s:
+    - Interest: 0.3958
+    - Awe: 0.3308
+    - Confusion: 0.3257
+  Frame at 37.34s:
+    - Awe: 0.4457
+    - Surprise (positive): 0.3492
+    - Tiredness: 0.2926
+  Frame at 37.67s:
+    - Tiredness: 0.3165
+    - Confusion: 0.3102
+    - Boredom: 0.2953
+
+--------------------------------------------------
+
+Speaker ID: spk_0
+Hume Transcribed Text: you have to do to ace that interview, have the family fall in love with you
+Time: 37.83s - 41.88s
+
+Text Top 3 Emotions:
+  No text emotions data available
+
+Audio Top 3 Emotions:
+  - Love: 0.6175
+  - Adoration: 0.3393
+  - Interest: 0.3285
+
+Video Emotions:
+  Frame at 38.00s:
+    - Confusion: 0.4003
+    - Interest: 0.3815
+    - Concentration: 0.3695
+  Frame at 38.34s:
+    - Confusion: 0.4421
+    - Concentration: 0.4116
+    - Interest: 0.4054
+  Frame at 38.67s:
+    - Desire: 0.6058
+    - Interest: 0.4444
+    - Amusement: 0.4218
+  Frame at 39.01s:
+    - Amusement: 0.5488
+    - Interest: 0.4966
+    - Desire: 0.4279
+  Frame at 39.34s:
+    - Amusement: 0.4824
+    - Excitement: 0.4242
+    - Interest: 0.3911
+  Frame at 39.67s:
+    - Confusion: 0.4476
+    - Interest: 0.3709
+    - Concentration: 0.3348
+  Frame at 40.01s:
+    - Awe: 0.3609
+    - Boredom: 0.3345
+    - Confusion: 0.3270
+  Frame at 40.34s:
+    - Concentration: 0.4080
+    - Confusion: 0.3957
+    - Interest: 0.3955
+  Frame at 40.67s:
+    - Concentration: 0.4525
+    - Confusion: 0.4412
+    - Calmness: 0.3992
+  Frame at 41.01s:
+    - Interest: 0.4785
+    - Amusement: 0.4010
+    - Calmness: 0.3495
+  Frame at 41.34s:
+    - Interest: 0.4277
+    - Concentration: 0.3458
+    - Confusion: 0.3397
+  Frame at 41.67s:
+    - Confusion: 0.4362
+    - Concentration: 0.4141
+    - Interest: 0.3890
+
+--------------------------------------------------
+
+Speaker ID: spk_0
+Hume Transcribed Text: or get that date is simply program the name of the person you're trying to
+Time: 41.88s - 46.02s
+
+Text Top 3 Emotions:
+  No text emotions data available
+
+Audio Top 3 Emotions:
+  - Determination: 0.5292
+  - Concentration: 0.3895
+  - Interest: 0.2056
+
+Video Emotions:
+  Frame at 42.01s:
+    - Amusement: 0.4413
+    - Interest: 0.4254
+    - Excitement: 0.3386
+  Frame at 42.34s:
+    - Desire: 0.7646
+    - Interest: 0.5896
+    - Amusement: 0.4718
+  Frame at 42.68s:
+    - Amusement: 0.5870
+    - Excitement: 0.4968
+    - Joy: 0.4939
+  Frame at 43.01s:
+    - Satisfaction: 0.5915
+    - Desire: 0.4105
+    - Relief: 0.3597
+  Frame at 43.34s:
+    - Interest: 0.3922
+    - Amusement: 0.3847
+    - Desire: 0.3660
+  Frame at 43.68s:
+    - Calmness: 0.4127
+    - Concentration: 0.4024
+    - Confusion: 0.3965
+  Frame at 44.01s:
+    - Calmness: 0.3580
+    - Tiredness: 0.3177
+    - Boredom: 0.3128
+  Frame at 44.34s:
+    - Interest: 0.4188
+    - Desire: 0.4024
+    - Amusement: 0.3295
+  Frame at 44.68s:
+    - Confusion: 0.4790
+    - Concentration: 0.4532
+    - Calmness: 0.4027
+  Frame at 45.01s:
+    - Tiredness: 0.7026
+    - Calmness: 0.4490
+    - Relief: 0.4128
+  Frame at 45.35s:
+    - Confusion: 0.4552
+    - Concentration: 0.3681
+    - Interest: 0.3531
+  Frame at 45.68s:
+    - Confusion: 0.3936
+    - Interest: 0.3763
+    - Concentration: 0.2988
+  Frame at 46.01s:
+    - Desire: 0.8504
+    - Interest: 0.5184
+    - Craving: 0.4122
+
+--------------------------------------------------
+
+Speaker ID: spk_0
+Hume Transcribed Text: press into the machine and how long you'll be with them. And out pops a pill
+Time: 46.02s - 50.11s
+
+Text Top 3 Emotions:
+  No text emotions data available
+
+Audio Top 3 Emotions:
+  - Interest: 0.4523
+  - Calmness: 0.4320
+  - Determination: 0.2746
+
+Video Emotions:
+  Frame at 46.35s:
+    - Desire: 0.7741
+    - Interest: 0.5678
+    - Amusement: 0.4317
+  Frame at 46.68s:
+    - Confusion: 0.4308
+    - Interest: 0.3470
+    - Concentration: 0.3060
+  Frame at 47.01s:
+    - Amusement: 0.4038
+    - Interest: 0.3834
+    - Excitement: 0.3793
+  Frame at 47.35s:
+    - Satisfaction: 0.6288
+    - Ecstasy: 0.4386
+    - Desire: 0.4265
+  Frame at 47.68s:
+    - Confusion: 0.4063
+    - Concentration: 0.3518
+    - Interest: 0.3401
+  Frame at 48.01s:
+    - Confusion: 0.4824
+    - Concentration: 0.4551
+    - Interest: 0.3843
+  Frame at 48.35s:
+    - Calmness: 0.5486
+    - Concentration: 0.5179
+    - Boredom: 0.5097
+  Frame at 48.68s:
+    - Satisfaction: 0.5348
+    - Tiredness: 0.4787
+    - Desire: 0.4759
+  Frame at 49.02s:
+    - Interest: 0.4070
+    - Amusement: 0.3581
+    - Confusion: 0.3105
+  Frame at 49.35s:
+    - Concentration: 0.5111
+    - Confusion: 0.4353
+    - Boredom: 0.4320
+  Frame at 49.68s:
+    - Concentration: 0.4855
+    - Confusion: 0.4507
+    - Disappointment: 0.4022
+  Frame at 50.02s:
+    - Confusion: 0.4753
+    - Concentration: 0.3393
+    - Interest: 0.3208
+
+--------------------------------------------------
+
+Speaker ID: spk_0
+Hume Transcribed Text: and within twenty minutes, you'll be their favorite person in the world. It's This pill
+Time: 50.11s - 54.99s
+
+Text Top 3 Emotions:
+  No text emotions data available
+
+Audio Top 3 Emotions:
+  - Pride: 0.6188
+  - Interest: 0.5849
+  - Determination: 0.5750
+
+Video Emotions:
+  Frame at 50.32s:
+    - Tiredness: 0.6283
+    - Calmness: 0.4251
+    - Satisfaction: 0.4089
+  Frame at 50.65s:
+    - Desire: 0.5486
+    - Concentration: 0.3598
+    - Confusion: 0.3437
+  Frame at 50.98s:
+    - Desire: 0.9135
+    - Interest: 0.5465
+    - Craving: 0.4707
+  Frame at 51.32s:
+    - Tiredness: 0.3956
+    - Boredom: 0.3787
+    - Confusion: 0.3431
+  Frame at 51.65s:
+    - Confusion: 0.4167
+    - Boredom: 0.3480
+    - Calmness: 0.3251
+  Frame at 51.99s:
+    - Concentration: 0.3962
+    - Calmness: 0.3872
+    - Confusion: 0.3828
+  Frame at 52.32s:
+    - Calmness: 0.5104
+    - Concentration: 0.5049
+    - Boredom: 0.4237
+  Frame at 52.65s:
+    - Confusion: 0.4288
+    - Concentration: 0.3793
+    - Interest: 0.3528
+  Frame at 52.99s:
+    - Interest: 0.4350
+    - Concentration: 0.4211
+    - Confusion: 0.3828
+  Frame at 53.32s:
+    - Concentration: 0.4235
+    - Confusion: 0.4099
+    - Calmness: 0.4005
+  Frame at 53.65s:
+    - Calmness: 0.5085
+    - Concentration: 0.4336
+    - Interest: 0.3857
+  Frame at 53.99s:
+    - Satisfaction: 0.5150
+    - Tiredness: 0.5054
+    - Relief: 0.4081
+  Frame at 54.32s:
+    - Satisfaction: 0.4906
+    - Desire: 0.4474
+    - Calmness: 0.4055
+  Frame at 54.65s:
+    - Calmness: 0.3731
+    - Boredom: 0.3595
+    - Confusion: 0.3395
+  Frame at 54.99s:
+    - Confusion: 0.3664
+    - Interest: 0.3658
+    - Concentration: 0.3353
+
+--------------------------------------------------
+
+Speaker ID: spk_0
+Hume Transcribed Text: carefully works to install a mental filter for those boys who seem to lack one, bring
+Time: 54.99s - 59.87s
+
+Text Top 3 Emotions:
+  No text emotions data available
+
+Audio Top 3 Emotions:
+  - Calmness: 0.6447
+  - Concentration: 0.6108
+  - Sympathy: 0.3243
+
+Video Emotions:
+  Frame at 55.32s:
+    - Concentration: 0.4772
+    - Confusion: 0.4643
+    - Calmness: 0.4397
+  Frame at 55.66s:
+    - Confusion: 0.4544
+    - Interest: 0.3886
+    - Concentration: 0.3681
+  Frame at 55.99s:
+    - Interest: 0.4152
+    - Confusion: 0.3952
+    - Concentration: 0.3901
+  Frame at 56.32s:
+    - Calmness: 0.5485
+    - Concentration: 0.4585
+    - Boredom: 0.4279
+  Frame at 56.66s:
+    - Confusion: 0.4684
+    - Concentration: 0.4022
+    - Interest: 0.3839
+  Frame at 56.99s:
+    - Confusion: 0.4950
+    - Concentration: 0.3753
+    - Interest: 0.3516
+  Frame at 57.32s:
+    - Awe: 0.4249
+    - Confusion: 0.3892
+    - Surprise (positive): 0.3434
+  Frame at 57.66s:
+    - Confusion: 0.4366
+    - Interest: 0.3745
+    - Concentration: 0.3503
+  Frame at 57.99s:
+    - Confusion: 0.4676
+    - Concentration: 0.4067
+    - Interest: 0.3792
+  Frame at 58.32s:
+    - Confusion: 0.4569
+    - Concentration: 0.3966
+    - Interest: 0.3693
+  Frame at 58.66s:
+    - Amusement: 0.3337
+    - Confusion: 0.3129
+    - Interest: 0.3050
+  Frame at 58.99s:
+    - Tiredness: 0.4132
+    - Calmness: 0.3625
+    - Desire: 0.3563
+  Frame at 59.33s:
+    - Tiredness: 0.3684
+    - Boredom: 0.3413
+    - Desire: 0.3015
+  Frame at 59.66s:
+    - Confusion: 0.4703
+    - Boredom: 0.4146
+    - Tiredness: 0.3531
+
+--------------------------------------------------
+
+Speaker ID: spk_0
+Hume Transcribed Text: the quiet girl out of her shell or quiet the incessant top soccer. Nothing
+Time: 59.87s - 64.43s
+
+Text Top 3 Emotions:
+  No text emotions data available
+
+Audio Top 3 Emotions:
+  - Pride: 0.1815
+  - Contempt: 0.1774
+  - Envy: 0.1760
+
+Video Emotions:
+  Frame at 59.99s:
+    - Boredom: 0.3777
+    - Confusion: 0.3647
+    - Interest: 0.3240
+  Frame at 60.33s:
+    - Confusion: 0.3626
+    - Boredom: 0.3493
+    - Tiredness: 0.3019
+  Frame at 60.66s:
+    - Confusion: 0.4778
+    - Concentration: 0.3748
+    - Boredom: 0.3740
+  Frame at 60.99s:
+    - Confusion: 0.3398
+    - Amusement: 0.3140
+    - Interest: 0.3105
+  Frame at 61.33s:
+    - Desire: 0.5953
+    - Interest: 0.5176
+    - Amusement: 0.4554
+  Frame at 61.66s:
+    - Tiredness: 0.6411
+    - Calmness: 0.4341
+    - Satisfaction: 0.4098
+  Frame at 62.00s:
+    - Desire: 0.4306
+    - Amusement: 0.3942
+    - Satisfaction: 0.3579
+  Frame at 62.33s:
+    - Amusement: 0.5474
+    - Joy: 0.4722
+    - Interest: 0.4543
+  Frame at 62.66s:
+    - Interest: 0.5370
+    - Amusement: 0.5266
+    - Desire: 0.4550
+  Frame at 63.00s:
+    - Confusion: 0.3064
+    - Amusement: 0.2949
+    - Boredom: 0.2900
+  Frame at 63.33s:
+    - Calmness: 0.5663
+    - Concentration: 0.4067
+    - Interest: 0.4041
+  Frame at 63.66s:
+    - Amusement: 0.4992
+    - Excitement: 0.4040
+    - Interest: 0.3824
+  Frame at 64.00s:
+    - Desire: 0.6368
+    - Satisfaction: 0.5453
+    - Amusement: 0.4668
+  Frame at 64.33s:
+    - Satisfaction: 0.5721
+    - Desire: 0.4049
+    - Ecstasy: 0.3709
+
+--------------------------------------------------
+
+Speaker ID: spk_0
+Hume Transcribed Text: else can make you so instantly pleasing to those people you have to impress
+Time: 64.43s - 68.35s
+
+Text Top 3 Emotions:
+  No text emotions data available
+
+Audio Top 3 Emotions:
+  - Sympathy: 0.5594
+  - Empathic Pain: 0.4688
+  - Distress: 0.2251
+
+Video Emotions:
+  Frame at 64.66s:
+    - Calmness: 0.6128
+    - Boredom: 0.5263
+    - Concentration: 0.4890
+  Frame at 65.00s:
+    - Satisfaction: 0.5890
+    - Tiredness: 0.4588
+    - Relief: 0.4381
+  Frame at 65.33s:
+    - Satisfaction: 0.6311
+    - Desire: 0.5126
+    - Tiredness: 0.4612
+  Frame at 65.67s:
+    - Interest: 0.4594
+    - Amusement: 0.4505
+    - Joy: 0.4444
+  Frame at 66.00s:
+    - Concentration: 0.4659
+    - Confusion: 0.4236
+    - Calmness: 0.3827
+  Frame at 66.33s:
+    - Interest: 0.5549
+    - Amusement: 0.4774
+    - Desire: 0.4504
+  Frame at 66.67s:
+    - Interest: 0.4109
+    - Confusion: 0.3904
+    - Concentration: 0.3676
+  Frame at 67.00s:
+    - Concentration: 0.4939
+    - Calmness: 0.4318
+    - Interest: 0.4008
+  Frame at 67.33s:
+    - Tiredness: 0.3441
+    - Awe: 0.3308
+    - Boredom: 0.2681
+  Frame at 67.67s:
+    - Concentration: 0.5088
+    - Calmness: 0.4966
+    - Boredom: 0.4901
+  Frame at 68.00s:
+    - Desire: 0.6533
+    - Interest: 0.5472
+    - Concentration: 0.3650
+  Frame at 68.33s:
+    - Calmness: 0.4750
+    - Tiredness: 0.4098
+    - Satisfaction: 0.3241
+
+--------------------------------------------------
+
+Speaker ID: spk_0
+Hume Transcribed Text: for a short period of time. Walker Not who you wanna be is recommended by four
+Time: 68.41s - 72.25s
+
+Text Top 3 Emotions:
+  No text emotions data available
+
+Audio Top 3 Emotions:
+  - Determination: 0.5467
+  - Concentration: 0.4246
+  - Interest: 0.3883
+
+Video Emotions:
+  Frame at 68.67s:
+    - Confusion: 0.3499
+    - Awe: 0.3295
+    - Interest: 0.2822
+  Frame at 69.00s:
+    - Confusion: 0.4084
+    - Awe: 0.3500
+    - Concentration: 0.2970
+  Frame at 69.34s:
+    - Awe: 0.4488
+    - Surprise (positive): 0.3987
+    - Excitement: 0.3582
+  Frame at 69.67s:
+    - Calmness: 0.5028
+    - Concentration: 0.4439
+    - Interest: 0.4275
+  Frame at 70.00s:
+    - Confusion: 0.4634
+    - Concentration: 0.4473
+    - Interest: 0.3870
+  Frame at 70.34s:
+    - Tiredness: 0.5261
+    - Satisfaction: 0.4620
+    - Desire: 0.4143
+  Frame at 70.67s:
+    - Confusion: 0.4368
+    - Boredom: 0.3517
+    - Concentration: 0.3182
+  Frame at 71.00s:
+    - Confusion: 0.4853
+    - Concentration: 0.3766
+    - Boredom: 0.3516
+  Frame at 71.34s:
+    - Confusion: 0.3751
+    - Boredom: 0.3656
+    - Concentration: 0.3453
+  Frame at 71.67s:
+    - Confusion: 0.4842
+    - Concentration: 0.3897
+    - Doubt: 0.3269
+  Frame at 72.01s:
+    - Confusion: 0.3683
+    - Concentration: 0.3175
+    - Interest: 0.3167
+
+--------------------------------------------------
+
+Speaker ID: spk_0
+Hume Transcribed Text: out of ten marriage counselors and nine out of ten mother laws. Not
+Time: 72.25s - 76.96s
+
+Text Top 3 Emotions:
+  No text emotions data available
+
+Audio Top 3 Emotions:
+  - Admiration: 0.1862
+  - Amusement: 0.1715
+  - Contempt: 0.1532
+
+Video Emotions:
+  Frame at 72.34s:
+    - Amusement: 0.3619
+    - Interest: 0.3044
+    - Excitement: 0.2820
+  Frame at 72.67s:
+    - Confusion: 0.4388
+    - Boredom: 0.3172
+    - Doubt: 0.2917
+  Frame at 73.01s:
+    - Confusion: 0.3813
+    - Boredom: 0.3518
+    - Interest: 0.3454
+  Frame at 73.34s:
+    - Amusement: 0.5155
+    - Desire: 0.4998
+    - Interest: 0.4634
+  Frame at 73.67s:
+    - Excitement: 0.7158
+    - Amusement: 0.5992
+    - Joy: 0.5385
+  Frame at 74.01s:
+    - Excitement: 0.6019
+    - Amusement: 0.5856
+    - Joy: 0.4690
+  Frame at 74.34s:
+    - Interest: 0.3807
+    - Awe: 0.3796
+    - Confusion: 0.3584
+  Frame at 74.67s:
+    - Interest: 0.4467
+    - Calmness: 0.3572
+    - Confusion: 0.3542
+  Frame at 75.01s:
+    - Confusion: 0.4350
+    - Concentration: 0.4188
+    - Interest: 0.4054
+  Frame at 75.34s:
+    - Interest: 0.4759
+    - Calmness: 0.3570
+    - Concentration: 0.3481
+  Frame at 75.68s:
+    - Calmness: 0.5602
+    - Interest: 0.4347
+    - Concentration: 0.3869
+  Frame at 76.01s:
+    - Interest: 0.4755
+    - Desire: 0.4198
+    - Concentration: 0.3448
+  Frame at 76.34s:
+    - Tiredness: 0.4513
+    - Desire: 0.4215
+    - Satisfaction: 0.4151
+  Frame at 76.68s:
+    - Tiredness: 0.4302
+    - Satisfaction: 0.3661
+    - Desire: 0.3259
+
+--------------------------------------------------
+
+Speaker ID: spk_0
+Hume Transcribed Text: who you want to be is brought to you by who would wanna be you. The family company
+Time: 76.96s - 81.04s
+
+Text Top 3 Emotions:
+  No text emotions data available
+
+Audio Top 3 Emotions:
+  - Contempt: 0.3847
+  - Envy: 0.3294
+  - Sympathy: 0.3140
+
+Video Emotions:
+  Frame at 77.01s:
+    - Calmness: 0.4353
+    - Tiredness: 0.3741
+    - Boredom: 0.3184
+  Frame at 77.34s:
+    - Calmness: 0.7331
+    - Tiredness: 0.5834
+    - Satisfaction: 0.5274
+  Frame at 77.68s:
+    - Tiredness: 0.6355
+    - Calmness: 0.6180
+    - Relief: 0.4085
+  Frame at 78.01s:
+    - Boredom: 0.3605
+    - Confusion: 0.3579
+    - Tiredness: 0.3259
+  Frame at 78.34s:
+    - Tiredness: 0.4460
+    - Desire: 0.3759
+    - Boredom: 0.3582
+  Frame at 78.68s:
+    - Confusion: 0.3959
+    - Boredom: 0.3792
+    - Calmness: 0.3607
+  Frame at 79.01s:
+    - Confusion: 0.4418
+    - Tiredness: 0.3418
+    - Boredom: 0.3238
+  Frame at 79.35s:
+    - Confusion: 0.3904
+    - Tiredness: 0.2734
+    - Boredom: 0.2710
+  Frame at 79.68s:
+    - Tiredness: 0.3602
+    - Boredom: 0.3334
+    - Confusion: 0.3240
+  Frame at 80.01s:
+    - Interest: 0.5368
+    - Desire: 0.4197
+    - Calmness: 0.4032
+  Frame at 80.35s:
+    - Calmness: 0.6105
+    - Boredom: 0.5241
+    - Concentration: 0.4578
+  Frame at 80.68s:
+    - Calmness: 0.6446
+    - Boredom: 0.5483
+    - Concentration: 0.5101
+  Frame at 81.01s:
+    - Calmness: 0.5565
+    - Concentration: 0.4807
+    - Boredom: 0.4582
+
+--------------------------------------------------
+
+Speaker ID: spk_0
+Hume Transcribed Text: that's brought you such products as thanks, hair dye, and concealer. Who
+Time: 81.04s - 86.52s
+
+Text Top 3 Emotions:
+  No text emotions data available
+
+Audio Top 3 Emotions:
+  - Amusement: 0.3656
+  - Contempt: 0.2696
+  - Interest: 0.2468
+
+Video Emotions:
+  Frame at 81.35s:
+    - Concentration: 0.4477
+    - Calmness: 0.4448
+    - Confusion: 0.4419
+  Frame at 81.68s:
+    - Confusion: 0.4343
+    - Concentration: 0.3271
+    - Boredom: 0.3201
+  Frame at 82.02s:
+    - Desire: 1.0426
+    - Satisfaction: 0.4666
+    - Amusement: 0.3636
+  Frame at 82.35s:
+    - Awe: 0.3125
+    - Interest: 0.3120
+    - Confusion: 0.3081
+  Frame at 82.68s:
+    - Amusement: 0.5068
+    - Interest: 0.4915
+    - Joy: 0.4800
+  Frame at 83.02s:
+    - Amusement: 0.5477
+    - Excitement: 0.5349
+    - Joy: 0.4503
+  Frame at 83.35s:
+    - Awe: 0.4117
+    - Excitement: 0.3588
+    - Surprise (positive): 0.3345
+  Frame at 83.65s:
+    - Amusement: 0.5304
+    - Excitement: 0.5078
+    - Joy: 0.4535
+  Frame at 83.98s:
+    - Amusement: 0.5827
+    - Joy: 0.5142
+    - Satisfaction: 0.4178
+  Frame at 84.32s:
+    - Desire: 0.7968
+    - Interest: 0.5530
+    - Amusement: 0.4755
+  Frame at 84.65s:
+    - Calmness: 0.5141
+    - Interest: 0.4651
+    - Amusement: 0.4169
+  Frame at 84.98s:
+    - Calmness: 0.5001
+    - Interest: 0.4247
+    - Concentration: 0.3560
+  Frame at 85.32s:
+    - Calmness: 0.4873
+    - Interest: 0.4648
+    - Amusement: 0.4502
+  Frame at 85.65s:
+    - Joy: 0.4955
+    - Amusement: 0.4932
+    - Calmness: 0.4674
+  Frame at 85.99s:
+    - Satisfaction: 0.5843
+    - Tiredness: 0.4761
+    - Desire: 0.4631
+  Frame at 86.32s:
+    - Calmness: 0.3931
+    - Tiredness: 0.3570
+    - Boredom: 0.3287
+
+--------------------------------------------------
+
+Speaker ID: spk_0
+Hume Transcribed Text: would wanna be you turning the expertise they possess and changing your physical exterior
+Time: 86.52s - 91.02s
+
+Text Top 3 Emotions:
+  No text emotions data available
+
+Audio Top 3 Emotions:
+  - Interest: 0.4038
+  - Determination: 0.2306
+  - Concentration: 0.2118
+
+Video Emotions:
+  Frame at 86.65s:
+    - Tiredness: 0.4747
+    - Desire: 0.3479
+    - Boredom: 0.3235
+  Frame at 86.99s:
+    - Confusion: 0.3280
+    - Interest: 0.2885
+    - Calmness: 0.2756
+  Frame at 87.32s:
+    - Calmness: 0.3932
+    - Satisfaction: 0.3450
+    - Tiredness: 0.3231
+  Frame at 87.65s:
+    - Interest: 0.4605
+    - Calmness: 0.3950
+    - Desire: 0.3717
+  Frame at 87.99s:
+    - Confusion: 0.4616
+    - Concentration: 0.4326
+    - Calmness: 0.4036
+  Frame at 88.32s:
+    - Interest: 0.4678
+    - Amusement: 0.4575
+    - Desire: 0.4314
+  Frame at 88.66s:
+    - Calmness: 0.5764
+    - Tiredness: 0.4638
+    - Boredom: 0.4481
+  Frame at 88.99s:
+    - Desire: 0.6788
+    - Interest: 0.5481
+    - Amusement: 0.4806
+  Frame at 89.32s:
+    - Desire: 0.6424
+    - Interest: 0.3477
+    - Boredom: 0.3445
+  Frame at 89.66s:
+    - Confusion: 0.4089
+    - Boredom: 0.3391
+    - Concentration: 0.3104
+  Frame at 89.99s:
+    - Confusion: 0.4356
+    - Concentration: 0.3475
+    - Interest: 0.3369
+  Frame at 90.32s:
+    - Desire: 0.6007
+    - Interest: 0.4044
+    - Concentration: 0.3036
+  Frame at 90.66s:
+    - Awe: 0.4442
+    - Confusion: 0.3613
+    - Surprise (positive): 0.3464
+  Frame at 90.99s:
+    - Satisfaction: 0.4042
+    - Amusement: 0.3422
+    - Desire: 0.3160
+
+--------------------------------------------------
+
+Speaker ID: spk_0
+Hume Transcribed Text: into a fantastic product that can change your personality. Just like
+Time: 91.24s - 96.28s
+
+Text Top 3 Emotions:
+  No text emotions data available
+
+Audio Top 3 Emotions:
+  - Pride: 0.5194
+  - Satisfaction: 0.4941
+  - Interest: 0.4692
+
+Video Emotions:
+  Frame at 91.32s:
+    - Satisfaction: 0.6661
+    - Desire: 0.5222
+    - Relief: 0.4418
+  Frame at 91.66s:
+    - Satisfaction: 0.8311
+    - Relief: 0.4961
+    - Desire: 0.4624
+  Frame at 91.99s:
+    - Amusement: 0.5017
+    - Interest: 0.4732
+    - Joy: 0.4651
+  Frame at 92.33s:
+    - Confusion: 0.4057
+    - Awe: 0.3394
+    - Boredom: 0.2885
+  Frame at 92.66s:
+    - Interest: 0.5099
+    - Desire: 0.4915
+    - Amusement: 0.3554
+  Frame at 92.99s:
+    - Calmness: 0.5045
+    - Interest: 0.4908
+    - Amusement: 0.4230
+  Frame at 93.33s:
+    - Confusion: 0.4050
+    - Interest: 0.3396
+    - Concentration: 0.3238
+  Frame at 93.66s:
+    - Confusion: 0.5044
+    - Concentration: 0.3526
+    - Interest: 0.3370
+  Frame at 93.99s:
+    - Confusion: 0.5423
+    - Concentration: 0.3420
+    - Interest: 0.3369
+  Frame at 94.33s:
+    - Desire: 0.5220
+    - Interest: 0.5187
+    - Amusement: 0.3820
+  Frame at 94.66s:
+    - Calmness: 0.8176
+    - Satisfaction: 0.4582
+    - Tiredness: 0.4072
+  Frame at 94.99s:
+    - Boredom: 0.6095
+    - Calmness: 0.6076
+    - Concentration: 0.5231
+  Frame at 95.33s:
+    - Boredom: 0.3544
+    - Tiredness: 0.3539
+    - Confusion: 0.3077
+  Frame at 95.66s:
+    - Confusion: 0.3782
+    - Boredom: 0.3178
+    - Concentration: 0.3057
+  Frame at 96.00s:
+    - Desire: 0.4072
+    - Interest: 0.3883
+    - Confusion: 0.3285
+
+--------------------------------------------------
+
+Speaker ID: spk_0
+Hume Transcribed Text: span and concealer don't actually get rid of that extra chu you've got or that z you just
+Time: 96.28s - 101.25s
+
+Text Top 3 Emotions:
+  No text emotions data available
+
+Audio Top 3 Emotions:
+  - Anger: 0.4424
+  - Contempt: 0.3598
+  - Disgust: 0.3512
+
+Video Emotions:
+  Frame at 96.33s:
+    - Interest: 0.4304
+    - Desire: 0.3858
+    - Amusement: 0.3310
+  Frame at 96.66s:
+    - Desire: 0.8669
+    - Interest: 0.6015
+    - Craving: 0.4722
+  Frame at 97.00s:
+    - Interest: 0.4441
+    - Concentration: 0.3826
+    - Calmness: 0.3520
+  Frame at 97.33s:
+    - Confusion: 0.4213
+    - Interest: 0.3967
+    - Concentration: 0.3796
+  Frame at 97.66s:
+    - Confusion: 0.4361
+    - Interest: 0.3778
+    - Concentration: 0.3723
+  Frame at 98.00s:
+    - Calmness: 0.4560
+    - Concentration: 0.4456
+    - Confusion: 0.4415
+  Frame at 98.33s:
+    - Confusion: 0.3839
+    - Interest: 0.2955
+    - Boredom: 0.2792
+  Frame at 98.67s:
+    - Desire: 0.5238
+    - Amusement: 0.3642
+    - Interest: 0.3523
+  Frame at 99.00s:
+    - Confusion: 0.4519
+    - Concentration: 0.3727
+    - Boredom: 0.3384
+  Frame at 99.33s:
+    - Confusion: 0.5479
+    - Concentration: 0.4834
+    - Doubt: 0.4058
+  Frame at 99.67s:
+    - Tiredness: 0.5686
+    - Desire: 0.4551
+    - Satisfaction: 0.3548
+  Frame at 100.00s:
+    - Tiredness: 0.6387
+    - Satisfaction: 0.5465
+    - Desire: 0.5006
+  Frame at 100.33s:
+    - Confusion: 0.3401
+    - Interest: 0.3124
+    - Awe: 0.3035
+  Frame at 100.67s:
+    - Interest: 0.4281
+    - Amusement: 0.3234
+    - Confusion: 0.3208
+  Frame at 101.00s:
+    - Confusion: 0.4552
+    - Interest: 0.3582
+    - Concentration: 0.3485
+
+--------------------------------------------------
+
+Speaker ID: spk_0
+Hume Transcribed Text: can't stop thinking about. Not who you wanna beat doesn't actually change who you are. However,
+Time: 101.25s - 106.83s
+
+Text Top 3 Emotions:
+  No text emotions data available
+
+Audio Top 3 Emotions:
+  - Disappointment: 0.2210
+  - Contempt: 0.2106
+  - Disgust: 0.1927
+
+Video Emotions:
+  Frame at 101.33s:
+    - Desire: 0.8257
+    - Interest: 0.4704
+    - Craving: 0.3910
+  Frame at 101.67s:
+    - Interest: 0.3932
+    - Confusion: 0.3879
+    - Concentration: 0.3378
+  Frame at 102.00s:
+    - Confusion: 0.4543
+    - Awe: 0.3350
+    - Concentration: 0.3339
+  Frame at 102.34s:
+    - Tiredness: 0.4357
+    - Boredom: 0.3424
+    - Confusion: 0.2965
+  Frame at 102.67s:
+    - Tiredness: 0.4910
+    - Desire: 0.3558
+    - Satisfaction: 0.3220
+  Frame at 103.00s:
+    - Calmness: 0.4218
+    - Concentration: 0.3883
+    - Confusion: 0.3647
+  Frame at 103.34s:
+    - Tiredness: 0.4195
+    - Calmness: 0.3570
+    - Desire: 0.3553
+  Frame at 103.67s:
+    - Desire: 0.4028
+    - Interest: 0.3927
+    - Calmness: 0.3255
+  Frame at 104.00s:
+    - Calmness: 0.3516
+    - Tiredness: 0.3425
+    - Boredom: 0.3302
+  Frame at 104.34s:
+    - Confusion: 0.3155
+    - Awe: 0.3102
+    - Tiredness: 0.2861
+  Frame at 104.67s:
+    - Confusion: 0.3939
+    - Interest: 0.3863
+    - Concentration: 0.3503
+  Frame at 105.00s:
+    - Confusion: 0.3850
+    - Interest: 0.3417
+    - Concentration: 0.3292
+  Frame at 105.34s:
+    - Tiredness: 0.5577
+    - Boredom: 0.3356
+    - Desire: 0.2912
+  Frame at 105.67s:
+    - Calmness: 0.6068
+    - Concentration: 0.5404
+    - Boredom: 0.5335
+  Frame at 106.01s:
+    - Interest: 0.3890
+    - Confusion: 0.3837
+    - Boredom: 0.3434
+  Frame at 106.34s:
+    - Tiredness: 0.5022
+    - Satisfaction: 0.4145
+    - Desire: 0.4106
+  Frame at 106.67s:
+    - Confusion: 0.4152
+    - Concentration: 0.3198
+    - Awe: 0.3166
+
+--------------------------------------------------
+
+Speaker ID: spk_0
+Hume Transcribed Text: unlike our other products that turn your beauty outwards,
+Time: 107.38s - 109.92s
+
+Text Top 3 Emotions:
+  No text emotions data available
+
+Audio Top 3 Emotions:
+  - Interest: 0.3421
+  - Contempt: 0.2123
+  - Anger: 0.1761
+
+Video Emotions:
+  Frame at 107.67s:
+    - Tiredness: 0.6018
+    - Satisfaction: 0.4649
+    - Desire: 0.4210
+  Frame at 108.01s:
+    - Tiredness: 0.4119
+    - Boredom: 0.3596
+    - Awe: 0.3387
+  Frame at 108.34s:
+    - Confusion: 0.4117
+    - Boredom: 0.3844
+    - Calmness: 0.3597
+  Frame at 108.68s:
+    - Confusion: 0.4027
+    - Awe: 0.3299
+    - Concentration: 0.3099
+  Frame at 109.01s:
+    - Concentration: 0.4740
+    - Confusion: 0.4406
+    - Calmness: 0.3873
+  Frame at 109.34s:
+    - Confusion: 0.3160
+    - Interest: 0.3099
+    - Awe: 0.2823
+  Frame at 109.68s:
+    - Confusion: 0.4549
+    - Awe: 0.3536
+    - Concentration: 0.3130
+
+--------------------------------------------------
+
+Speaker ID: spk_0
+Hume Transcribed Text: Not how you want to be, turns your outer beauty inwards.
+Time: 110.73s - 113.44s
+
+Text Top 3 Emotions:
+  No text emotions data available
+
+Audio Top 3 Emotions:
+  - Determination: 0.3505
+  - Anger: 0.3455
+  - Contempt: 0.3142
+
+Video Emotions:
+  Frame at 111.01s:
+    - Tiredness: 0.5145
+    - Calmness: 0.4457
+    - Boredom: 0.3789
+  Frame at 111.34s:
+    - Confusion: 0.4568
+    - Boredom: 0.3372
+    - Concentration: 0.3292
+  Frame at 111.68s:
+    - Confusion: 0.4329
+    - Boredom: 0.3531
+    - Concentration: 0.3422
+  Frame at 112.01s:
+    - Awe: 0.3854
+    - Confusion: 0.3662
+    - Boredom: 0.3101
+  Frame at 112.35s:
+    - Confusion: 0.4636
+    - Concentration: 0.4046
+    - Interest: 0.3770
+  Frame at 112.68s:
+    - Desire: 0.6910
+    - Satisfaction: 0.6152
+    - Calmness: 0.3678
+  Frame at 113.01s:
+    - Confusion: 0.4447
+    - Concentration: 0.4371
+    - Calmness: 0.3490
+  Frame at 113.35s:
+    - Interest: 0.4141
+    - Calmness: 0.3959
+    - Concentration: 0.3895
+
+--------------------------------------------------
+
+Speaker ID: spk_0
+Hume Transcribed Text: After years of laboratory
+Time: 114.40s - 115.93s
+
+Text Top 3 Emotions:
+  No text emotions data available
+
+Audio Top 3 Emotions:
+  - Excitement: 0.4658
+  - Interest: 0.2964
+  - Pride: 0.2332
+
+Video Emotions:
+  Frame at 114.68s:
+    - Confusion: 0.3069
+    - Calmness: 0.3028
+    - Boredom: 0.2811
+  Frame at 115.01s:
+    - Confusion: 0.3559
+    - Interest: 0.3027
+    - Concentration: 0.2918
+  Frame at 115.35s:
+    - Excitement: 0.4028
+    - Amusement: 0.3889
+    - Joy: 0.2896
+  Frame at 115.68s:
+    - Confusion: 0.4238
+    - Boredom: 0.3758
+    - Concentration: 0.3684
+
+--------------------------------------------------
+
+Speaker ID: spk_0
+Hume Transcribed Text: research, careful test, and extensive studies,
+Time: 116.31s - 119.18s
+
+Text Top 3 Emotions:
+  No text emotions data available
+
+Audio Top 3 Emotions:
+  - Concentration: 0.6384
+  - Calmness: 0.3905
+  - Determination: 0.3607
+
+Video Emotions:
+  Frame at 116.35s:
+    - Confusion: 0.4717
+    - Boredom: 0.3816
+    - Calmness: 0.3607
+  Frame at 116.68s:
+    - Tiredness: 0.3699
+    - Desire: 0.3436
+    - Boredom: 0.3404
+  Frame at 116.98s:
+    - Satisfaction: 0.5949
+    - Desire: 0.4995
+    - Ecstasy: 0.4135
+  Frame at 117.32s:
+    - Confusion: 0.4081
+    - Interest: 0.4049
+    - Concentration: 0.3917
+  Frame at 117.65s:
+    - Interest: 0.5401
+    - Amusement: 0.4487
+    - Desire: 0.4301
+  Frame at 117.98s:
+    - Amusement: 0.4750
+    - Interest: 0.4594
+    - Joy: 0.4068
+  Frame at 118.32s:
+    - Amusement: 0.5067
+    - Joy: 0.4117
+    - Interest: 0.4112
+  Frame at 118.65s:
+    - Satisfaction: 0.7158
+    - Calmness: 0.5637
+    - Relief: 0.4536
+  Frame at 118.99s:
+    - Interest: 0.4917
+    - Desire: 0.4786
+    - Amusement: 0.3537
+
+--------------------------------------------------
+
+Speaker ID: spk_0
+Hume Transcribed Text: You can be sure that not who you wanna be, suddenly changes your
+Time: 119.75s - 123.73s
+
+Text Top 3 Emotions:
+  No text emotions data available
+
+Audio Top 3 Emotions:
+  - Determination: 0.3963
+  - Sympathy: 0.2679
+  - Contempt: 0.2507
+
+Video Emotions:
+  Frame at 119.99s:
+    - Confusion: 0.4389
+    - Concentration: 0.3561
+    - Calmness: 0.3160
+  Frame at 120.32s:
+    - Awe: 0.4789
+    - Surprise (positive): 0.3994
+    - Confusion: 0.3602
+  Frame at 120.65s:
+    - Tiredness: 0.5357
+    - Satisfaction: 0.5260
+    - Desire: 0.5184
+  Frame at 120.99s:
+    - Tiredness: 0.3322
+    - Boredom: 0.3294
+    - Satisfaction: 0.2927
+  Frame at 121.32s:
+    - Tiredness: 0.3950
+    - Boredom: 0.3708
+    - Calmness: 0.3663
+  Frame at 121.65s:
+    - Calmness: 0.6070
+    - Boredom: 0.5638
+    - Concentration: 0.5251
+  Frame at 121.99s:
+    - Desire: 0.4340
+    - Boredom: 0.3569
+    - Confusion: 0.3500
+  Frame at 122.32s:
+    - Desire: 0.9865
+    - Interest: 0.4362
+    - Craving: 0.4314
+  Frame at 122.66s:
+    - Interest: 0.4159
+    - Calmness: 0.4114
+    - Concentration: 0.3593
+  Frame at 122.99s:
+    - Tiredness: 0.3977
+    - Boredom: 0.3456
+    - Desire: 0.3292
+  Frame at 123.32s:
+    - Confusion: 0.5207
+    - Doubt: 0.3515
+    - Concentration: 0.3458
+  Frame at 123.66s:
+    - Interest: 0.3921
+    - Confusion: 0.3559
+    - Amusement: 0.2929
+
+--------------------------------------------------
+
+Speaker ID: spk_0
+Hume Transcribed Text: personality, but never fails to return you back to normal. So you can be
+Time: 123.73s - 127.73s
+
+Text Top 3 Emotions:
+  No text emotions data available
+
+Audio Top 3 Emotions:
+  - Contempt: 0.3299
+  - Sympathy: 0.3173
+  - Determination: 0.2457
+
+Video Emotions:
+  Frame at 123.99s:
+    - Confusion: 0.3854
+    - Boredom: 0.3324
+    - Awe: 0.3099
+  Frame at 124.32s:
+    - Calmness: 0.7149
+    - Boredom: 0.4522
+    - Concentration: 0.3936
+  Frame at 124.66s:
+    - Satisfaction: 0.6376
+    - Desire: 0.5731
+    - Ecstasy: 0.4004
+  Frame at 124.99s:
+    - Confusion: 0.3992
+    - Boredom: 0.3897
+    - Calmness: 0.3356
+  Frame at 125.33s:
+    - Confusion: 0.4408
+    - Concentration: 0.3718
+    - Boredom: 0.3547
+  Frame at 125.66s:
+    - Confusion: 0.4456
+    - Boredom: 0.3551
+    - Concentration: 0.3417
+  Frame at 125.99s:
+    - Confusion: 0.4164
+    - Boredom: 0.4034
+    - Calmness: 0.3964
+  Frame at 126.33s:
+    - Confusion: 0.4333
+    - Interest: 0.3724
+    - Concentration: 0.3631
+  Frame at 126.66s:
+    - Confusion: 0.4495
+    - Concentration: 0.4142
+    - Interest: 0.3889
+  Frame at 126.99s:
+    - Confusion: 0.4578
+    - Interest: 0.3624
+    - Concentration: 0.3605
+  Frame at 127.33s:
+    - Confusion: 0.4744
+    - Concentration: 0.3360
+    - Doubt: 0.3115
+  Frame at 127.66s:
+    - Confusion: 0.3999
+    - Awe: 0.3439
+    - Concentration: 0.3360
+
+--------------------------------------------------
+
+Speaker ID: spk_0
+Hume Transcribed Text: who you want to be after you've had your fill, not who you wanna be. Not
+Time: 127.73s - 132.38s
+
+Text Top 3 Emotions:
+  No text emotions data available
+
+Audio Top 3 Emotions:
+  - Anger: 0.4653
+  - Determination: 0.4417
+  - Envy: 0.3717
+
+Video Emotions:
+  Frame at 127.99s:
+    - Awe: 0.3995
+    - Confusion: 0.3872
+    - Surprise (positive): 0.3032
+  Frame at 128.33s:
+    - Confusion: 0.4931
+    - Concentration: 0.4270
+    - Interest: 0.3816
+  Frame at 128.66s:
+    - Interest: 0.5366
+    - Desire: 0.4723
+    - Amusement: 0.3751
+  Frame at 129.00s:
+    - Excitement: 0.4176
+    - Amusement: 0.4126
+    - Joy: 0.3200
+  Frame at 129.33s:
+    - Confusion: 0.4222
+    - Interest: 0.3823
+    - Calmness: 0.3599
+  Frame at 129.66s:
+    - Tiredness: 0.6163
+    - Calmness: 0.5226
+    - Satisfaction: 0.4995
+  Frame at 130.00s:
+    - Confusion: 0.4778
+    - Boredom: 0.3765
+    - Calmness: 0.3723
+  Frame at 130.33s:
+    - Interest: 0.4385
+    - Desire: 0.3889
+    - Amusement: 0.3491
+  Frame at 130.66s:
+    - Confusion: 0.4726
+    - Boredom: 0.3577
+    - Concentration: 0.3225
+  Frame at 131.00s:
+    - Confusion: 0.4612
+    - Concentration: 0.3457
+    - Interest: 0.3437
+  Frame at 131.33s:
+    - Confusion: 0.4154
+    - Boredom: 0.3760
+    - Desire: 0.3505
+  Frame at 131.66s:
+    - Calmness: 0.6831
+    - Concentration: 0.5159
+    - Boredom: 0.5111
+  Frame at 132.00s:
+    - Confusion: 0.3983
+    - Boredom: 0.3476
+    - Awe: 0.3194
+  Frame at 132.33s:
+    - Tiredness: 0.5244
+    - Calmness: 0.4304
+    - Boredom: 0.3551
+
+--------------------------------------------------
+
+Speaker ID: spk_0
+Hume Transcribed Text: who you wanna be is not recommended for people with multiple personality disorders. Not
+Time: 132.38s - 136.85s
+
+Text Top 3 Emotions:
+  No text emotions data available
+
+Audio Top 3 Emotions:
+  - Determination: 0.4790
+  - Contempt: 0.2584
+  - Interest: 0.2471
+
+Video Emotions:
+  Frame at 132.67s:
+    - Boredom: 0.6274
+    - Calmness: 0.5846
+    - Concentration: 0.5639
+  Frame at 133.00s:
+    - Desire: 0.5425
+    - Interest: 0.4358
+    - Concentration: 0.3877
+  Frame at 133.33s:
+    - Boredom: 0.5822
+    - Calmness: 0.5445
+    - Concentration: 0.5349
+  Frame at 133.67s:
+    - Confusion: 0.4956
+    - Concentration: 0.4210
+    - Calmness: 0.3705
+  Frame at 134.00s:
+    - Confusion: 0.4470
+    - Concentration: 0.3948
+    - Interest: 0.3454
+  Frame at 134.33s:
+    - Confusion: 0.4539
+    - Concentration: 0.3768
+    - Doubt: 0.3281
+  Frame at 134.67s:
+    - Confusion: 0.4921
+    - Concentration: 0.3470
+    - Boredom: 0.3415
+  Frame at 135.00s:
+    - Desire: 0.5621
+    - Interest: 0.5439
+    - Amusement: 0.3875
+  Frame at 135.34s:
+    - Interest: 0.4376
+    - Concentration: 0.4354
+    - Confusion: 0.4174
+  Frame at 135.67s:
+    - Interest: 0.4309
+    - Confusion: 0.4134
+    - Concentration: 0.4132
+  Frame at 136.00s:
+    - Interest: 0.4436
+    - Amusement: 0.3539
+    - Confusion: 0.3449
+  Frame at 136.34s:
+    - Satisfaction: 0.6199
+    - Joy: 0.4609
+    - Ecstasy: 0.4533
+  Frame at 136.67s:
+    - Tiredness: 0.3493
+    - Boredom: 0.2905
+    - Awe: 0.2760
+
+--------------------------------------------------
+
+Speaker ID: spk_0
+Hume Transcribed Text: who you wanna be. For when you feel like you're just not good enough. Thank
+Time: 136.85s - 140.43s
+
+Text Top 3 Emotions:
+  No text emotions data available
+
+Audio Top 3 Emotions:
+  - Disappointment: 0.2466
+  - Contempt: 0.2210
+  - Sympathy: 0.2006
+
+Video Emotions:
+  Frame at 137.00s:
+    - Confusion: 0.3707
+    - Interest: 0.3232
+    - Boredom: 0.2888
+  Frame at 137.34s:
+    - Confusion: 0.3509
+    - Amusement: 0.2925
+    - Interest: 0.2723
+  Frame at 137.67s:
+    - Confusion: 0.4585
+    - Concentration: 0.3722
+    - Boredom: 0.3590
+  Frame at 138.00s:
+    - Confusion: 0.6707
+    - Doubt: 0.4242
+    - Concentration: 0.3798
+  Frame at 138.34s:
+    - Confusion: 0.4740
+    - Interest: 0.2984
+    - Doubt: 0.2876
+  Frame at 138.67s:
+    - Confusion: 0.4873
+    - Interest: 0.3536
+    - Doubt: 0.3278
+  Frame at 139.01s:
+    - Confusion: 0.4707
+    - Interest: 0.3096
+    - Doubt: 0.2981
+  Frame at 139.34s:
+    - Interest: 0.4520
+    - Calmness: 0.3863
+    - Concentration: 0.3651
+  Frame at 139.67s:
+    - Interest: 0.4556
+    - Calmness: 0.4353
+    - Amusement: 0.3557
+  Frame at 140.01s:
+    - Satisfaction: 0.5564
+    - Joy: 0.4481
+    - Calmness: 0.4434
+  Frame at 140.34s:
+    - Interest: 0.5330
+    - Amusement: 0.5013
+    - Desire: 0.4820
+
+--------------------------------------------------
+
+Speaker ID: spk_0
+Hume Transcribed Text: you. For
+Time: 140.43s - 141.27s
+
+Text Top 3 Emotions:
+  No text emotions data available
+
+Audio Top 3 Emotions:
+  - Calmness: 0.3296
+  - Satisfaction: 0.2456
+  - Relief: 0.2014
+
+Video Emotions:
+  Frame at 140.67s:
+    - Calmness: 0.4543
+    - Interest: 0.3417
+    - Concentration: 0.3126
+  Frame at 141.01s:
+    - Calmness: 0.4729
+    - Tiredness: 0.3520
+    - Satisfaction: 0.3131
+
+--------------------------------------------------
+

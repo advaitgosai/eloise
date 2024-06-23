@@ -1,0 +1,4412 @@
+Speaker ID: spk_0
+Hume Transcribed Text: So what do you wanna do today?
+Youtuve Transcribed Text (what we use for the text emotions): So, what do you wanna do today?
+Time: 5.55s - 6.59s
+
+Text Top 3 Emotions:
+  - Interest: 0.8063
+  - Enthusiasm: 0.2223
+  - Calmness: 0.1937
+
+Audio Top 3 Emotions:
+  - Interest: 0.7208
+  - Confusion: 0.3409
+  - Excitement: 0.2057
+
+Video Emotions:
+  Frame at 5.67s:
+    - Pain: 0.4279
+    - Joy: 0.3810
+    - Sadness: 0.3778
+  Frame at 5.67s:
+    - Calmness: 0.4896
+    - Satisfaction: 0.4331
+    - Joy: 0.3064
+  Frame at 6.01s:
+    - Joy: 0.4975
+    - Amusement: 0.4799
+    - Interest: 0.3863
+  Frame at 6.01s:
+    - Interest: 0.4583
+    - Concentration: 0.3736
+    - Calmness: 0.3311
+  Frame at 6.34s:
+    - Joy: 0.6821
+    - Amusement: 0.6407
+    - Love: 0.4687
+  Frame at 6.34s:
+    - Interest: 0.4519
+    - Amusement: 0.3717
+    - Joy: 0.3393
+
+--------------------------------------------------
+
+Speaker ID: spk_0
+Hume Transcribed Text: She check out some museums and then go have some lunch and maybe go shopping afterwards.
+Youtuve Transcribed Text (what we use for the text emotions): Shall we check out some museums and go have some lunch.
+Time: 8.44s - 12.28s
+
+Text Top 3 Emotions:
+  - Interest: 0.7163
+  - Enthusiasm: 0.5857
+  - Excitement: 0.2675
+
+Audio Top 3 Emotions:
+  - Interest: 0.5332
+  - Excitement: 0.4449
+  - Satisfaction: 0.2906
+
+Video Emotions:
+  Frame at 8.68s:
+    - Joy: 0.7122
+    - Amusement: 0.6764
+    - Love: 0.5029
+  Frame at 8.68s:
+    - Joy: 0.6126
+    - Amusement: 0.5448
+    - Satisfaction: 0.4857
+  Frame at 9.01s:
+    - Joy: 0.6916
+    - Amusement: 0.6467
+    - Love: 0.5025
+  Frame at 9.01s:
+    - Satisfaction: 0.4579
+    - Joy: 0.4266
+    - Amusement: 0.3944
+  Frame at 9.34s:
+    - Joy: 0.6561
+    - Amusement: 0.6165
+    - Love: 0.4785
+  Frame at 9.34s:
+    - Interest: 0.3683
+    - Amusement: 0.3427
+    - Satisfaction: 0.3347
+  Frame at 9.68s:
+    - Joy: 0.5816
+    - Amusement: 0.5390
+    - Love: 0.4766
+  Frame at 9.68s:
+    - Amusement: 0.3908
+    - Joy: 0.3711
+    - Satisfaction: 0.3609
+  Frame at 10.01s:
+    - Confusion: 0.3609
+    - Sadness: 0.2969
+    - Pain: 0.2955
+  Frame at 10.01s:
+    - Amusement: 0.4840
+    - Joy: 0.4618
+    - Interest: 0.3979
+  Frame at 10.34s:
+    - Joy: 0.4000
+    - Amusement: 0.3813
+    - Interest: 0.3403
+  Frame at 10.34s:
+    - Interest: 0.4181
+    - Amusement: 0.3875
+    - Joy: 0.3473
+  Frame at 10.68s:
+    - Confusion: 0.3430
+    - Sadness: 0.3313
+    - Pain: 0.3119
+  Frame at 10.68s:
+    - Interest: 0.4203
+    - Amusement: 0.3579
+    - Joy: 0.2972
+  Frame at 11.01s:
+    - Joy: 0.3437
+    - Love: 0.3225
+    - Amusement: 0.3149
+  Frame at 11.01s:
+    - Satisfaction: 0.6329
+    - Calmness: 0.5577
+    - Relief: 0.4427
+  Frame at 11.34s:
+    - Pain: 0.3608
+    - Sadness: 0.3381
+    - Confusion: 0.2944
+  Frame at 11.34s:
+    - Interest: 0.3718
+    - Calmness: 0.3327
+    - Amusement: 0.3219
+  Frame at 11.68s:
+    - Interest: 0.4138
+    - Joy: 0.3975
+    - Amusement: 0.3760
+  Frame at 11.68s:
+    - Interest: 0.3758
+    - Awe: 0.3417
+    - Confusion: 0.3063
+  Frame at 12.01s:
+    - Interest: 0.3889
+    - Calmness: 0.3595
+    - Confusion: 0.3518
+  Frame at 12.01s:
+    - Interest: 0.4641
+    - Amusement: 0.4038
+    - Joy: 0.3726
+
+--------------------------------------------------
+
+Speaker ID: spk_0
+Hume Transcribed Text: Okay. Cool. Anything that doesn't involve your mom? That'd be good.
+Youtuve Transcribed Text (what we use for the text emotions): Maybe go shopping afterwards.
+Time: 13.08s - 16.44s
+
+Text Top 3 Emotions:
+  - Interest: 0.7205
+  - Enthusiasm: 0.5629
+  - Excitement: 0.2527
+
+Audio Top 3 Emotions:
+  - Interest: 0.4416
+  - Satisfaction: 0.2876
+  - Excitement: 0.2433
+
+Video Emotions:
+  Frame at 13.35s:
+    - Confusion: 0.3463
+    - Sadness: 0.3324
+    - Pain: 0.3156
+  Frame at 13.35s:
+    - Interest: 0.3993
+    - Calmness: 0.3567
+    - Confusion: 0.3503
+  Frame at 13.68s:
+    - Confusion: 0.4173
+    - Disappointment: 0.3321
+    - Sadness: 0.3267
+  Frame at 13.68s:
+    - Concentration: 0.4144
+    - Calmness: 0.3853
+    - Interest: 0.3576
+  Frame at 14.01s:
+    - Pain: 0.3896
+    - Sadness: 0.3802
+    - Confusion: 0.3545
+  Frame at 14.01s:
+    - Interest: 0.4734
+    - Concentration: 0.3853
+    - Calmness: 0.3705
+  Frame at 14.35s:
+    - Joy: 0.7525
+    - Amusement: 0.7490
+    - Love: 0.5634
+  Frame at 14.35s:
+    - Concentration: 0.4212
+    - Interest: 0.3956
+    - Confusion: 0.3660
+  Frame at 14.68s:
+    - Joy: 0.7107
+    - Amusement: 0.6932
+    - Love: 0.5240
+  Frame at 14.68s:
+    - Interest: 0.3354
+    - Calmness: 0.3229
+    - Concentration: 0.3166
+  Frame at 15.02s:
+    - Joy: 0.7155
+    - Amusement: 0.7081
+    - Love: 0.6239
+  Frame at 15.02s:
+    - Interest: 0.3859
+    - Confusion: 0.3179
+    - Concentration: 0.3016
+  Frame at 15.35s:
+    - Joy: 0.7400
+    - Amusement: 0.7231
+    - Love: 0.6195
+  Frame at 15.35s:
+    - Calmness: 0.4132
+    - Satisfaction: 0.4061
+    - Joy: 0.2956
+  Frame at 15.68s:
+    - Joy: 0.7707
+    - Amusement: 0.7551
+    - Love: 0.7545
+  Frame at 15.68s:
+    - Interest: 0.3600
+    - Amusement: 0.3138
+    - Confusion: 0.2794
+  Frame at 16.02s:
+    - Joy: 0.6730
+    - Amusement: 0.6552
+    - Love: 0.6534
+  Frame at 16.02s:
+    - Interest: 0.3862
+    - Concentration: 0.3450
+    - Confusion: 0.3046
+  Frame at 16.35s:
+    - Joy: 0.7693
+    - Amusement: 0.7423
+    - Love: 0.6027
+  Frame at 16.35s:
+    - Interest: 0.3832
+    - Amusement: 0.3792
+    - Joy: 0.3146
+
+--------------------------------------------------
+
+Speaker ID: spk_0
+Hume Transcribed Text: You say, like, it's a joke.
+Youtuve Transcribed Text (what we use for the text emotions): Okay.
+Time: 17.25s - 18.53s
+
+Text Top 3 Emotions:
+  - Interest: 0.7437
+  - Enthusiasm: 0.5543
+  - Calmness: 0.2614
+
+Audio Top 3 Emotions:
+  - Contempt: 0.6098
+  - Anger: 0.5325
+  - Disgust: 0.4600
+
+Video Emotions:
+  Frame at 17.32s:
+    - Joy: 0.7948
+    - Amusement: 0.7723
+    - Love: 0.6517
+  Frame at 17.32s:
+    - Interest: 0.4954
+    - Calmness: 0.4712
+    - Love: 0.3795
+  Frame at 17.65s:
+    - Joy: 0.7838
+    - Amusement: 0.7670
+    - Love: 0.6710
+  Frame at 17.65s:
+    - Interest: 0.4971
+    - Amusement: 0.3571
+    - Concentration: 0.3481
+  Frame at 17.98s:
+    - Joy: 0.8433
+    - Amusement: 0.8331
+    - Love: 0.6620
+  Frame at 17.98s:
+    - Interest: 0.5250
+    - Amusement: 0.4406
+    - Joy: 0.3870
+  Frame at 18.32s:
+    - Joy: 0.8551
+    - Amusement: 0.8400
+    - Love: 0.6629
+  Frame at 18.32s:
+    - Awe: 0.4727
+    - Interest: 0.3686
+    - Surprise (positive): 0.3558
+
+--------------------------------------------------
+
+Speaker ID: unknown
+Hume Transcribed Text: I can't believe you just I'm just joking right. Yeah. It's really funny.
+Youtuve Transcribed Text (what we use for the text emotions): So, what do you wanna do today?
+Time: 19.41s - 22.13s
+
+Text Top 3 Emotions:
+  - Interest: 0.8063
+  - Enthusiasm: 0.2223
+  - Calmness: 0.1937
+
+Audio Top 3 Emotions:
+  - Amusement: 0.9121
+  - Satisfaction: 0.2777
+  - Joy: 0.2217
+
+Video Emotions:
+  Frame at 19.65s:
+    - Joy: 0.7408
+    - Amusement: 0.7025
+    - Love: 0.5310
+  Frame at 19.65s:
+    - Calmness: 0.6461
+    - Satisfaction: 0.6367
+    - Contentment: 0.4213
+  Frame at 19.99s:
+    - Calmness: 0.3205
+    - Sadness: 0.3099
+    - Confusion: 0.3032
+  Frame at 19.99s:
+    - Satisfaction: 0.5953
+    - Joy: 0.4177
+    - Calmness: 0.4022
+  Frame at 20.32s:
+    - Joy: 0.4729
+    - Amusement: 0.4361
+    - Love: 0.4336
+  Frame at 20.32s:
+    - Amusement: 0.4740
+    - Joy: 0.4513
+    - Interest: 0.4366
+  Frame at 20.65s:
+    - Calmness: 0.4183
+    - Satisfaction: 0.3360
+    - Joy: 0.3278
+  Frame at 20.65s:
+    - Interest: 0.5266
+    - Concentration: 0.4318
+    - Desire: 0.3583
+  Frame at 20.99s:
+    - Calmness: 0.3824
+    - Interest: 0.3158
+    - Concentration: 0.3147
+  Frame at 20.99s:
+    - Interest: 0.4830
+    - Amusement: 0.3681
+    - Concentration: 0.3116
+  Frame at 21.32s:
+    - Calmness: 0.3587
+    - Interest: 0.3315
+    - Confusion: 0.3229
+  Frame at 21.32s:
+    - Amusement: 0.3639
+    - Excitement: 0.3467
+    - Awe: 0.3048
+  Frame at 21.65s:
+    - Sadness: 0.3288
+    - Joy: 0.3210
+    - Pain: 0.3154
+  Frame at 21.65s:
+    - Amusement: 0.3760
+    - Interest: 0.3607
+    - Satisfaction: 0.3013
+  Frame at 21.99s:
+    - Disappointment: 0.3794
+    - Sadness: 0.3791
+    - Calmness: 0.3510
+  Frame at 21.99s:
+    - Interest: 0.4922
+    - Amusement: 0.4351
+    - Joy: 0.3773
+
+--------------------------------------------------
+
+Speaker ID: spk_0
+Hume Transcribed Text: You've been so miserable this whole time. Like, no Come on. I mean, I'm just
+Youtuve Transcribed Text (what we use for the text emotions): Cool!
+Time: 23.17s - 26.75s
+
+Text Top 3 Emotions:
+  - Interest: 0.7333
+  - Enthusiasm: 0.6604
+  - Excitement: 0.3253
+
+Audio Top 3 Emotions:
+  - Distress: 0.2996
+  - Disappointment: 0.2576
+  - Embarrassment: 0.2179
+
+Video Emotions:
+  Frame at 23.32s:
+    - Sadness: 0.4089
+    - Disappointment: 0.3564
+    - Concentration: 0.3460
+  Frame at 23.32s:
+    - Interest: 0.4448
+    - Amusement: 0.4091
+    - Joy: 0.3107
+  Frame at 23.66s:
+    - Sadness: 0.3985
+    - Confusion: 0.3620
+    - Pain: 0.3561
+  Frame at 23.66s:
+    - Calmness: 0.4711
+    - Interest: 0.3981
+    - Concentration: 0.3629
+  Frame at 23.99s:
+    - Sadness: 0.3688
+    - Confusion: 0.3487
+    - Pain: 0.3277
+  Frame at 23.99s:
+    - Calmness: 0.4670
+    - Concentration: 0.3311
+    - Satisfaction: 0.3288
+  Frame at 24.32s:
+    - Sadness: 0.5367
+    - Pain: 0.5277
+    - Distress: 0.4088
+  Frame at 24.32s:
+    - Interest: 0.3863
+    - Awe: 0.3157
+    - Amusement: 0.3125
+  Frame at 24.66s:
+    - Joy: 0.3371
+    - Amusement: 0.3234
+    - Calmness: 0.3227
+  Frame at 24.66s:
+    - Awe: 0.4164
+    - Amusement: 0.3613
+    - Excitement: 0.3542
+  Frame at 24.99s:
+    - Confusion: 0.3391
+    - Interest: 0.3378
+    - Calmness: 0.3187
+  Frame at 24.99s:
+    - Satisfaction: 0.7037
+    - Joy: 0.5927
+    - Love: 0.4579
+  Frame at 25.33s:
+    - Pain: 0.3984
+    - Sadness: 0.2976
+    - Joy: 0.2691
+  Frame at 25.33s:
+    - Satisfaction: 0.5925
+    - Desire: 0.4761
+    - Joy: 0.3654
+  Frame at 25.66s:
+    - Pain: 0.3851
+    - Sadness: 0.3629
+    - Confusion: 0.3080
+  Frame at 25.66s:
+    - Desire: 0.5968
+    - Satisfaction: 0.5449
+    - Calmness: 0.3586
+  Frame at 25.99s:
+    - Pain: 0.3329
+    - Amusement: 0.3230
+    - Sadness: 0.3206
+  Frame at 25.99s:
+    - Concentration: 0.4576
+    - Desire: 0.4377
+    - Interest: 0.4275
+  Frame at 26.33s:
+    - Amusement: 0.3265
+    - Confusion: 0.3237
+    - Joy: 0.3086
+  Frame at 26.33s:
+    - Interest: 0.3596
+    - Concentration: 0.3305
+    - Confusion: 0.3303
+  Frame at 26.66s:
+    - Interest: 0.3712
+    - Confusion: 0.3520
+    - Calmness: 0.3126
+  Frame at 26.66s:
+    - Confusion: 0.2987
+    - Awe: 0.2911
+    - Interest: 0.2844
+
+--------------------------------------------------
+
+Speaker ID: unknown
+Hume Transcribed Text: really. I mean, the pair of you have been kept. Like, my mom who
+Youtuve Transcribed Text (what we use for the text emotions): Shall we check out some museums and go have some lunch.
+Time: 27.58s - 30.52s
+
+Text Top 3 Emotions:
+  - Interest: 0.7163
+  - Enthusiasm: 0.5857
+  - Excitement: 0.2675
+
+Audio Top 3 Emotions:
+  - Interest: 0.0726
+  - Anger: 0.0677
+  - Disappointment: 0.0526
+
+Video Emotions:
+  Frame at 27.66s:
+    - Amusement: 0.4816
+    - Joy: 0.4627
+    - Interest: 0.4003
+  Frame at 27.66s:
+    - Interest: 0.3520
+    - Confusion: 0.3054
+    - Amusement: 0.2837
+  Frame at 27.99s:
+    - Amusement: 0.3995
+    - Joy: 0.3735
+    - Interest: 0.3723
+  Frame at 27.99s:
+    - Interest: 0.3620
+    - Amusement: 0.3478
+    - Joy: 0.2958
+  Frame at 28.33s:
+    - Interest: 0.4328
+    - Calmness: 0.4317
+    - Concentration: 0.3551
+  Frame at 28.33s:
+    - Amusement: 0.4242
+    - Interest: 0.4070
+    - Joy: 0.3659
+  Frame at 28.66s:
+    - Joy: 0.4220
+    - Amusement: 0.4181
+    - Interest: 0.4135
+  Frame at 28.66s:
+    - Interest: 0.3831
+    - Confusion: 0.3076
+    - Concentration: 0.3027
+  Frame at 29.00s:
+    - Concentration: 0.4075
+    - Confusion: 0.3437
+    - Interest: 0.3345
+  Frame at 29.00s:
+    - Interest: 0.4410
+    - Amusement: 0.4286
+    - Joy: 0.3717
+  Frame at 29.33s:
+    - Satisfaction: 0.5580
+    - Calmness: 0.4169
+    - Relief: 0.3374
+  Frame at 29.66s:
+    - Interest: 0.3152
+    - Calmness: 0.3063
+    - Concentration: 0.3058
+  Frame at 29.66s:
+    - Desire: 0.6477
+    - Satisfaction: 0.6195
+    - Calmness: 0.4229
+  Frame at 30.00s:
+    - Amusement: 0.5137
+    - Joy: 0.4951
+    - Excitement: 0.4390
+  Frame at 30.00s:
+    - Satisfaction: 0.7048
+    - Desire: 0.5397
+    - Calmness: 0.4746
+  Frame at 30.33s:
+    - Interest: 0.3739
+    - Amusement: 0.3434
+    - Joy: 0.3239
+  Frame at 30.33s:
+    - Satisfaction: 0.5609
+    - Calmness: 0.4722
+    - Tiredness: 0.3833
+
+--------------------------------------------------
+
+Speaker ID: spk_0
+Hume Transcribed Text: she has, and I never promised that she was gonna be, like, the sweetest... Sweet
+Youtuve Transcribed Text (what we use for the text emotions): Anything that doesn't involve your mom, huh?
+Time: 30.52s - 34.76s
+
+Text Top 3 Emotions:
+  - Interest: 0.7518
+  - Enthusiasm: 0.2692
+  - Contemplation: 0.2575
+
+Audio Top 3 Emotions:
+  - Admiration: 0.5141
+  - Adoration: 0.2039
+  - Amusement: 0.1878
+
+Video Emotions:
+  Frame at 30.66s:
+    - Confusion: 0.3648
+    - Interest: 0.3505
+    - Amusement: 0.2996
+  Frame at 30.66s:
+    - Desire: 0.6435
+    - Interest: 0.5310
+    - Craving: 0.3689
+  Frame at 31.00s:
+    - Interest: 0.3993
+    - Calmness: 0.3829
+    - Joy: 0.3509
+  Frame at 31.00s:
+    - Interest: 0.5090
+    - Desire: 0.5016
+    - Concentration: 0.3726
+  Frame at 31.33s:
+    - Calmness: 0.4286
+    - Concentration: 0.3916
+    - Interest: 0.3694
+  Frame at 31.33s:
+    - Confusion: 0.4050
+    - Concentration: 0.3796
+    - Interest: 0.3759
+  Frame at 31.66s:
+    - Confusion: 0.3842
+    - Concentration: 0.3710
+    - Disappointment: 0.3459
+  Frame at 31.66s:
+    - Concentration: 0.4439
+    - Interest: 0.4399
+    - Calmness: 0.3437
+  Frame at 32.00s:
+    - Sadness: 0.4597
+    - Pain: 0.4321
+    - Distress: 0.4243
+  Frame at 32.00s:
+    - Concentration: 0.3697
+    - Interest: 0.3593
+    - Confusion: 0.3345
+  Frame at 32.33s:
+    - Sadness: 0.4213
+    - Distress: 0.3962
+    - Disappointment: 0.3894
+  Frame at 32.33s:
+    - Interest: 0.4535
+    - Concentration: 0.3593
+    - Amusement: 0.3125
+  Frame at 32.67s:
+    - Confusion: 0.3354
+    - Disappointment: 0.3291
+    - Sadness: 0.3240
+  Frame at 32.67s:
+    - Concentration: 0.5228
+    - Interest: 0.5213
+    - Desire: 0.4844
+  Frame at 33.00s:
+    - Pain: 0.4968
+    - Sadness: 0.4902
+    - Distress: 0.3948
+  Frame at 33.00s:
+    - Concentration: 0.7037
+    - Contemplation: 0.5190
+    - Interest: 0.5027
+  Frame at 33.33s:
+    - Interest: 0.4713
+    - Concentration: 0.4275
+    - Desire: 0.3597
+  Frame at 33.33s:
+    - Sadness: 0.4102
+    - Disappointment: 0.3649
+    - Pain: 0.3470
+  Frame at 33.67s:
+    - Pain: 0.4531
+    - Sadness: 0.4494
+    - Distress: 0.3627
+  Frame at 33.67s:
+    - Amusement: 0.2876
+    - Interest: 0.2832
+    - Confusion: 0.2681
+  Frame at 34.00s:
+    - Sadness: 0.4072
+    - Pain: 0.3871
+    - Confusion: 0.3731
+  Frame at 34.00s:
+    - Interest: 0.4555
+    - Concentration: 0.4221
+    - Calmness: 0.3795
+  Frame at 34.33s:
+    - Joy: 0.3501
+    - Calmness: 0.3456
+    - Satisfaction: 0.3313
+  Frame at 34.33s:
+    - Concentration: 0.4723
+    - Calmness: 0.4562
+    - Boredom: 0.3590
+  Frame at 34.67s:
+    - Joy: 0.7883
+    - Amusement: 0.7792
+    - Love: 0.5455
+  Frame at 34.67s:
+    - Concentration: 0.4354
+    - Interest: 0.4124
+    - Calmness: 0.3494
+
+--------------------------------------------------
+
+Speaker ID: spk_0
+Hume Transcribed Text: versus to you, but he doesn't mean ever sit there all, like,
+Youtuve Transcribed Text (what we use for the text emotions): That'd be good!
+Time: 34.76s - 37.88s
+
+Text Top 3 Emotions:
+  - Interest: 0.6929
+  - Enthusiasm: 0.5473
+  - Excitement: 0.3157
+
+Audio Top 3 Emotions:
+  - Interest: 0.0925
+  - Awkwardness: 0.0904
+  - Distress: 0.0811
+
+Video Emotions:
+  Frame at 35.00s:
+    - Joy: 0.7993
+    - Amusement: 0.7853
+    - Love: 0.6501
+  Frame at 35.00s:
+    - Concentration: 0.6615
+    - Contemplation: 0.6100
+    - Interest: 0.5204
+  Frame at 35.34s:
+    - Amusement: 0.7696
+    - Joy: 0.6949
+    - Excitement: 0.6255
+  Frame at 35.34s:
+    - Interest: 0.4861
+    - Concentration: 0.4225
+    - Desire: 0.3423
+  Frame at 35.67s:
+    - Amusement: 0.5742
+    - Joy: 0.5268
+    - Interest: 0.4230
+  Frame at 35.67s:
+    - Amusement: 0.4393
+    - Interest: 0.4341
+    - Joy: 0.3385
+  Frame at 36.00s:
+    - Amusement: 0.6712
+    - Joy: 0.6687
+    - Excitement: 0.4571
+  Frame at 36.00s:
+    - Desire: 0.5634
+    - Satisfaction: 0.3149
+    - Amusement: 0.2905
+  Frame at 36.34s:
+    - Amusement: 0.5309
+    - Joy: 0.5226
+    - Excitement: 0.4062
+  Frame at 36.34s:
+    - Desire: 0.8458
+    - Satisfaction: 0.6241
+    - Calmness: 0.3561
+  Frame at 36.67s:
+    - Amusement: 0.4874
+    - Interest: 0.4797
+    - Calmness: 0.3654
+  Frame at 36.67s:
+    - Interest: 0.3754
+    - Awe: 0.3431
+    - Amusement: 0.3221
+  Frame at 37.00s:
+    - Calmness: 0.4799
+    - Interest: 0.4316
+    - Concentration: 0.3943
+  Frame at 37.00s:
+    - Interest: 0.4313
+    - Amusement: 0.3434
+    - Concentration: 0.3080
+  Frame at 37.34s:
+    - Amusement: 0.7446
+    - Joy: 0.6961
+    - Excitement: 0.4966
+  Frame at 37.34s:
+    - Awe: 0.3488
+    - Confusion: 0.3188
+    - Interest: 0.2834
+  Frame at 37.67s:
+    - Amusement: 0.7071
+    - Joy: 0.6613
+    - Excitement: 0.4717
+  Frame at 37.67s:
+    - Interest: 0.5014
+    - Amusement: 0.4283
+    - Joy: 0.3445
+
+--------------------------------------------------
+
+Speaker ID: unknown
+Hume Transcribed Text: mop and angry the whole time. I both.
+Youtuve Transcribed Text (what we use for the text emotions): Maybe go shopping afterwards.
+Time: 38.20s - 40.46s
+
+Text Top 3 Emotions:
+  - Interest: 0.7205
+  - Enthusiasm: 0.5629
+  - Excitement: 0.2527
+
+Audio Top 3 Emotions:
+  - Anger: 0.8176
+  - Distress: 0.3210
+  - Determination: 0.1926
+
+Video Emotions:
+  Frame at 38.34s:
+    - Amusement: 0.5101
+    - Joy: 0.4981
+    - Excitement: 0.3756
+  Frame at 38.34s:
+    - Concentration: 0.5384
+    - Calmness: 0.4742
+    - Boredom: 0.3768
+  Frame at 38.67s:
+    - Joy: 0.4899
+    - Amusement: 0.4886
+    - Pain: 0.3562
+  Frame at 38.67s:
+    - Interest: 0.4509
+    - Amusement: 0.4033
+    - Joy: 0.3309
+  Frame at 39.01s:
+    - Pain: 0.5799
+    - Sadness: 0.5254
+    - Distress: 0.3717
+  Frame at 39.01s:
+    - Interest: 0.4529
+    - Concentration: 0.4149
+    - Calmness: 0.2843
+  Frame at 39.34s:
+    - Awe: 0.3622
+    - Excitement: 0.3218
+    - Amusement: 0.3156
+  Frame at 39.67s:
+    - Pain: 0.3870
+    - Sadness: 0.3594
+    - Distress: 0.2989
+  Frame at 39.67s:
+    - Satisfaction: 0.5066
+    - Desire: 0.4301
+    - Calmness: 0.3984
+  Frame at 40.01s:
+    - Confusion: 0.3799
+    - Concentration: 0.3247
+    - Calmness: 0.3111
+  Frame at 40.01s:
+    - Concentration: 0.4261
+    - Calmness: 0.3967
+    - Interest: 0.3766
+  Frame at 40.34s:
+    - Joy: 0.5879
+    - Amusement: 0.5475
+    - Love: 0.3916
+  Frame at 40.34s:
+    - Concentration: 0.4395
+    - Interest: 0.4248
+    - Confusion: 0.3024
+
+--------------------------------------------------
+
+Speaker ID: unknown
+Hume Transcribed Text: This has just been totally
+Youtuve Transcribed Text (what we use for the text emotions): Okay.
+Time: 40.84s - 42.58s
+
+Text Top 3 Emotions:
+  - Interest: 0.7437
+  - Enthusiasm: 0.5543
+  - Calmness: 0.2614
+
+Audio Top 3 Emotions:
+  - Anger: 0.8020
+  - Distress: 0.3470
+  - Contempt: 0.1936
+
+Video Emotions:
+  Frame at 41.01s:
+    - Interest: 0.4762
+    - Concentration: 0.4000
+    - Desire: 0.3330
+  Frame at 41.34s:
+    - Interest: 0.3807
+    - Amusement: 0.3646
+    - Satisfaction: 0.3057
+  Frame at 41.34s:
+    - Interest: 0.3999
+    - Concentration: 0.3401
+    - Amusement: 0.2892
+  Frame at 41.67s:
+    - Interest: 0.5519
+    - Desire: 0.5154
+    - Concentration: 0.3826
+  Frame at 41.67s:
+    - Desire: 0.7345
+    - Satisfaction: 0.4024
+    - Calmness: 0.3143
+  Frame at 42.01s:
+    - Satisfaction: 0.6427
+    - Desire: 0.5396
+    - Calmness: 0.4276
+  Frame at 42.01s:
+    - Calmness: 0.6345
+    - Satisfaction: 0.4836
+    - Tiredness: 0.3811
+  Frame at 42.34s:
+    - Joy: 0.4769
+    - Amusement: 0.4535
+    - Satisfaction: 0.3996
+  Frame at 42.34s:
+    - Concentration: 0.4897
+    - Calmness: 0.4015
+    - Interest: 0.3772
+
+--------------------------------------------------
+
+Speaker ID: spk_1
+Hume Transcribed Text: Oh, this is so
+Youtuve Transcribed Text (what we use for the text emotions): So, what do you wanna do today?
+Time: 43.57s - 44.95s
+
+Text Top 3 Emotions:
+  - Interest: 0.8063
+  - Enthusiasm: 0.2223
+  - Calmness: 0.1937
+
+Audio Top 3 Emotions:
+  - Realization: 0.3084
+  - Surprise (positive): 0.2330
+  - Surprise (negative): 0.1972
+
+Video Emotions:
+  Frame at 43.68s:
+    - Sadness: 0.6456
+    - Pain: 0.5521
+    - Distress: 0.4798
+  Frame at 43.68s:
+    - Satisfaction: 0.3756
+    - Calmness: 0.3140
+    - Joy: 0.2932
+  Frame at 44.01s:
+    - Concentration: 0.4979
+    - Desire: 0.4867
+    - Interest: 0.4366
+  Frame at 44.01s:
+    - Desire: 0.6573
+    - Interest: 0.5175
+    - Concentration: 0.4738
+  Frame at 44.34s:
+    - Confusion: 0.5201
+    - Concentration: 0.3931
+    - Interest: 0.3573
+  Frame at 44.34s:
+    - Interest: 0.4667
+    - Concentration: 0.4410
+    - Desire: 0.3170
+  Frame at 44.68s:
+    - Concentration: 0.5510
+    - Confusion: 0.5257
+    - Boredom: 0.4779
+  Frame at 44.68s:
+    - Concentration: 0.4568
+    - Confusion: 0.3869
+    - Interest: 0.3765
+
+--------------------------------------------------
+
+Speaker ID: spk_1
+Hume Transcribed Text: frustrating,
+Youtuve Transcribed Text (what we use for the text emotions): Shall we check out some museums and go have some lunch.
+Time: 46.53s - 47.03s
+
+Text Top 3 Emotions:
+  - Interest: 0.7163
+  - Enthusiasm: 0.5857
+  - Excitement: 0.2675
+
+Audio Top 3 Emotions:
+  - Anxiety: 0.2876
+  - Distress: 0.2605
+  - Fear: 0.2376
+
+Video Emotions:
+  Frame at 46.68s:
+    - Concentration: 0.5811
+    - Interest: 0.4985
+    - Confusion: 0.4830
+  Frame at 47.01s:
+    - Amusement: 0.4832
+    - Interest: 0.4685
+    - Excitement: 0.4054
+
+--------------------------------------------------
+
+Speaker ID: spk_1
+Hume Transcribed Text: you know,
+Youtuve Transcribed Text (what we use for the text emotions): Maybe go shopping afterwards.
+Time: 47.40s - 47.80s
+
+Text Top 3 Emotions:
+  - Interest: 0.7205
+  - Enthusiasm: 0.5629
+  - Excitement: 0.2527
+
+Audio Top 3 Emotions:
+  - Doubt: 0.2142
+  - Confusion: 0.2061
+  - Surprise (negative): 0.1597
+
+Video Emotions:
+  Frame at 47.68s:
+    - Confusion: 0.4852
+    - Concentration: 0.4413
+    - Interest: 0.4095
+
+--------------------------------------------------
+
+Speaker ID: spk_1
+Hume Transcribed Text: and it's disappointing as well. I read this book.
+Youtuve Transcribed Text (what we use for the text emotions): Okay.
+Time: 48.68s - 51.40s
+
+Text Top 3 Emotions:
+  - Interest: 0.7437
+  - Enthusiasm: 0.5543
+  - Calmness: 0.2614
+
+Audio Top 3 Emotions:
+  - Disappointment: 0.3850
+  - Realization: 0.1919
+  - Excitement: 0.1809
+
+Video Emotions:
+  Frame at 49.02s:
+    - Interest: 0.5397
+    - Desire: 0.4214
+    - Amusement: 0.3550
+  Frame at 49.35s:
+    - Confusion: 0.5271
+    - Concentration: 0.5089
+    - Doubt: 0.4518
+  Frame at 49.68s:
+    - Confusion: 0.5267
+    - Interest: 0.3511
+    - Doubt: 0.3248
+  Frame at 50.02s:
+    - Confusion: 0.3997
+    - Sadness: 0.3824
+    - Pain: 0.3750
+  Frame at 50.32s:
+    - Calmness: 0.3615
+    - Interest: 0.3425
+    - Amusement: 0.3322
+  Frame at 50.65s:
+    - Confusion: 0.4182
+    - Distress: 0.3232
+    - Pain: 0.3111
+  Frame at 50.98s:
+    - Desire: 0.5248
+    - Interest: 0.4895
+    - Concentration: 0.3754
+  Frame at 51.32s:
+    - Confusion: 0.5905
+    - Awe: 0.3789
+    - Doubt: 0.3764
+
+--------------------------------------------------
+
+Speaker ID: spk_1
+Hume Transcribed Text: Non nonviolent communication, a language of life by Marshall Rosenberg.
+Youtuve Transcribed Text (what we use for the text emotions): Cool!
+Time: 52.61s - 55.80s
+
+Text Top 3 Emotions:
+  - Interest: 0.7333
+  - Enthusiasm: 0.6604
+  - Excitement: 0.3253
+
+Audio Top 3 Emotions:
+  - Determination: 0.2454
+  - Calmness: 0.1661
+  - Realization: 0.1615
+
+Video Emotions:
+  Frame at 52.65s:
+    - Awe: 0.5497
+    - Confusion: 0.4836
+    - Surprise (positive): 0.4398
+  Frame at 52.99s:
+    - Confusion: 0.5210
+    - Awe: 0.4407
+    - Surprise (negative): 0.3719
+  Frame at 53.32s:
+    - Confusion: 0.5577
+    - Concentration: 0.4000
+    - Doubt: 0.3775
+  Frame at 53.65s:
+    - Confusion: 0.5345
+    - Interest: 0.3901
+    - Concentration: 0.3559
+  Frame at 53.99s:
+    - Excitement: 0.5195
+    - Awe: 0.4883
+    - Amusement: 0.4824
+  Frame at 54.32s:
+    - Concentration: 0.4321
+    - Interest: 0.4194
+    - Confusion: 0.3732
+  Frame at 54.65s:
+    - Interest: 0.4260
+    - Calmness: 0.3666
+    - Concentration: 0.3609
+  Frame at 54.99s:
+    - Awe: 0.5191
+    - Confusion: 0.4532
+    - Surprise (positive): 0.4246
+  Frame at 55.32s:
+    - Confusion: 0.6012
+    - Doubt: 0.3881
+    - Concentration: 0.3848
+  Frame at 55.66s:
+    - Interest: 0.3919
+    - Confusion: 0.3616
+    - Amusement: 0.3561
+
+--------------------------------------------------
+
+Speaker ID: spk_1
+Hume Transcribed Text: And
+Youtuve Transcribed Text (what we use for the text emotions): Anything that doesn't involve your mom, huh?
+Time: 56.84s - 57.34s
+
+Text Top 3 Emotions:
+  - Interest: 0.7518
+  - Enthusiasm: 0.2692
+  - Contemplation: 0.2575
+
+Audio Top 3 Emotions:
+  - Confusion: 0.1801
+  - Anxiety: 0.1512
+  - Distress: 0.1465
+
+Video Emotions:
+  Frame at 56.99s:
+    - Amusement: 0.6319
+    - Excitement: 0.5698
+    - Joy: 0.5396
+  Frame at 57.32s:
+    - Amusement: 0.6321
+    - Excitement: 0.5740
+    - Joy: 0.5563
+
+--------------------------------------------------
+
+Speaker ID: spk_1
+Hume Transcribed Text: he makes it Sound so easy kinda, you know?
+Youtuve Transcribed Text (what we use for the text emotions): That'd be good!
+Time: 57.95s - 60.74s
+
+Text Top 3 Emotions:
+  - Interest: 0.6929
+  - Enthusiasm: 0.5473
+  - Excitement: 0.3157
+
+Audio Top 3 Emotions:
+  - Sympathy: 0.2278
+  - Amusement: 0.1890
+  - Contemplation: 0.1768
+
+Video Emotions:
+  Frame at 57.99s:
+    - Amusement: 0.6296
+    - Excitement: 0.6017
+    - Joy: 0.5382
+  Frame at 58.32s:
+    - Joy: 0.7485
+    - Amusement: 0.7402
+    - Excitement: 0.5037
+  Frame at 58.66s:
+    - Amusement: 0.5588
+    - Interest: 0.4634
+    - Excitement: 0.4632
+  Frame at 58.99s:
+    - Confusion: 0.4473
+    - Interest: 0.4464
+    - Awe: 0.3437
+  Frame at 59.33s:
+    - Amusement: 0.6768
+    - Excitement: 0.6390
+    - Joy: 0.6034
+  Frame at 59.66s:
+    - Amusement: 0.7412
+    - Joy: 0.7032
+    - Excitement: 0.6088
+  Frame at 59.99s:
+    - Excitement: 0.7060
+    - Amusement: 0.6754
+    - Joy: 0.5766
+  Frame at 60.33s:
+    - Amusement: 0.6137
+    - Excitement: 0.5306
+    - Joy: 0.5161
+  Frame at 60.66s:
+    - Interest: 0.4347
+    - Confusion: 0.4140
+    - Concentration: 0.3659
+
+--------------------------------------------------
+
+Speaker ID: spk_1
+Hume Transcribed Text: Like it can take a long time, but it's basically
+Youtuve Transcribed Text (what we use for the text emotions): You say it like it's a joke.
+Time: 61.70s - 64.66s
+
+Text Top 3 Emotions:
+  - Annoyance: 0.4444
+  - Sarcasm: 0.3761
+  - Disapproval: 0.2746
+
+Audio Top 3 Emotions:
+  - Realization: 0.4845
+  - Contemplation: 0.2856
+  - Determination: 0.1966
+
+Video Emotions:
+  Frame at 62.00s:
+    - Desire: 0.5219
+    - Satisfaction: 0.3832
+    - Amusement: 0.3303
+  Frame at 62.33s:
+    - Interest: 0.5358
+    - Amusement: 0.4120
+    - Desire: 0.3879
+  Frame at 62.66s:
+    - Amusement: 0.5097
+    - Excitement: 0.4655
+    - Interest: 0.4480
+  Frame at 63.00s:
+    - Confusion: 0.4935
+    - Interest: 0.3898
+    - Concentration: 0.3590
+  Frame at 63.33s:
+    - Interest: 0.4202
+    - Amusement: 0.3528
+    - Confusion: 0.3068
+  Frame at 63.66s:
+    - Concentration: 0.5074
+    - Confusion: 0.4355
+    - Interest: 0.4164
+  Frame at 64.00s:
+    - Interest: 0.4831
+    - Concentration: 0.4071
+    - Desire: 0.3457
+  Frame at 64.33s:
+    - Interest: 0.4172
+    - Amusement: 0.3260
+    - Confusion: 0.3016
+
+--------------------------------------------------
+
+Speaker ID: spk_1
+Hume Transcribed Text: simple. It's like, I am empathize with myself, and
+Youtuve Transcribed Text (what we use for the text emotions): I can't believe you just said that.
+Time: 64.66s - 68.17s
+
+Text Top 3 Emotions:
+  - Annoyance: 0.7047
+  - Surprise (negative): 0.4693
+  - Disapproval: 0.4147
+
+Audio Top 3 Emotions:
+  - Calmness: 0.4065
+  - Contemplation: 0.4050
+  - Contentment: 0.2884
+
+Video Emotions:
+  Frame at 64.66s:
+    - Interest: 0.4126
+    - Amusement: 0.3898
+    - Excitement: 0.3574
+  Frame at 65.00s:
+    - Interest: 0.3980
+    - Amusement: 0.3281
+    - Fear: 0.3060
+  Frame at 65.33s:
+    - Fear: 0.5286
+    - Horror: 0.4264
+    - Excitement: 0.3873
+  Frame at 65.67s:
+    - Fear: 0.6740
+    - Horror: 0.5918
+    - Surprise (negative): 0.4139
+  Frame at 66.00s:
+    - Fear: 0.7122
+    - Horror: 0.7051
+    - Surprise (negative): 0.4894
+  Frame at 66.33s:
+    - Interest: 0.5162
+    - Desire: 0.4240
+    - Concentration: 0.4209
+  Frame at 66.67s:
+    - Concentration: 0.4342
+    - Confusion: 0.3993
+    - Interest: 0.3912
+  Frame at 67.00s:
+    - Interest: 0.5342
+    - Amusement: 0.4632
+    - Excitement: 0.3311
+  Frame at 67.33s:
+    - Confusion: 0.5046
+    - Concentration: 0.4250
+    - Doubt: 0.3975
+  Frame at 67.67s:
+    - Interest: 0.4243
+    - Concentration: 0.4216
+    - Confusion: 0.4093
+  Frame at 68.00s:
+    - Desire: 0.4066
+    - Interest: 0.3709
+    - Confusion: 0.3508
+
+--------------------------------------------------
+
+Speaker ID: spk_1
+Hume Transcribed Text: then I empathize with the other person. It and express what's going
+Youtuve Transcribed Text (what we use for the text emotions): Well, I am just joking around.
+Time: 68.17s - 72.17s
+
+Text Top 3 Emotions:
+  - Annoyance: 0.5250
+  - Surprise (negative): 0.3855
+  - Sarcasm: 0.3507
+
+Audio Top 3 Emotions:
+  - Sympathy: 0.4756
+  - Calmness: 0.4335
+  - Concentration: 0.3960
+
+Video Emotions:
+  Frame at 68.33s:
+    - Interest: 0.3919
+    - Amusement: 0.3672
+    - Excitement: 0.3459
+  Frame at 68.67s:
+    - Concentration: 0.4490
+    - Interest: 0.4452
+    - Calmness: 0.3647
+  Frame at 69.00s:
+    - Awe: 0.4790
+    - Confusion: 0.4691
+    - Surprise (positive): 0.3636
+  Frame at 69.34s:
+    - Confusion: 0.4929
+    - Fear: 0.3332
+    - Doubt: 0.3011
+  Frame at 69.67s:
+    - Concentration: 0.4700
+    - Confusion: 0.4579
+    - Doubt: 0.3766
+  Frame at 70.00s:
+    - Confusion: 0.4618
+    - Interest: 0.3676
+    - Concentration: 0.3361
+  Frame at 70.34s:
+    - Confusion: 0.4302
+    - Doubt: 0.3917
+    - Disappointment: 0.3559
+  Frame at 70.67s:
+    - Fear: 0.7692
+    - Horror: 0.7136
+    - Surprise (negative): 0.4629
+  Frame at 71.00s:
+    - Fear: 0.6419
+    - Horror: 0.6030
+    - Surprise (negative): 0.3767
+  Frame at 71.34s:
+    - Calmness: 0.4028
+    - Concentration: 0.3905
+    - Confusion: 0.3853
+  Frame at 71.67s:
+    - Concentration: 0.4393
+    - Interest: 0.4271
+    - Confusion: 0.3989
+  Frame at 72.01s:
+    - Confusion: 0.5361
+    - Awe: 0.3993
+    - Doubt: 0.3443
+
+--------------------------------------------------
+
+Speaker ID: spk_1
+Hume Transcribed Text: on for me. I get in touch with how I'm feeling, what my needs are, what
+Youtuve Transcribed Text (what we use for the text emotions): Yeah, it's really funny.
+Time: 72.17s - 76.56s
+
+Text Top 3 Emotions:
+  - Surprise (negative): 0.4316
+  - Annoyance: 0.4174
+  - Amusement: 0.2617
+
+Audio Top 3 Emotions:
+  - Distress: 0.2444
+  - Anxiety: 0.1867
+  - Sadness: 0.1733
+
+Video Emotions:
+  Frame at 72.34s:
+    - Concentration: 0.4654
+    - Calmness: 0.3717
+    - Boredom: 0.3709
+  Frame at 72.67s:
+    - Confusion: 0.4516
+    - Concentration: 0.4237
+    - Doubt: 0.3665
+  Frame at 73.01s:
+    - Fear: 0.5479
+    - Horror: 0.4778
+    - Awe: 0.4392
+  Frame at 73.34s:
+    - Interest: 0.4116
+    - Confusion: 0.3555
+    - Concentration: 0.3196
+  Frame at 73.67s:
+    - Interest: 0.5099
+    - Desire: 0.4240
+    - Concentration: 0.3478
+  Frame at 74.01s:
+    - Interest: 0.4388
+    - Concentration: 0.3999
+    - Calmness: 0.3574
+  Frame at 74.34s:
+    - Desire: 0.4708
+    - Interest: 0.4651
+    - Amusement: 0.3258
+  Frame at 74.67s:
+    - Interest: 0.4533
+    - Desire: 0.3556
+    - Concentration: 0.3285
+  Frame at 75.01s:
+    - Interest: 0.4067
+    - Amusement: 0.3532
+    - Awe: 0.3291
+  Frame at 75.34s:
+    - Interest: 0.4225
+    - Desire: 0.3598
+    - Amusement: 0.3239
+  Frame at 75.68s:
+    - Fear: 0.3678
+    - Confusion: 0.3423
+    - Awe: 0.3026
+  Frame at 76.01s:
+    - Interest: 0.4311
+    - Confusion: 0.3748
+    - Concentration: 0.3348
+  Frame at 76.34s:
+    - Confusion: 0.4539
+    - Interest: 0.4357
+    - Concentration: 0.3795
+
+--------------------------------------------------
+
+Speaker ID: spk_1
+Hume Transcribed Text: she's feeling what her needs are. It can take a while but
+Youtuve Transcribed Text (what we use for the text emotions): Hahaha
+You've been so miserable this whole time...
+Time: 76.56s - 80.08s
+
+Text Top 3 Emotions:
+  - Sarcasm: 0.4704
+  - Amusement: 0.3896
+  - Annoyance: 0.3573
+
+Audio Top 3 Emotions:
+  - Sympathy: 0.5025
+  - Interest: 0.2779
+  - Contemplation: 0.2655
+
+Video Emotions:
+  Frame at 76.68s:
+    - Confusion: 0.3991
+    - Interest: 0.3640
+    - Doubt: 0.2726
+  Frame at 77.01s:
+    - Interest: 0.5161
+    - Concentration: 0.4068
+    - Confusion: 0.3487
+  Frame at 77.34s:
+    - Awe: 0.5444
+    - Confusion: 0.4680
+    - Surprise (positive): 0.3781
+  Frame at 77.68s:
+    - Interest: 0.4549
+    - Desire: 0.3493
+    - Confusion: 0.3471
+  Frame at 78.01s:
+    - Tiredness: 0.3685
+    - Pain: 0.3381
+    - Desire: 0.3020
+  Frame at 78.34s:
+    - Concentration: 0.5110
+    - Confusion: 0.4588
+    - Doubt: 0.4162
+  Frame at 78.68s:
+    - Concentration: 0.5115
+    - Confusion: 0.4242
+    - Doubt: 0.4065
+  Frame at 79.01s:
+    - Confusion: 0.5618
+    - Doubt: 0.3396
+    - Concentration: 0.2797
+  Frame at 79.35s:
+    - Amusement: 0.3589
+    - Excitement: 0.3446
+    - Interest: 0.3224
+  Frame at 79.68s:
+    - Confusion: 0.6552
+    - Doubt: 0.3936
+    - Concentration: 0.3614
+  Frame at 80.01s:
+    - Confusion: 0.5916
+    - Concentration: 0.4829
+    - Doubt: 0.4336
+
+--------------------------------------------------
+
+Speaker ID: spk_1
+Hume Transcribed Text: this is video, so it's gonna be very fast. You'll
+Youtuve Transcribed Text (what we use for the text emotions): like...
+Time: 80.08s - 83.27s
+
+Text Top 3 Emotions:
+  - Amusement: 0.4765
+  - Sarcasm: 0.3354
+  - Annoyance: 0.2958
+
+Audio Top 3 Emotions:
+  - Interest: 0.5811
+  - Determination: 0.4015
+  - Concentration: 0.3043
+
+Video Emotions:
+  Frame at 80.35s:
+    - Confusion: 0.5233
+    - Concentration: 0.4878
+    - Doubt: 0.4123
+  Frame at 80.68s:
+    - Confusion: 0.6392
+    - Concentration: 0.5054
+    - Doubt: 0.4556
+  Frame at 81.01s:
+    - Concentration: 0.4543
+    - Confusion: 0.4496
+    - Interest: 0.3834
+  Frame at 81.35s:
+    - Awe: 0.4590
+    - Confusion: 0.4096
+    - Interest: 0.3876
+  Frame at 81.68s:
+    - Interest: 0.4234
+    - Confusion: 0.3996
+    - Concentration: 0.3734
+  Frame at 82.02s:
+    - Awe: 0.4752
+    - Surprise (positive): 0.4191
+    - Confusion: 0.3864
+  Frame at 82.35s:
+    - Interest: 0.4307
+    - Concentration: 0.4079
+    - Confusion: 0.3275
+  Frame at 82.68s:
+    - Concentration: 0.4484
+    - Interest: 0.4005
+    - Confusion: 0.3941
+  Frame at 83.02s:
+    - Confusion: 0.5091
+    - Concentration: 0.4685
+    - Interest: 0.3768
+
+--------------------------------------------------
+
+Speaker ID: spk_1
+Hume Transcribed Text: see.
+Youtuve Transcribed Text (what we use for the text emotions): Oh, come on.
+Time: 83.27s - 83.51s
+
+Text Top 3 Emotions:
+  - Amusement: 0.5376
+  - Sarcasm: 0.4177
+  - Annoyance: 0.2468
+
+Audio Top 3 Emotions:
+  - Determination: 0.2602
+  - Interest: 0.2406
+  - Realization: 0.2392
+
+Video Emotions:
+  Frame at 83.35s:
+    - Interest: 0.4247
+    - Confusion: 0.4240
+    - Concentration: 0.3926
+
+--------------------------------------------------
+
+Speaker ID: unknown
+Hume Transcribed Text: I, you know, it's like the whole time. Can I just interrupt for I don't want you to interrupt? I just
+Youtuve Transcribed Text (what we use for the text emotions): Cool!
+Time: 86.08s - 90.87s
+
+Text Top 3 Emotions:
+  - Interest: 0.7333
+  - Enthusiasm: 0.6604
+  - Excitement: 0.3253
+
+Audio Top 3 Emotions:
+  - Distress: 0.3680
+  - Anxiety: 0.1437
+  - Empathic Pain: 0.1193
+
+Video Emotions:
+  Frame at 86.32s:
+    - Confusion: 0.5310
+    - Doubt: 0.3397
+    - Concentration: 0.3304
+  Frame at 86.32s:
+    - Satisfaction: 0.6617
+    - Desire: 0.5323
+    - Calmness: 0.4080
+  Frame at 86.65s:
+    - Calmness: 0.3329
+    - Sadness: 0.3227
+    - Disappointment: 0.2885
+  Frame at 86.65s:
+    - Satisfaction: 0.6852
+    - Relief: 0.4056
+    - Joy: 0.3724
+  Frame at 86.99s:
+    - Joy: 0.6505
+    - Amusement: 0.5907
+    - Love: 0.4933
+  Frame at 86.99s:
+    - Satisfaction: 0.6803
+    - Calmness: 0.4415
+    - Joy: 0.4198
+  Frame at 87.32s:
+    - Pain: 0.5794
+    - Sadness: 0.4819
+    - Distress: 0.3440
+  Frame at 87.32s:
+    - Awe: 0.3519
+    - Confusion: 0.3170
+    - Surprise (positive): 0.2958
+  Frame at 87.65s:
+    - Pain: 0.4191
+    - Sadness: 0.3834
+    - Distress: 0.2976
+  Frame at 87.65s:
+    - Pain: 0.3441
+    - Confusion: 0.3083
+    - Distress: 0.2684
+  Frame at 87.99s:
+    - Pain: 0.5040
+    - Sadness: 0.4342
+    - Distress: 0.3343
+  Frame at 87.99s:
+    - Concentration: 0.4509
+    - Calmness: 0.4267
+    - Confusion: 0.4058
+  Frame at 88.32s:
+    - Joy: 0.4951
+    - Amusement: 0.4519
+    - Love: 0.3999
+  Frame at 88.32s:
+    - Amusement: 0.3489
+    - Interest: 0.3263
+    - Confusion: 0.3247
+  Frame at 88.66s:
+    - Pain: 0.3606
+    - Sadness: 0.3461
+    - Confusion: 0.3159
+  Frame at 88.66s:
+    - Amusement: 0.4028
+    - Joy: 0.3849
+    - Excitement: 0.3131
+  Frame at 88.99s:
+    - Sadness: 0.4966
+    - Pain: 0.4878
+    - Distress: 0.3375
+  Frame at 88.99s:
+    - Amusement: 0.4128
+    - Excitement: 0.3637
+    - Joy: 0.3551
+  Frame at 89.32s:
+    - Confusion: 0.3269
+    - Sadness: 0.3107
+    - Pain: 0.2896
+  Frame at 89.32s:
+    - Pain: 0.3560
+    - Sadness: 0.3397
+    - Distress: 0.2712
+  Frame at 89.66s:
+    - Joy: 0.5150
+    - Amusement: 0.5023
+    - Interest: 0.4145
+  Frame at 89.66s:
+    - Amusement: 0.3568
+    - Interest: 0.3398
+    - Joy: 0.3199
+  Frame at 89.99s:
+    - Joy: 0.5527
+    - Amusement: 0.5079
+    - Love: 0.4561
+  Frame at 89.99s:
+    - Satisfaction: 0.3282
+    - Amusement: 0.3076
+    - Joy: 0.2976
+  Frame at 90.32s:
+    - Pain: 0.5106
+    - Sadness: 0.4105
+    - Distress: 0.3162
+  Frame at 90.32s:
+    - Confusion: 0.3559
+    - Concentration: 0.3091
+    - Interest: 0.2952
+  Frame at 90.66s:
+    - Confusion: 0.3286
+    - Pain: 0.2716
+    - Distress: 0.2487
+  Frame at 90.66s:
+    - Interest: 0.3366
+    - Confusion: 0.2964
+    - Amusement: 0.2904
+
+--------------------------------------------------
+
+Speaker ID: unknown
+Hume Transcribed Text: want you to hear what I have to say. I just wanna find out how you're feeling at this moment. Is that okay? I'm angry.
+Youtuve Transcribed Text (what we use for the text emotions): Anything that doesn't involve your mom, huh?
+Time: 90.87s - 95.65s
+
+Text Top 3 Emotions:
+  - Interest: 0.7518
+  - Enthusiasm: 0.2692
+  - Contemplation: 0.2575
+
+Audio Top 3 Emotions:
+  - Anger: 0.6832
+  - Distress: 0.4340
+  - Disappointment: 0.2406
+
+Video Emotions:
+  Frame at 90.99s:
+    - Excitement: 0.2805
+    - Confusion: 0.2800
+    - Amusement: 0.2650
+  Frame at 90.99s:
+    - Calmness: 0.3345
+    - Satisfaction: 0.3172
+    - Amusement: 0.3071
+  Frame at 91.32s:
+    - Excitement: 0.4939
+    - Amusement: 0.4313
+    - Joy: 0.4142
+  Frame at 91.32s:
+    - Confusion: 0.2972
+    - Pain: 0.2875
+    - Concentration: 0.2850
+  Frame at 91.66s:
+    - Amusement: 0.3513
+    - Interest: 0.3168
+    - Joy: 0.3033
+  Frame at 91.66s:
+    - Joy: 0.6562
+    - Amusement: 0.6265
+    - Excitement: 0.4269
+  Frame at 91.99s:
+    - Excitement: 0.3517
+    - Amusement: 0.3384
+    - Joy: 0.3043
+  Frame at 91.99s:
+    - Amusement: 0.5229
+    - Interest: 0.4481
+    - Desire: 0.4101
+  Frame at 92.33s:
+    - Joy: 0.3696
+    - Amusement: 0.3674
+    - Interest: 0.3526
+  Frame at 92.33s:
+    - Amusement: 0.5978
+    - Joy: 0.4997
+    - Interest: 0.4476
+  Frame at 92.66s:
+    - Joy: 0.4472
+    - Amusement: 0.4327
+    - Interest: 0.3834
+  Frame at 92.66s:
+    - Interest: 0.4887
+    - Concentration: 0.3868
+    - Desire: 0.3442
+  Frame at 92.99s:
+    - Amusement: 0.4160
+    - Joy: 0.3904
+    - Interest: 0.3061
+  Frame at 92.99s:
+    - Confusion: 0.3217
+    - Interest: 0.3044
+    - Awe: 0.2704
+  Frame at 93.33s:
+    - Interest: 0.3927
+    - Calmness: 0.3723
+    - Concentration: 0.3682
+  Frame at 93.33s:
+    - Awe: 0.3300
+    - Amusement: 0.3034
+    - Interest: 0.3026
+  Frame at 93.66s:
+    - Joy: 0.5322
+    - Amusement: 0.5223
+    - Interest: 0.3950
+  Frame at 93.66s:
+    - Amusement: 0.3201
+    - Interest: 0.2968
+    - Joy: 0.2692
+  Frame at 93.99s:
+    - Calmness: 0.4245
+    - Concentration: 0.4194
+    - Interest: 0.3662
+  Frame at 93.99s:
+    - Excitement: 0.3315
+    - Amusement: 0.3111
+    - Awe: 0.2766
+  Frame at 94.33s:
+    - Confusion: 0.3774
+    - Interest: 0.3288
+    - Amusement: 0.2811
+  Frame at 94.33s:
+    - Pain: 0.3557
+    - Joy: 0.3041
+    - Amusement: 0.3031
+  Frame at 94.66s:
+    - Calmness: 0.3868
+    - Concentration: 0.3737
+    - Confusion: 0.3437
+  Frame at 94.66s:
+    - Amusement: 0.3349
+    - Interest: 0.3301
+    - Confusion: 0.2945
+  Frame at 94.99s:
+    - Interest: 0.4071
+    - Concentration: 0.3927
+    - Calmness: 0.3856
+  Frame at 94.99s:
+    - Calmness: 0.5526
+    - Satisfaction: 0.5122
+    - Love: 0.3681
+  Frame at 95.33s:
+    - Confusion: 0.4322
+    - Concentration: 0.4259
+    - Interest: 0.3940
+  Frame at 95.33s:
+    - Interest: 0.3867
+    - Concentration: 0.3749
+    - Confusion: 0.3395
+
+--------------------------------------------------
+
+Speaker ID: unknown
+Hume Transcribed Text: You're angry. Yeah. And and and you've feeling the hurt by this as well or
+Youtuve Transcribed Text (what we use for the text emotions): That'd be good!
+Time: 96.70s - 101.27s
+
+Text Top 3 Emotions:
+  - Interest: 0.6929
+  - Enthusiasm: 0.5473
+  - Excitement: 0.3157
+
+Audio Top 3 Emotions:
+  - Sympathy: 0.1873
+  - Awkwardness: 0.1735
+  - Empathic Pain: 0.1333
+
+Video Emotions:
+  Frame at 97.00s:
+    - Amusement: 0.3217
+    - Confusion: 0.3134
+    - Pain: 0.2993
+  Frame at 97.00s:
+    - Amusement: 0.3772
+    - Interest: 0.3685
+    - Joy: 0.3300
+  Frame at 97.33s:
+    - Joy: 0.4413
+    - Amusement: 0.4386
+    - Interest: 0.3952
+  Frame at 97.33s:
+    - Amusement: 0.3892
+    - Interest: 0.3601
+    - Excitement: 0.3235
+  Frame at 97.66s:
+    - Interest: 0.3501
+    - Amusement: 0.3236
+    - Joy: 0.3235
+  Frame at 97.66s:
+    - Interest: 0.3745
+    - Concentration: 0.3590
+    - Calmness: 0.2980
+  Frame at 98.00s:
+    - Confusion: 0.4100
+    - Concentration: 0.3627
+    - Calmness: 0.3187
+  Frame at 98.00s:
+    - Amusement: 0.4050
+    - Joy: 0.3707
+    - Interest: 0.3680
+  Frame at 98.33s:
+    - Sadness: 0.3596
+    - Confusion: 0.3277
+    - Pain: 0.3022
+  Frame at 98.33s:
+    - Concentration: 0.3560
+    - Confusion: 0.3353
+    - Calmness: 0.3324
+  Frame at 98.67s:
+    - Interest: 0.3408
+    - Calmness: 0.3307
+    - Joy: 0.3241
+  Frame at 98.67s:
+    - Concentration: 0.3526
+    - Confusion: 0.3361
+    - Interest: 0.3130
+  Frame at 99.00s:
+    - Joy: 0.4100
+    - Amusement: 0.3966
+    - Pain: 0.3504
+  Frame at 99.00s:
+    - Confusion: 0.3394
+    - Concentration: 0.3232
+    - Interest: 0.2846
+  Frame at 99.33s:
+    - Joy: 0.4232
+    - Amusement: 0.4152
+    - Interest: 0.3387
+  Frame at 99.33s:
+    - Confusion: 0.3574
+    - Concentration: 0.3553
+    - Interest: 0.3235
+  Frame at 99.67s:
+    - Joy: 0.4317
+    - Amusement: 0.4222
+    - Interest: 0.3634
+  Frame at 99.67s:
+    - Concentration: 0.3857
+    - Confusion: 0.3636
+    - Interest: 0.3159
+  Frame at 100.00s:
+    - Confusion: 0.3548
+    - Interest: 0.3486
+    - Amusement: 0.3296
+  Frame at 100.00s:
+    - Concentration: 0.3707
+    - Calmness: 0.3490
+    - Confusion: 0.3276
+  Frame at 100.33s:
+    - Concentration: 0.4302
+    - Calmness: 0.4025
+    - Confusion: 0.3896
+  Frame at 100.33s:
+    - Concentration: 0.4285
+    - Confusion: 0.3792
+    - Interest: 0.3473
+  Frame at 100.67s:
+    - Confusion: 0.4083
+    - Concentration: 0.3883
+    - Calmness: 0.3512
+  Frame at 100.67s:
+    - Calmness: 0.3981
+    - Tiredness: 0.3122
+    - Concentration: 0.2970
+  Frame at 101.00s:
+    - Concentration: 0.4036
+    - Confusion: 0.3924
+    - Interest: 0.3794
+  Frame at 101.00s:
+    - Concentration: 0.4924
+    - Interest: 0.4774
+    - Confusion: 0.3101
+
+--------------------------------------------------
+
+Speaker ID: unknown
+Hume Transcribed Text: just angry. Yeah. I'm feeling hurt.
+Youtuve Transcribed Text (what we use for the text emotions): You say it like it's a joke.
+Time: 101.73s - 103.96s
+
+Text Top 3 Emotions:
+  - Annoyance: 0.4444
+  - Sarcasm: 0.3761
+  - Disapproval: 0.2746
+
+Audio Top 3 Emotions:
+  - Distress: 0.3246
+  - Empathic Pain: 0.2608
+  - Sympathy: 0.2587
+
+Video Emotions:
+  Frame at 102.00s:
+    - Amusement: 0.6333
+    - Joy: 0.6089
+    - Excitement: 0.5297
+  Frame at 102.00s:
+    - Concentration: 0.4655
+    - Calmness: 0.4187
+    - Boredom: 0.3676
+  Frame at 102.34s:
+    - Amusement: 0.4253
+    - Joy: 0.4244
+    - Interest: 0.4028
+  Frame at 102.34s:
+    - Concentration: 0.5041
+    - Calmness: 0.4050
+    - Boredom: 0.3676
+  Frame at 102.67s:
+    - Confusion: 0.4264
+    - Concentration: 0.3629
+    - Interest: 0.3506
+  Frame at 102.67s:
+    - Concentration: 0.4590
+    - Calmness: 0.4031
+    - Boredom: 0.3929
+  Frame at 103.00s:
+    - Interest: 0.3614
+    - Confusion: 0.3409
+    - Calmness: 0.3393
+  Frame at 103.00s:
+    - Confusion: 0.3392
+    - Interest: 0.2764
+    - Concentration: 0.2527
+  Frame at 103.34s:
+    - Interest: 0.3832
+    - Confusion: 0.3446
+    - Amusement: 0.3309
+  Frame at 103.34s:
+    - Calmness: 0.4826
+    - Tiredness: 0.3768
+    - Satisfaction: 0.3157
+  Frame at 103.67s:
+    - Confusion: 0.4004
+    - Interest: 0.3707
+    - Concentration: 0.3368
+  Frame at 103.67s:
+    - Satisfaction: 0.3233
+    - Calmness: 0.3132
+    - Amusement: 0.2837
+
+--------------------------------------------------
+
+Speaker ID: spk_0
+Hume Transcribed Text: And you're really wanting...
+Youtuve Transcribed Text (what we use for the text emotions): You say it like it's a joke.
+Time: 105.33s - 106.21s
+
+Text Top 3 Emotions:
+  - Annoyance: 0.4444
+  - Sarcasm: 0.3761
+  - Disapproval: 0.2746
+
+Audio Top 3 Emotions:
+  - Disappointment: 0.1581
+  - Distress: 0.1220
+  - Anger: 0.0957
+
+Video Emotions:
+  Frame at 105.34s:
+    - Amusement: 0.3704
+    - Joy: 0.3632
+    - Interest: 0.3542
+  Frame at 105.34s:
+    - Concentration: 0.4533
+    - Calmness: 0.3795
+    - Confusion: 0.3745
+  Frame at 105.67s:
+    - Amusement: 0.3054
+    - Sadness: 0.3047
+    - Joy: 0.3040
+  Frame at 105.67s:
+    - Concentration: 0.4391
+    - Confusion: 0.3629
+    - Calmness: 0.3628
+  Frame at 106.01s:
+    - Confusion: 0.3913
+    - Interest: 0.3646
+    - Concentration: 0.3180
+  Frame at 106.01s:
+    - Concentration: 0.4338
+    - Calmness: 0.3746
+    - Confusion: 0.3539
+
+--------------------------------------------------
+
+Speaker ID: spk_0
+Hume Transcribed Text: Is it some respect?
+Youtuve Transcribed Text (what we use for the text emotions): I can't believe you just said that.
+Time: 106.77s - 107.81s
+
+Text Top 3 Emotions:
+  - Annoyance: 0.7047
+  - Surprise (negative): 0.4693
+  - Disapproval: 0.4147
+
+Audio Top 3 Emotions:
+  - Calmness: 0.4370
+  - Determination: 0.3859
+  - Concentration: 0.2820
+
+Video Emotions:
+  Frame at 107.01s:
+    - Interest: 0.4225
+    - Calmness: 0.3499
+    - Amusement: 0.3468
+  Frame at 107.01s:
+    - Concentration: 0.4799
+    - Confusion: 0.3773
+    - Calmness: 0.3769
+  Frame at 107.34s:
+    - Confusion: 0.3838
+    - Concentration: 0.3582
+    - Interest: 0.3443
+  Frame at 107.34s:
+    - Concentration: 0.4984
+    - Calmness: 0.3782
+    - Interest: 0.3700
+  Frame at 107.67s:
+    - Amusement: 0.4836
+    - Joy: 0.4698
+    - Excitement: 0.3719
+  Frame at 107.67s:
+    - Concentration: 0.4555
+    - Confusion: 0.3890
+    - Interest: 0.3478
+
+--------------------------------------------------
+
+Speaker ID: spk_0
+Hume Transcribed Text: Well yeah. I mean, for my mom too, like, yes.
+Youtuve Transcribed Text (what we use for the text emotions): Well, I am just joking around.
+Time: 108.45s - 111.41s
+
+Text Top 3 Emotions:
+  - Annoyance: 0.5250
+  - Surprise (negative): 0.3855
+  - Sarcasm: 0.3507
+
+Audio Top 3 Emotions:
+  - Awkwardness: 0.3470
+  - Excitement: 0.3192
+  - Anxiety: 0.1843
+
+Video Emotions:
+  Frame at 108.68s:
+    - Confusion: 0.3893
+    - Interest: 0.3596
+    - Concentration: 0.3548
+  Frame at 108.68s:
+    - Concentration: 0.5551
+    - Interest: 0.5163
+    - Confusion: 0.3906
+  Frame at 109.01s:
+    - Confusion: 0.4089
+    - Concentration: 0.4009
+    - Interest: 0.3427
+  Frame at 109.01s:
+    - Awe: 0.3411
+    - Confusion: 0.2752
+    - Excitement: 0.2540
+  Frame at 109.34s:
+    - Confusion: 0.4167
+    - Concentration: 0.3806
+    - Interest: 0.3799
+  Frame at 109.34s:
+    - Concentration: 0.3628
+    - Interest: 0.3627
+    - Confusion: 0.3249
+  Frame at 109.68s:
+    - Interest: 0.3917
+    - Calmness: 0.3755
+    - Concentration: 0.3731
+  Frame at 109.68s:
+    - Awe: 0.3704
+    - Interest: 0.3397
+    - Confusion: 0.3319
+  Frame at 110.01s:
+    - Interest: 0.4227
+    - Calmness: 0.3841
+    - Concentration: 0.3446
+  Frame at 110.01s:
+    - Concentration: 0.4039
+    - Interest: 0.3139
+    - Confusion: 0.3100
+  Frame at 110.34s:
+    - Concentration: 0.4484
+    - Calmness: 0.4461
+    - Confusion: 0.3528
+  Frame at 110.34s:
+    - Calmness: 0.3354
+    - Concentration: 0.2891
+    - Confusion: 0.2695
+  Frame at 110.68s:
+    - Concentration: 0.4374
+    - Confusion: 0.4299
+    - Calmness: 0.3826
+  Frame at 110.68s:
+    - Concentration: 0.4447
+    - Interest: 0.3586
+    - Confusion: 0.3582
+  Frame at 111.01s:
+    - Concentration: 0.4625
+    - Confusion: 0.4270
+    - Calmness: 0.3753
+  Frame at 111.01s:
+    - Satisfaction: 0.3811
+    - Calmness: 0.3762
+    - Joy: 0.2882
+  Frame at 111.34s:
+    - Concentration: 0.4834
+    - Confusion: 0.4308
+    - Calmness: 0.3831
+  Frame at 111.34s:
+    - Satisfaction: 0.4800
+    - Calmness: 0.4635
+    - Love: 0.4199
+
+--------------------------------------------------
+
+Speaker ID: unknown
+Hume Transcribed Text: And you really wanting to her to see what we're like together and you feel like I... Very nice.
+Youtuve Transcribed Text (what we use for the text emotions): I can't believe you just said that.
+Time: 113.18s - 117.56s
+
+Text Top 3 Emotions:
+  - Annoyance: 0.7047
+  - Surprise (negative): 0.4693
+  - Disapproval: 0.4147
+
+Audio Top 3 Emotions:
+  - Interest: 0.1750
+  - Envy: 0.1706
+  - Contemplation: 0.1154
+
+Video Emotions:
+  Frame at 113.35s:
+    - Confusion: 0.4170
+    - Concentration: 0.3496
+    - Interest: 0.3054
+  Frame at 113.35s:
+    - Concentration: 0.4682
+    - Calmness: 0.3816
+    - Interest: 0.3810
+  Frame at 113.68s:
+    - Sadness: 0.4077
+    - Pain: 0.3555
+    - Calmness: 0.3461
+  Frame at 113.68s:
+    - Interest: 0.4375
+    - Concentration: 0.4301
+    - Confusion: 0.3958
+  Frame at 114.01s:
+    - Interest: 0.3640
+    - Calmness: 0.3588
+    - Joy: 0.3471
+  Frame at 114.01s:
+    - Concentration: 0.4579
+    - Confusion: 0.4250
+    - Doubt: 0.3512
+  Frame at 114.35s:
+    - Interest: 0.4076
+    - Calmness: 0.3731
+    - Joy: 0.3627
+  Frame at 114.35s:
+    - Concentration: 0.4231
+    - Confusion: 0.3876
+    - Calmness: 0.3154
+  Frame at 114.68s:
+    - Confusion: 0.3944
+    - Concentration: 0.3504
+    - Interest: 0.3404
+  Frame at 114.68s:
+    - Concentration: 0.4138
+    - Interest: 0.3958
+    - Confusion: 0.3737
+  Frame at 115.01s:
+    - Confusion: 0.4198
+    - Concentration: 0.3606
+    - Interest: 0.3331
+  Frame at 115.01s:
+    - Concentration: 0.4141
+    - Calmness: 0.3560
+    - Confusion: 0.3525
+  Frame at 115.35s:
+    - Joy: 0.5589
+    - Amusement: 0.5234
+    - Love: 0.5032
+  Frame at 115.35s:
+    - Concentration: 0.4470
+    - Confusion: 0.3716
+    - Calmness: 0.3511
+  Frame at 115.68s:
+    - Joy: 0.3344
+    - Amusement: 0.3279
+    - Interest: 0.3237
+  Frame at 115.68s:
+    - Concentration: 0.4405
+    - Confusion: 0.3770
+    - Interest: 0.3412
+  Frame at 116.02s:
+    - Confusion: 0.4105
+    - Concentration: 0.3958
+    - Interest: 0.3505
+  Frame at 116.02s:
+    - Concentration: 0.4298
+    - Calmness: 0.3684
+    - Confusion: 0.3560
+  Frame at 116.35s:
+    - Joy: 0.5258
+    - Amusement: 0.5063
+    - Interest: 0.3795
+  Frame at 116.35s:
+    - Concentration: 0.4584
+    - Calmness: 0.3753
+    - Confusion: 0.3706
+  Frame at 116.68s:
+    - Joy: 0.4448
+    - Amusement: 0.4165
+    - Interest: 0.4051
+  Frame at 116.68s:
+    - Concentration: 0.5351
+    - Calmness: 0.4262
+    - Interest: 0.3969
+  Frame at 116.98s:
+    - Joy: 0.4916
+    - Amusement: 0.4746
+    - Interest: 0.3747
+  Frame at 116.98s:
+    - Concentration: 0.4004
+    - Confusion: 0.3593
+    - Interest: 0.3384
+  Frame at 117.32s:
+    - Confusion: 0.4025
+    - Interest: 0.3310
+    - Concentration: 0.3287
+  Frame at 117.32s:
+    - Awe: 0.3404
+    - Fear: 0.3284
+    - Excitement: 0.3270
+
+--------------------------------------------------
+
+Speaker ID: spk_0
+Hume Transcribed Text: Yeah.
+Youtuve Transcribed Text (what we use for the text emotions): Yeah, it's really funny.
+Time: 119.55s - 119.79s
+
+Text Top 3 Emotions:
+  - Surprise (negative): 0.4316
+  - Annoyance: 0.4174
+  - Amusement: 0.2617
+
+Audio Top 3 Emotions:
+  - Calmness: 0.2052
+  - Awkwardness: 0.1021
+  - Boredom: 0.0982
+
+Video Emotions:
+  Frame at 119.65s:
+    - Confusion: 0.4101
+    - Concentration: 0.3606
+    - Interest: 0.3375
+  Frame at 119.65s:
+    - Desire: 0.6206
+    - Interest: 0.4524
+    - Concentration: 0.4009
+
+--------------------------------------------------
+
+Speaker ID: spk_0
+Hume Transcribed Text: Okay.
+Youtuve Transcribed Text (what we use for the text emotions): Hahaha
+You've been so miserable this whole time...
+Time: 122.99s - 123.23s
+
+Text Top 3 Emotions:
+  - Sarcasm: 0.4704
+  - Amusement: 0.3896
+  - Annoyance: 0.3573
+
+Audio Top 3 Emotions:
+  - Calmness: 0.1826
+  - Relief: 0.0965
+  - Boredom: 0.0795
+
+Video Emotions:
+  No video emotions data available
+
+--------------------------------------------------
+
+Speaker ID: spk_0
+Hume Transcribed Text: I understand that.
+Youtuve Transcribed Text (what we use for the text emotions): like...
+Time: 123.87s - 124.66s
+
+Text Top 3 Emotions:
+  - Amusement: 0.4765
+  - Sarcasm: 0.3354
+  - Annoyance: 0.2958
+
+Audio Top 3 Emotions:
+  - Calmness: 0.2336
+  - Realization: 0.1937
+  - Disappointment: 0.0945
+
+Video Emotions:
+  Frame at 123.99s:
+    - Confusion: 0.4173
+    - Concentration: 0.3165
+    - Interest: 0.2987
+  Frame at 123.99s:
+    - Concentration: 0.4486
+    - Interest: 0.3900
+    - Confusion: 0.3524
+  Frame at 124.32s:
+    - Sadness: 0.3874
+    - Pain: 0.3813
+    - Confusion: 0.2999
+  Frame at 124.32s:
+    - Concentration: 0.4793
+    - Calmness: 0.3951
+    - Confusion: 0.3706
+  Frame at 124.66s:
+    - Calmness: 0.3501
+    - Interest: 0.3264
+    - Concentration: 0.3040
+  Frame at 124.66s:
+    - Concentration: 0.4849
+    - Calmness: 0.3678
+    - Confusion: 0.3647
+
+--------------------------------------------------
+
+Speaker ID: spk_0
+Hume Transcribed Text: Is there anything else?
+Youtuve Transcribed Text (what we use for the text emotions): Oh, come on.
+Time: 126.49s - 127.84s
+
+Text Top 3 Emotions:
+  - Amusement: 0.5376
+  - Sarcasm: 0.4177
+  - Annoyance: 0.2468
+
+Audio Top 3 Emotions:
+  - Doubt: 0.2994
+  - Disappointment: 0.2452
+  - Distress: 0.1834
+
+Video Emotions:
+  Frame at 126.66s:
+    - Confusion: 0.3588
+    - Calmness: 0.3290
+    - Sadness: 0.3091
+  Frame at 126.66s:
+    - Concentration: 0.4272
+    - Calmness: 0.3848
+    - Interest: 0.3716
+  Frame at 126.99s:
+    - Concentration: 0.3973
+    - Confusion: 0.3859
+    - Calmness: 0.3709
+  Frame at 126.99s:
+    - Concentration: 0.5047
+    - Interest: 0.4418
+    - Calmness: 0.3955
+  Frame at 127.33s:
+    - Confusion: 0.3831
+    - Concentration: 0.3364
+    - Interest: 0.3336
+  Frame at 127.33s:
+    - Concentration: 0.4510
+    - Interest: 0.3852
+    - Confusion: 0.3609
+  Frame at 127.66s:
+    - Interest: 0.3731
+    - Confusion: 0.3632
+    - Concentration: 0.3311
+  Frame at 127.66s:
+    - Concentration: 0.4649
+    - Interest: 0.4271
+    - Calmness: 0.3520
+
+--------------------------------------------------
+
+Speaker ID: spk_0
+Hume Transcribed Text: You're using that On me aren't two.
+Youtuve Transcribed Text (what we use for the text emotions): I mean, I'm just...
+Time: 128.80s - 130.78s
+
+Text Top 3 Emotions:
+  - Amusement: 0.6015
+  - Sarcasm: 0.5435
+  - Sympathy: 0.1881
+
+Audio Top 3 Emotions:
+  - Contempt: 0.2480
+  - Anger: 0.2343
+  - Disappointment: 0.1060
+
+Video Emotions:
+  Frame at 129.00s:
+    - Concentration: 0.4243
+    - Calmness: 0.3999
+    - Confusion: 0.3745
+  Frame at 129.00s:
+    - Calmness: 0.3942
+    - Satisfaction: 0.3283
+    - Concentration: 0.2860
+  Frame at 129.33s:
+    - Concentration: 0.3879
+    - Confusion: 0.3841
+    - Calmness: 0.3628
+  Frame at 129.33s:
+    - Interest: 0.4205
+    - Concentration: 0.3400
+    - Calmness: 0.3292
+  Frame at 129.66s:
+    - Concentration: 0.4045
+    - Confusion: 0.4000
+    - Calmness: 0.3773
+  Frame at 129.66s:
+    - Interest: 0.4753
+    - Concentration: 0.3583
+    - Amusement: 0.3266
+  Frame at 130.00s:
+    - Interest: 0.3559
+    - Confusion: 0.3288
+    - Concentration: 0.3221
+  Frame at 130.00s:
+    - Interest: 0.5017
+    - Amusement: 0.3882
+    - Joy: 0.3232
+  Frame at 130.33s:
+    - Joy: 0.4787
+    - Amusement: 0.4478
+    - Love: 0.3171
+  Frame at 130.33s:
+    - Interest: 0.4625
+    - Amusement: 0.4024
+    - Awe: 0.3315
+  Frame at 130.66s:
+    - Joy: 0.4543
+    - Amusement: 0.4468
+    - Love: 0.3302
+  Frame at 130.66s:
+    - Interest: 0.4434
+    - Concentration: 0.3912
+    - Confusion: 0.3305
+
+--------------------------------------------------
+
+Speaker ID: spk_1
+Hume Transcribed Text: Well,
+Youtuve Transcribed Text (what we use for the text emotions): I mean, I'm just...
+Time: 131.92s - 132.16s
+
+Text Top 3 Emotions:
+  - Amusement: 0.6015
+  - Sarcasm: 0.5435
+  - Sympathy: 0.1881
+
+Audio Top 3 Emotions:
+  - Confusion: 0.2125
+  - Surprise (negative): 0.1977
+  - Distress: 0.1482
+
+Video Emotions:
+  Frame at 132.00s:
+    - Pain: 0.3986
+    - Tiredness: 0.3600
+    - Distress: 0.2840
+  Frame at 132.00s:
+    - Interest: 0.4948
+    - Amusement: 0.3522
+    - Concentration: 0.3437
+
+--------------------------------------------------
+
+Speaker ID: spk_1
+Hume Transcribed Text: I am...
+Youtuve Transcribed Text (what we use for the text emotions): really...
+Time: 132.72s - 133.19s
+
+Text Top 3 Emotions:
+  - Amusement: 0.6498
+  - Sarcasm: 0.4272
+  - Sympathy: 0.2628
+
+Audio Top 3 Emotions:
+  - Determination: 0.1518
+  - Excitement: 0.0876
+  - Calmness: 0.0842
+
+Video Emotions:
+  Frame at 133.00s:
+    - Pain: 0.5482
+    - Sadness: 0.4698
+    - Distress: 0.3338
+  Frame at 133.00s:
+    - Interest: 0.4745
+    - Concentration: 0.3936
+    - Confusion: 0.3677
+
+--------------------------------------------------
+
+Speaker ID: spk_1
+Hume Transcribed Text: Okay.
+Youtuve Transcribed Text (what we use for the text emotions): I mean the pair of you...
+Time: 135.59s - 135.75s
+
+Text Top 3 Emotions:
+  - Sarcasm: 0.5800
+  - Amusement: 0.5579
+  - Annoyance: 0.1509
+
+Audio Top 3 Emotions:
+  - Determination: 0.1966
+  - Relief: 0.1572
+  - Interest: 0.1509
+
+Video Emotions:
+  Frame at 135.67s:
+    - Concentration: 0.4075
+    - Interest: 0.4014
+    - Confusion: 0.3311
+  Frame at 135.67s:
+    - Concentration: 0.5154
+    - Interest: 0.4249
+    - Calmness: 0.3641
+
+--------------------------------------------------
+
+Speaker ID: spk_1
+Hume Transcribed Text: I am using it.
+Youtuve Transcribed Text (what we use for the text emotions): I think kind of, on my case...
+Time: 137.68s - 138.47s
+
+Text Top 3 Emotions:
+  - Amusement: 0.4814
+  - Sarcasm: 0.3625
+  - Empathic Pain: 0.2171
+
+Audio Top 3 Emotions:
+  - Determination: 0.3806
+  - Pride: 0.1848
+  - Excitement: 0.1591
+
+Video Emotions:
+  Frame at 138.00s:
+    - Interest: 0.5054
+    - Concentration: 0.4597
+    - Desire: 0.3492
+  Frame at 138.34s:
+    - Interest: 0.4882
+    - Desire: 0.4780
+    - Concentration: 0.4423
+
+--------------------------------------------------
+
+Speaker ID: spk_1
+Hume Transcribed Text: And
+Youtuve Transcribed Text (what we use for the text emotions): Look, my mom is who she is and
+And I never promised that she was going to be like the sweetest...
+Time: 139.21s - 139.53s
+
+Text Top 3 Emotions:
+  - Realization: 0.5648
+  - Love: 0.3380
+  - Contemplation: 0.3323
+
+Audio Top 3 Emotions:
+  - Calmness: 0.1219
+  - Determination: 0.1070
+  - Concentration: 0.0803
+
+Video Emotions:
+  Frame at 139.34s:
+    - Satisfaction: 0.5808
+    - Joy: 0.4270
+    - Amusement: 0.3786
+
+--------------------------------------------------
+
+Speaker ID: spk_1
+Hume Transcribed Text: and that's
+Youtuve Transcribed Text (what we use for the text emotions): Sweetest???
+Time: 140.64s - 141.38s
+
+Text Top 3 Emotions:
+  - Love: 0.5678
+  - Realization: 0.4644
+  - Romance: 0.4248
+
+Audio Top 3 Emotions:
+  - Calmness: 0.2414
+  - Confusion: 0.1010
+  - Awkwardness: 0.0888
+
+Video Emotions:
+  Frame at 140.67s:
+    - Interest: 0.4475
+    - Concentration: 0.4201
+    - Desire: 0.3292
+  Frame at 141.01s:
+    - Interest: 0.4240
+    - Concentration: 0.4216
+    - Desire: 0.3851
+  Frame at 141.34s:
+    - Concentration: 0.5201
+    - Interest: 0.4058
+    - Boredom: 0.3553
+
+--------------------------------------------------
+
+Speaker ID: spk_1
+Hume Transcribed Text: flu to me.
+Youtuve Transcribed Text (what we use for the text emotions): Sweetest person to you, but it doesn't mean you have to sit there all day like mopey and angry the whole time...
+Time: 142.23s - 143.19s
+
+Text Top 3 Emotions:
+  - Romance: 0.7853
+  - Love: 0.6665
+  - Adoration: 0.4007
+
+Audio Top 3 Emotions:
+  - Calmness: 0.2164
+  - Boredom: 0.1115
+  - Anger: 0.0820
+
+Video Emotions:
+  Frame at 142.34s:
+    - Calmness: 0.5651
+    - Concentration: 0.5635
+    - Boredom: 0.4785
+  Frame at 142.68s:
+    - Interest: 0.4731
+    - Desire: 0.4685
+    - Concentration: 0.4546
+  Frame at 143.01s:
+    - Desire: 0.4780
+    - Interest: 0.4556
+    - Concentration: 0.4409
+
+--------------------------------------------------
+
+Speaker ID: spk_1
+Hume Transcribed Text: Okay. Self empathy.
+Youtuve Transcribed Text (what we use for the text emotions): I'm not mopey...
+Time: 144.06s - 145.73s
+
+Text Top 3 Emotions:
+  - Annoyance: 0.4952
+  - Anger: 0.3165
+  - Disappointment: 0.2750
+
+Audio Top 3 Emotions:
+  - Determination: 0.3397
+  - Calmness: 0.2613
+  - Interest: 0.2283
+
+Video Emotions:
+  Frame at 144.34s:
+    - Concentration: 0.5125
+    - Calmness: 0.3841
+    - Interest: 0.3658
+  Frame at 144.68s:
+    - Interest: 0.4921
+    - Concentration: 0.4900
+    - Desire: 0.4616
+  Frame at 145.01s:
+    - Concentration: 0.5455
+    - Confusion: 0.4023
+    - Calmness: 0.3897
+  Frame at 145.35s:
+    - Calmness: 0.4608
+    - Tiredness: 0.3520
+    - Satisfaction: 0.3361
+  Frame at 145.68s:
+    - Concentration: 0.5168
+    - Desire: 0.4902
+    - Interest: 0.4560
+
+--------------------------------------------------
+
+Speaker ID: spk_1
+Hume Transcribed Text: I'm flustered that she's just said that, but
+Youtuve Transcribed Text (what we use for the text emotions): oh this is just...
+Time: 146.78s - 149.36s
+
+Text Top 3 Emotions:
+  - Love: 0.5496
+  - Adoration: 0.4381
+  - Romance: 0.3155
+
+Audio Top 3 Emotions:
+  - Disappointment: 0.3073
+  - Distress: 0.2816
+  - Surprise (negative): 0.1777
+
+Video Emotions:
+  Frame at 147.01s:
+    - Concentration: 0.5276
+    - Interest: 0.4049
+    - Calmness: 0.3810
+  Frame at 147.35s:
+    - Interest: 0.4436
+    - Concentration: 0.4222
+    - Confusion: 0.3800
+  Frame at 147.68s:
+    - Concentration: 0.5163
+    - Interest: 0.3982
+    - Confusion: 0.3927
+  Frame at 148.01s:
+    - Desire: 0.5970
+    - Concentration: 0.4297
+    - Interest: 0.4019
+  Frame at 148.35s:
+    - Desire: 0.5041
+    - Interest: 0.4884
+    - Concentration: 0.4401
+  Frame at 148.68s:
+    - Calmness: 0.4772
+    - Concentration: 0.3672
+    - Boredom: 0.3246
+  Frame at 149.02s:
+    - Concentration: 0.4708
+    - Desire: 0.4244
+    - Confusion: 0.4153
+  Frame at 149.35s:
+    - Concentration: 0.4527
+    - Confusion: 0.4517
+    - Interest: 0.3638
+
+--------------------------------------------------
+
+Speaker ID: spk_1
+Hume Transcribed Text: because I'm really wanting,
+Youtuve Transcribed Text (what we use for the text emotions): ...this
+Time: 149.81s - 151.19s
+
+Text Top 3 Emotions:
+  - Annoyance: 0.3948
+  - Love: 0.3435
+  - Romance: 0.3342
+
+Audio Top 3 Emotions:
+  - Anxiety: 0.2686
+  - Distress: 0.2596
+  - Disappointment: 0.2161
+
+Video Emotions:
+  Frame at 150.02s:
+    - Confusion: 0.4214
+    - Concentration: 0.4140
+    - Interest: 0.3964
+  Frame at 150.32s:
+    - Calmness: 0.5622
+    - Concentration: 0.5537
+    - Boredom: 0.5219
+  Frame at 150.65s:
+    - Concentration: 0.6239
+    - Boredom: 0.5855
+    - Calmness: 0.5530
+  Frame at 150.98s:
+    - Concentration: 0.5128
+    - Calmness: 0.4020
+    - Boredom: 0.3943
+
+--------------------------------------------------
+
+Speaker ID: spk_1
+Hume Transcribed Text: you know, some acceptance from my efforts to kinda communicate and connect more, you know,
+Youtuve Transcribed Text (what we use for the text emotions): has been totally...
+Time: 151.65s - 156.04s
+
+Text Top 3 Emotions:
+  - Annoyance: 0.5122
+  - Disappointment: 0.3348
+  - Sadness: 0.2516
+
+Audio Top 3 Emotions:
+  - Concentration: 0.6027
+  - Calmness: 0.3993
+  - Determination: 0.3762
+
+Video Emotions:
+  Frame at 151.65s:
+    - Concentration: 0.4860
+    - Calmness: 0.4073
+    - Interest: 0.3701
+  Frame at 151.99s:
+    - Concentration: 0.5322
+    - Interest: 0.4218
+    - Confusion: 0.4119
+  Frame at 152.32s:
+    - Interest: 0.5173
+    - Desire: 0.4528
+    - Concentration: 0.4277
+  Frame at 152.65s:
+    - Concentration: 0.4338
+    - Interest: 0.4240
+    - Confusion: 0.3305
+  Frame at 152.99s:
+    - Concentration: 0.4722
+    - Confusion: 0.3990
+    - Doubt: 0.3866
+  Frame at 153.32s:
+    - Calmness: 0.4248
+    - Satisfaction: 0.3325
+    - Tiredness: 0.3051
+  Frame at 153.65s:
+    - Interest: 0.4526
+    - Concentration: 0.4511
+    - Confusion: 0.4167
+  Frame at 153.99s:
+    - Interest: 0.4513
+    - Desire: 0.3822
+    - Concentration: 0.3423
+  Frame at 154.32s:
+    - Concentration: 0.5244
+    - Calmness: 0.3901
+    - Interest: 0.3856
+  Frame at 154.65s:
+    - Interest: 0.4948
+    - Concentration: 0.3237
+    - Amusement: 0.3199
+  Frame at 154.99s:
+    - Interest: 0.4782
+    - Concentration: 0.3606
+    - Amusement: 0.3324
+  Frame at 155.32s:
+    - Desire: 0.5398
+    - Interest: 0.4730
+    - Concentration: 0.4695
+  Frame at 155.66s:
+    - Confusion: 0.5570
+    - Concentration: 0.5207
+    - Doubt: 0.3758
+  Frame at 155.99s:
+    - Concentration: 0.6241
+    - Calmness: 0.5147
+    - Boredom: 0.5102
+
+--------------------------------------------------
+
+Speaker ID: spk_1
+Hume Transcribed Text: And then empathize with her, I guess,
+Youtuve Transcribed Text (what we use for the text emotions): This is so...frustrating
+Time: 156.93s - 158.77s
+
+Text Top 3 Emotions:
+  - Annoyance: 0.9271
+  - Anger: 0.5613
+  - Disapproval: 0.2753
+
+Audio Top 3 Emotions:
+  - Realization: 0.5903
+  - Contemplation: 0.3538
+  - Calmness: 0.1979
+
+Video Emotions:
+  Frame at 156.99s:
+    - Interest: 0.4508
+    - Amusement: 0.3299
+    - Concentration: 0.3184
+  Frame at 157.32s:
+    - Desire: 0.5591
+    - Interest: 0.5283
+    - Concentration: 0.3723
+  Frame at 157.66s:
+    - Interest: 0.4880
+    - Concentration: 0.4766
+    - Desire: 0.3823
+  Frame at 157.99s:
+    - Interest: 0.5061
+    - Concentration: 0.4926
+    - Desire: 0.3843
+  Frame at 158.32s:
+    - Interest: 0.4005
+    - Confusion: 0.3091
+    - Concentration: 0.3014
+  Frame at 158.66s:
+    - Interest: 0.5918
+    - Desire: 0.4603
+    - Amusement: 0.4584
+
+--------------------------------------------------
+
+Speaker ID: spk_1
+Hume Transcribed Text: she's maybe finding it weird or I can tell her express what's going on for me, you know,
+Youtuve Transcribed Text (what we use for the text emotions): you know?
+Time: 159.56s - 163.40s
+
+Text Top 3 Emotions:
+  - Annoyance: 0.9116
+  - Anger: 0.4012
+  - Disapproval: 0.2839
+
+Audio Top 3 Emotions:
+  - Awkwardness: 0.3637
+  - Contemplation: 0.2680
+  - Anxiety: 0.2458
+
+Video Emotions:
+  Frame at 159.66s:
+    - Desire: 0.5327
+    - Interest: 0.5079
+    - Concentration: 0.4258
+  Frame at 159.99s:
+    - Concentration: 0.5081
+    - Interest: 0.4173
+    - Calmness: 0.3523
+  Frame at 160.33s:
+    - Interest: 0.5032
+    - Concentration: 0.3927
+    - Desire: 0.3726
+  Frame at 160.66s:
+    - Interest: 0.4149
+    - Confusion: 0.4089
+    - Concentration: 0.4052
+  Frame at 160.99s:
+    - Confusion: 0.4443
+    - Concentration: 0.4004
+    - Interest: 0.3968
+  Frame at 161.33s:
+    - Interest: 0.5229
+    - Desire: 0.4003
+    - Concentration: 0.3900
+  Frame at 161.66s:
+    - Interest: 0.4588
+    - Desire: 0.4096
+    - Concentration: 0.3753
+  Frame at 162.00s:
+    - Concentration: 0.4119
+    - Interest: 0.3857
+    - Confusion: 0.3644
+  Frame at 162.33s:
+    - Confusion: 0.4867
+    - Concentration: 0.3783
+    - Interest: 0.3547
+  Frame at 162.66s:
+    - Concentration: 0.5278
+    - Calmness: 0.4490
+    - Boredom: 0.4099
+  Frame at 163.00s:
+    - Interest: 0.4643
+    - Desire: 0.4505
+    - Concentration: 0.4033
+  Frame at 163.33s:
+    - Concentration: 0.5446
+    - Calmness: 0.3613
+    - Confusion: 0.3599
+
+--------------------------------------------------
+
+Speaker ID: spk_1
+Hume Transcribed Text: okay.
+Youtuve Transcribed Text (what we use for the text emotions): And it's disappointing as well.
+Time: 164.51s - 164.75s
+
+Text Top 3 Emotions:
+  - Annoyance: 0.7272
+  - Disappointment: 0.5279
+  - Sadness: 0.2785
+
+Audio Top 3 Emotions:
+  - Calmness: 0.1553
+  - Awkwardness: 0.1283
+  - Boredom: 0.1234
+
+Video Emotions:
+  Frame at 164.66s:
+    - Interest: 0.4640
+    - Concentration: 0.3645
+    - Confusion: 0.3078
+
+--------------------------------------------------
+
+Speaker ID: spk_1
+Hume Transcribed Text: I am doing it. Yeah. In Nbc.
+Youtuve Transcribed Text (what we use for the text emotions): I read this book "Nonviolent Communication: A Language of Life" by Marshall Rosenberg and
+He makes it sound so easy kinda you know?
+Time: 166.52s - 168.12s
+
+Text Top 3 Emotions:
+  - Annoyance: 0.4006
+  - Disappointment: 0.3049
+  - Surprise (negative): 0.2679
+
+Audio Top 3 Emotions:
+  - Determination: 0.5705
+  - Pride: 0.2792
+  - Calmness: 0.1419
+
+Video Emotions:
+  Frame at 166.67s:
+    - Love: 0.5907
+    - Joy: 0.5625
+    - Amusement: 0.5259
+  Frame at 166.67s:
+    - Interest: 0.4746
+    - Concentration: 0.4277
+    - Desire: 0.3962
+  Frame at 167.00s:
+    - Interest: 0.3871
+    - Amusement: 0.3803
+    - Joy: 0.3482
+  Frame at 167.00s:
+    - Interest: 0.4357
+    - Desire: 0.3842
+    - Concentration: 0.3811
+  Frame at 167.33s:
+    - Joy: 0.4724
+    - Amusement: 0.4417
+    - Interest: 0.4242
+  Frame at 167.33s:
+    - Desire: 0.5034
+    - Interest: 0.4481
+    - Concentration: 0.4244
+  Frame at 167.67s:
+    - Joy: 0.4191
+    - Amusement: 0.4050
+    - Interest: 0.4019
+  Frame at 167.67s:
+    - Interest: 0.4985
+    - Concentration: 0.4848
+    - Desire: 0.4830
+  Frame at 168.00s:
+    - Joy: 0.4778
+    - Amusement: 0.4655
+    - Interest: 0.3687
+  Frame at 168.00s:
+    - Concentration: 0.4427
+    - Interest: 0.4266
+    - Confusion: 0.3000
+
+--------------------------------------------------
+
+Speaker ID: unknown
+Hume Transcribed Text: What? Is that? What why can't you just talk to me?
+Youtuve Transcribed Text (what we use for the text emotions): Well, I am just joking around.
+Time: 169.24s - 171.95s
+
+Text Top 3 Emotions:
+  - Annoyance: 0.5250
+  - Surprise (negative): 0.3855
+  - Sarcasm: 0.3507
+
+Audio Top 3 Emotions:
+  - Confusion: 0.5918
+  - Distress: 0.3822
+  - Anger: 0.3315
+
+Video Emotions:
+  Frame at 169.34s:
+    - Pain: 0.3624
+    - Confusion: 0.3090
+    - Distress: 0.2848
+  Frame at 169.34s:
+    - Interest: 0.4021
+    - Concentration: 0.3960
+    - Desire: 0.3937
+  Frame at 169.67s:
+    - Joy: 0.4013
+    - Amusement: 0.3939
+    - Interest: 0.3803
+  Frame at 169.67s:
+    - Desire: 0.6821
+    - Interest: 0.4727
+    - Concentration: 0.4422
+  Frame at 170.00s:
+    - Calmness: 0.3324
+    - Confusion: 0.3257
+    - Concentration: 0.3200
+  Frame at 170.00s:
+    - Interest: 0.3958
+    - Confusion: 0.3352
+    - Concentration: 0.3205
+  Frame at 170.34s:
+    - Sadness: 0.2942
+    - Confusion: 0.2896
+    - Calmness: 0.2896
+  Frame at 170.34s:
+    - Interest: 0.4713
+    - Concentration: 0.3731
+    - Confusion: 0.3086
+  Frame at 170.67s:
+    - Confusion: 0.3467
+    - Calmness: 0.3407
+    - Concentration: 0.3403
+  Frame at 170.67s:
+    - Desire: 0.5388
+    - Satisfaction: 0.5041
+    - Calmness: 0.4024
+  Frame at 171.00s:
+    - Sadness: 0.3791
+    - Pain: 0.3329
+    - Disappointment: 0.3017
+  Frame at 171.00s:
+    - Interest: 0.3633
+    - Amusement: 0.3211
+    - Concentration: 0.2791
+  Frame at 171.34s:
+    - Sadness: 0.3918
+    - Confusion: 0.3711
+    - Disappointment: 0.3380
+  Frame at 171.34s:
+    - Concentration: 0.4943
+    - Interest: 0.4873
+    - Contemplation: 0.4443
+  Frame at 171.67s:
+    - Confusion: 0.3854
+    - Sadness: 0.3642
+    - Disappointment: 0.3321
+  Frame at 171.67s:
+    - Interest: 0.3719
+    - Calmness: 0.3547
+    - Concentration: 0.3262
+
+--------------------------------------------------
+
+Speaker ID: spk_1
+Hume Transcribed Text: Why can I just talk like without
+Youtuve Transcribed Text (what we use for the text emotions): Like it can take a long time, but it's basically simple.
+Time: 173.30s - 175.72s
+
+Text Top 3 Emotions:
+  - Interest: 0.4409
+  - Admiration: 0.3534
+  - Satisfaction: 0.2730
+
+Audio Top 3 Emotions:
+  - Boredom: 0.3472
+  - Contempt: 0.2556
+  - Disgust: 0.1801
+
+Video Emotions:
+  Frame at 173.34s:
+    - Pain: 0.3401
+    - Sadness: 0.2981
+    - Disappointment: 0.2685
+  Frame at 173.34s:
+    - Concentration: 0.4333
+    - Interest: 0.3879
+    - Calmness: 0.3736
+  Frame at 173.67s:
+    - Confusion: 0.3195
+    - Interest: 0.3189
+    - Amusement: 0.3040
+  Frame at 173.67s:
+    - Concentration: 0.4728
+    - Interest: 0.4555
+    - Calmness: 0.3821
+  Frame at 174.01s:
+    - Confusion: 0.4302
+    - Concentration: 0.4147
+    - Calmness: 0.3554
+  Frame at 174.01s:
+    - Interest: 0.4240
+    - Concentration: 0.4200
+    - Calmness: 0.3692
+  Frame at 174.34s:
+    - Confusion: 0.3854
+    - Interest: 0.3337
+    - Concentration: 0.3057
+  Frame at 174.34s:
+    - Interest: 0.4506
+    - Concentration: 0.3586
+    - Amusement: 0.3237
+  Frame at 174.67s:
+    - Concentration: 0.5057
+    - Calmness: 0.4251
+    - Confusion: 0.4043
+  Frame at 174.67s:
+    - Concentration: 0.3915
+    - Interest: 0.3839
+    - Confusion: 0.3309
+  Frame at 175.01s:
+    - Confusion: 0.4692
+    - Concentration: 0.3832
+    - Doubt: 0.3284
+  Frame at 175.01s:
+    - Concentration: 0.4471
+    - Interest: 0.4162
+    - Confusion: 0.3686
+  Frame at 175.34s:
+    - Confusion: 0.3654
+    - Interest: 0.3613
+    - Calmness: 0.3307
+  Frame at 175.34s:
+    - Desire: 0.5455
+    - Interest: 0.4913
+    - Concentration: 0.4683
+  Frame at 175.68s:
+    - Sadness: 0.4331
+    - Pain: 0.4153
+    - Confusion: 0.3638
+  Frame at 175.68s:
+    - Interest: 0.4746
+    - Desire: 0.4614
+    - Concentration: 0.4070
+
+--------------------------------------------------
+
+Speaker ID: spk_1
+Hume Transcribed Text: doing an Nbc? Yeah.
+Youtuve Transcribed Text (what we use for the text emotions): It's like...
+Time: 176.35s - 177.39s
+
+Text Top 3 Emotions:
+  - Interest: 0.3771
+  - Enthusiasm: 0.2628
+  - Admiration: 0.2276
+
+Audio Top 3 Emotions:
+  - Interest: 0.2321
+  - Excitement: 0.2168
+  - Surprise (positive): 0.2084
+
+Video Emotions:
+  Frame at 176.68s:
+    - Joy: 0.5163
+    - Amusement: 0.4792
+    - Love: 0.4630
+  Frame at 176.68s:
+    - Concentration: 0.5060
+    - Interest: 0.4978
+    - Desire: 0.4244
+  Frame at 177.01s:
+    - Confusion: 0.3409
+    - Calmness: 0.3175
+    - Concentration: 0.3164
+  Frame at 177.01s:
+    - Concentration: 0.4611
+    - Calmness: 0.4164
+    - Interest: 0.3896
+  Frame at 177.34s:
+    - Confusion: 0.3457
+    - Calmness: 0.3037
+    - Concentration: 0.2998
+  Frame at 177.34s:
+    - Desire: 0.6176
+    - Interest: 0.4995
+    - Amusement: 0.3927
+
+--------------------------------------------------
+
+Speaker ID: unknown
+Hume Transcribed Text: Can I tell me why I doing it? Okay.
+Youtuve Transcribed Text (what we use for the text emotions): Yeah, it's really funny.
+Time: 179.46s - 181.45s
+
+Text Top 3 Emotions:
+  - Surprise (negative): 0.4316
+  - Annoyance: 0.4174
+  - Amusement: 0.2617
+
+Audio Top 3 Emotions:
+  - Interest: 0.2445
+  - Doubt: 0.1964
+  - Confusion: 0.1732
+
+Video Emotions:
+  Frame at 179.68s:
+    - Pain: 0.5363
+    - Sadness: 0.4739
+    - Joy: 0.3294
+  Frame at 179.68s:
+    - Interest: 0.4264
+    - Concentration: 0.3650
+    - Calmness: 0.3035
+  Frame at 180.01s:
+    - Concentration: 0.4457
+    - Calmness: 0.3901
+    - Disappointment: 0.3672
+  Frame at 180.01s:
+    - Interest: 0.4803
+    - Amusement: 0.4260
+    - Joy: 0.3947
+  Frame at 180.35s:
+    - Sadness: 0.3362
+    - Confusion: 0.3309
+    - Calmness: 0.3100
+  Frame at 180.35s:
+    - Interest: 0.4116
+    - Amusement: 0.3774
+    - Joy: 0.3364
+  Frame at 180.68s:
+    - Confusion: 0.3945
+    - Concentration: 0.3408
+    - Sadness: 0.3371
+  Frame at 180.68s:
+    - Amusement: 0.4651
+    - Interest: 0.4612
+    - Joy: 0.4427
+  Frame at 181.01s:
+    - Joy: 0.3047
+    - Amusement: 0.2977
+    - Confusion: 0.2969
+  Frame at 181.01s:
+    - Satisfaction: 0.3952
+    - Calmness: 0.3144
+    - Joy: 0.3047
+  Frame at 181.35s:
+    - Sadness: 0.3480
+    - Calmness: 0.3377
+    - Pain: 0.2989
+  Frame at 181.35s:
+    - Desire: 0.5107
+    - Concentration: 0.2914
+    - Satisfaction: 0.2601
+
+--------------------------------------------------
+
+Speaker ID: spk_0
+Hume Transcribed Text: Okay. So
+Youtuve Transcribed Text (what we use for the text emotions): really...
+Time: 182.64s - 183.46s
+
+Text Top 3 Emotions:
+  - Amusement: 0.6498
+  - Sarcasm: 0.4272
+  - Sympathy: 0.2628
+
+Audio Top 3 Emotions:
+  - Calmness: 0.2063
+  - Boredom: 0.1377
+  - Determination: 0.1198
+
+Video Emotions:
+  Frame at 182.68s:
+    - Sadness: 0.4220
+    - Pain: 0.3845
+    - Disappointment: 0.3280
+  Frame at 182.68s:
+    - Satisfaction: 0.4773
+    - Joy: 0.4666
+    - Amusement: 0.4249
+  Frame at 183.02s:
+    - Sadness: 0.3160
+    - Joy: 0.2938
+    - Pain: 0.2918
+  Frame at 183.02s:
+    - Interest: 0.4768
+    - Amusement: 0.4098
+    - Joy: 0.3503
+  Frame at 183.35s:
+    - Pain: 0.4681
+    - Sadness: 0.4285
+    - Distress: 0.3124
+  Frame at 183.35s:
+    - Interest: 0.4972
+    - Desire: 0.3800
+    - Concentration: 0.3558
+
+--------------------------------------------------
+
+Speaker ID: spk_1
+Hume Transcribed Text: I think I get into
+Youtuve Transcribed Text (what we use for the text emotions): I empathize with myself and then I empathize with the other person and
+express what's going on for me.
+Time: 184.09s - 185.39s
+
+Text Top 3 Emotions:
+  - Enthusiasm: 0.4740
+  - Satisfaction: 0.4334
+  - Determination: 0.3969
+
+Audio Top 3 Emotions:
+  - Realization: 0.2224
+  - Calmness: 0.2175
+  - Concentration: 0.1924
+
+Video Emotions:
+  Frame at 184.32s:
+    - Joy: 0.4990
+    - Amusement: 0.4880
+    - Love: 0.3767
+  Frame at 184.32s:
+    - Interest: 0.4627
+    - Amusement: 0.3516
+    - Concentration: 0.3234
+  Frame at 184.65s:
+    - Joy: 0.3367
+    - Amusement: 0.3142
+    - Love: 0.2798
+  Frame at 184.65s:
+    - Joy: 0.5582
+    - Love: 0.5097
+    - Satisfaction: 0.5018
+  Frame at 184.98s:
+    - Sadness: 0.3694
+    - Confusion: 0.3468
+    - Pain: 0.3447
+  Frame at 184.98s:
+    - Interest: 0.4574
+    - Concentration: 0.3858
+    - Calmness: 0.3798
+  Frame at 185.32s:
+    - Confusion: 0.4794
+    - Concentration: 0.3645
+    - Doubt: 0.3245
+  Frame at 185.32s:
+    - Interest: 0.4821
+    - Amusement: 0.3740
+    - Concentration: 0.3326
+
+--------------------------------------------------
+
+Speaker ID: spk_1
+Hume Transcribed Text: blaming
+Youtuve Transcribed Text (what we use for the text emotions): I get in touch with how I'm feeling, what my needs are...
+Time: 185.85s - 186.35s
+
+Text Top 3 Emotions:
+  - Realization: 0.6242
+  - Contemplation: 0.5372
+  - Interest: 0.2622
+
+Audio Top 3 Emotions:
+  - Disappointment: 0.1814
+  - Boredom: 0.1438
+  - Distress: 0.1312
+
+Video Emotions:
+  Frame at 185.99s:
+    - Pain: 0.3823
+    - Sadness: 0.3705
+    - Joy: 0.3498
+  Frame at 185.99s:
+    - Interest: 0.5089
+    - Amusement: 0.4455
+    - Joy: 0.4123
+  Frame at 186.32s:
+    - Confusion: 0.3884
+    - Sadness: 0.3608
+    - Disappointment: 0.3348
+  Frame at 186.32s:
+    - Interest: 0.4685
+    - Amusement: 0.4321
+    - Joy: 0.3994
+
+--------------------------------------------------
+
+Speaker ID: spk_1
+Hume Transcribed Text: and judgment and criticism,
+Youtuve Transcribed Text (what we use for the text emotions): What she's feeling, what her needs are
+It can take a while, but this is video.
+Time: 187.36s - 189.14s
+
+Text Top 3 Emotions:
+  - Empathic Pain: 0.3473
+  - Sympathy: 0.3327
+  - Interest: 0.3017
+
+Audio Top 3 Emotions:
+  - Concentration: 0.5280
+  - Calmness: 0.4228
+  - Determination: 0.2086
+
+Video Emotions:
+  Frame at 187.65s:
+    - Sadness: 0.4097
+    - Concentration: 0.3845
+    - Disappointment: 0.3800
+  Frame at 187.65s:
+    - Interest: 0.5435
+    - Amusement: 0.4067
+    - Concentration: 0.3583
+  Frame at 187.99s:
+    - Confusion: 0.3650
+    - Sadness: 0.3636
+    - Disappointment: 0.3491
+  Frame at 187.99s:
+    - Interest: 0.5755
+    - Amusement: 0.4094
+    - Admiration: 0.3634
+  Frame at 188.32s:
+    - Joy: 0.6449
+    - Amusement: 0.6264
+    - Excitement: 0.4511
+  Frame at 188.32s:
+    - Interest: 0.5267
+    - Amusement: 0.3972
+    - Concentration: 0.3284
+  Frame at 188.66s:
+    - Amusement: 0.3298
+    - Joy: 0.3278
+    - Interest: 0.2793
+  Frame at 188.66s:
+    - Interest: 0.5304
+    - Amusement: 0.3718
+    - Concentration: 0.3363
+  Frame at 188.99s:
+    - Joy: 0.5510
+    - Amusement: 0.5117
+    - Love: 0.4158
+  Frame at 188.99s:
+    - Interest: 0.5258
+    - Desire: 0.3604
+    - Concentration: 0.3591
+
+--------------------------------------------------
+
+Speaker ID: spk_1
+Hume Transcribed Text: like,
+Youtuve Transcribed Text (what we use for the text emotions): So it's going to be very fast.
+Time: 189.52s - 189.75s
+
+Text Top 3 Emotions:
+  - Determination: 0.2992
+  - Interest: 0.2157
+  - Enthusiasm: 0.1606
+
+Audio Top 3 Emotions:
+  - Calmness: 0.1579
+  - Awkwardness: 0.0978
+  - Confusion: 0.0938
+
+Video Emotions:
+  Frame at 189.66s:
+    - Joy: 0.5471
+    - Amusement: 0.5356
+    - Excitement: 0.3719
+  Frame at 189.66s:
+    - Satisfaction: 0.5769
+    - Calmness: 0.5471
+    - Love: 0.3730
+
+--------------------------------------------------
+
+Speaker ID: spk_1
+Hume Transcribed Text: quickly sometimes,
+Youtuve Transcribed Text (what we use for the text emotions): You'll see.
+Time: 190.55s - 191.53s
+
+Text Top 3 Emotions:
+  - Interest: 0.3817
+  - Determination: 0.2806
+  - Contemplation: 0.1398
+
+Audio Top 3 Emotions:
+  - Calmness: 0.5023
+  - Boredom: 0.2803
+  - Contemplation: 0.2058
+
+Video Emotions:
+  Frame at 190.66s:
+    - Amusement: 0.3377
+    - Joy: 0.3228
+    - Confusion: 0.2978
+  Frame at 190.66s:
+    - Interest: 0.5580
+    - Concentration: 0.4194
+    - Calmness: 0.3566
+  Frame at 190.99s:
+    - Joy: 0.4511
+    - Amusement: 0.4449
+    - Interest: 0.3883
+  Frame at 190.99s:
+    - Interest: 0.5532
+    - Amusement: 0.4157
+    - Joy: 0.3503
+  Frame at 191.32s:
+    - Amusement: 0.4891
+    - Joy: 0.4763
+    - Interest: 0.4112
+  Frame at 191.32s:
+    - Interest: 0.5256
+    - Amusement: 0.3623
+    - Concentration: 0.3510
+
+--------------------------------------------------
+
+Speaker ID: unknown
+Hume Transcribed Text: Right. Yes. And I am just trying to
+Youtuve Transcribed Text (what we use for the text emotions): Hahaha
+You've been so miserable this whole time...
+Time: 192.96s - 196.57s
+
+Text Top 3 Emotions:
+  - Sarcasm: 0.4704
+  - Amusement: 0.3896
+  - Annoyance: 0.3573
+
+Audio Top 3 Emotions:
+  - Tiredness: 0.4805
+  - Determination: 0.1801
+  - Awkwardness: 0.1629
+
+Video Emotions:
+  Frame at 192.99s:
+    - Amusement: 0.5255
+    - Joy: 0.5242
+    - Interest: 0.4111
+  Frame at 192.99s:
+    - Love: 0.6344
+    - Joy: 0.5798
+    - Satisfaction: 0.5461
+  Frame at 193.33s:
+    - Joy: 0.7127
+    - Amusement: 0.7117
+    - Love: 0.5775
+  Frame at 193.33s:
+    - Calmness: 0.4957
+    - Satisfaction: 0.4437
+    - Love: 0.3981
+  Frame at 193.66s:
+    - Joy: 0.8013
+    - Amusement: 0.7952
+    - Love: 0.5734
+  Frame at 193.66s:
+    - Interest: 0.4315
+    - Amusement: 0.3680
+    - Awe: 0.3238
+  Frame at 193.99s:
+    - Amusement: 0.6336
+    - Joy: 0.6035
+    - Excitement: 0.5178
+  Frame at 193.99s:
+    - Interest: 0.5112
+    - Amusement: 0.5077
+    - Love: 0.5014
+  Frame at 194.33s:
+    - Amusement: 0.5994
+    - Joy: 0.5541
+    - Excitement: 0.4764
+  Frame at 194.33s:
+    - Interest: 0.5176
+    - Amusement: 0.5062
+    - Joy: 0.4710
+  Frame at 194.66s:
+    - Confusion: 0.4007
+    - Concentration: 0.3919
+    - Interest: 0.3760
+  Frame at 194.66s:
+    - Joy: 0.7080
+    - Love: 0.6357
+    - Amusement: 0.6350
+  Frame at 194.99s:
+    - Concentration: 0.4423
+    - Confusion: 0.4338
+    - Calmness: 0.3728
+  Frame at 194.99s:
+    - Interest: 0.5517
+    - Amusement: 0.4999
+    - Joy: 0.4557
+  Frame at 195.33s:
+    - Concentration: 0.4366
+    - Calmness: 0.3925
+    - Confusion: 0.3893
+  Frame at 195.33s:
+    - Interest: 0.5583
+    - Amusement: 0.5361
+    - Joy: 0.4713
+  Frame at 195.66s:
+    - Joy: 0.5283
+    - Amusement: 0.5005
+    - Excitement: 0.3661
+  Frame at 195.66s:
+    - Amusement: 0.5482
+    - Joy: 0.5417
+    - Interest: 0.5194
+  Frame at 196.00s:
+    - Confusion: 0.4003
+    - Concentration: 0.3735
+    - Calmness: 0.3353
+  Frame at 196.00s:
+    - Interest: 0.5942
+    - Amusement: 0.4190
+    - Concentration: 0.3308
+  Frame at 196.33s:
+    - Confusion: 0.4515
+    - Concentration: 0.3741
+    - Sadness: 0.3535
+  Frame at 196.33s:
+    - Interest: 0.6109
+    - Amusement: 0.4090
+    - Concentration: 0.3466
+
+--------------------------------------------------
+
+Speaker ID: spk_1
+Hume Transcribed Text: connect.
+Youtuve Transcribed Text (what we use for the text emotions): You know it's like the whole time...
+Time: 197.50s - 197.74s
+
+Text Top 3 Emotions:
+  - Interest: 0.4993
+  - Sympathy: 0.4429
+  - Empathic Pain: 0.3360
+
+Audio Top 3 Emotions:
+  - Determination: 0.1856
+  - Doubt: 0.1800
+  - Interest: 0.1605
+
+Video Emotions:
+  Frame at 197.66s:
+    - Joy: 0.4373
+    - Amusement: 0.4127
+    - Interest: 0.3098
+  Frame at 197.66s:
+    - Interest: 0.5257
+    - Concentration: 0.4012
+    - Calmness: 0.3185
+
+--------------------------------------------------
+
+Speaker ID: spk_1
+Hume Transcribed Text: Just trying to have a connection with you and I'm trying to care about what...
+Youtuve Transcribed Text (what we use for the text emotions): Can I just interrupt for a moment?
+Time: 198.62s - 201.73s
+
+Text Top 3 Emotions:
+  - Determination: 0.3164
+  - Interest: 0.2661
+  - Annoyance: 0.2533
+
+Audio Top 3 Emotions:
+  - Concentration: 0.3722
+  - Sympathy: 0.3511
+  - Determination: 0.3001
+
+Video Emotions:
+  Frame at 198.67s:
+    - Confusion: 0.3459
+    - Calmness: 0.3429
+    - Concentration: 0.3283
+  Frame at 198.67s:
+    - Calmness: 0.4811
+    - Concentration: 0.4047
+    - Interest: 0.3648
+  Frame at 199.00s:
+    - Joy: 0.4717
+    - Amusement: 0.4252
+    - Love: 0.3643
+  Frame at 199.00s:
+    - Concentration: 0.4705
+    - Calmness: 0.3930
+    - Boredom: 0.3518
+  Frame at 199.33s:
+    - Joy: 0.4331
+    - Amusement: 0.4088
+    - Love: 0.3755
+  Frame at 199.33s:
+    - Concentration: 0.4443
+    - Calmness: 0.3815
+    - Disappointment: 0.3713
+  Frame at 199.67s:
+    - Joy: 0.5449
+    - Amusement: 0.5092
+    - Love: 0.4677
+  Frame at 199.67s:
+    - Concentration: 0.5699
+    - Calmness: 0.4261
+    - Interest: 0.3801
+  Frame at 200.00s:
+    - Concentration: 0.4184
+    - Confusion: 0.3848
+    - Calmness: 0.3730
+  Frame at 200.00s:
+    - Concentration: 0.5074
+    - Calmness: 0.4316
+    - Boredom: 0.3930
+  Frame at 200.33s:
+    - Sadness: 0.4130
+    - Disappointment: 0.3505
+    - Pain: 0.3486
+  Frame at 200.33s:
+    - Concentration: 0.4487
+    - Calmness: 0.4036
+    - Interest: 0.3468
+  Frame at 200.67s:
+    - Joy: 0.6579
+    - Amusement: 0.5974
+    - Love: 0.5415
+  Frame at 200.67s:
+    - Interest: 0.4208
+    - Calmness: 0.4158
+    - Concentration: 0.3696
+  Frame at 201.00s:
+    - Amusement: 0.4832
+    - Joy: 0.4817
+    - Excitement: 0.3625
+  Frame at 201.00s:
+    - Concentration: 0.5926
+    - Contemplation: 0.4402
+    - Interest: 0.4386
+  Frame at 201.33s:
+    - Joy: 0.5647
+    - Amusement: 0.5183
+    - Love: 0.4658
+  Frame at 201.33s:
+    - Concentration: 0.4635
+    - Interest: 0.4091
+    - Calmness: 0.3836
+  Frame at 201.67s:
+    - Concentration: 0.3767
+    - Confusion: 0.3765
+    - Calmness: 0.3269
+  Frame at 201.67s:
+    - Concentration: 0.4707
+    - Interest: 0.3806
+    - Calmness: 0.3610
+
+--------------------------------------------------
+
+Speaker ID: spk_1
+Hume Transcribed Text: You're feeling man to actually ask you about it sooner, you
+Youtuve Transcribed Text (what we use for the text emotions): I don't want you to interrupt!
+Time: 201.90s - 205.41s
+
+Text Top 3 Emotions:
+  - Annoyance: 0.3206
+  - Awkwardness: 0.2150
+  - Determination: 0.1755
+
+Audio Top 3 Emotions:
+  - Calmness: 0.2976
+  - Concentration: 0.1727
+  - Contemplation: 0.1563
+
+Video Emotions:
+  Frame at 202.00s:
+    - Concentration: 0.3876
+    - Sadness: 0.3723
+    - Confusion: 0.3694
+  Frame at 202.00s:
+    - Concentration: 0.4670
+    - Interest: 0.4553
+    - Calmness: 0.3653
+  Frame at 202.34s:
+    - Joy: 0.5280
+    - Amusement: 0.4827
+    - Love: 0.4119
+  Frame at 202.34s:
+    - Concentration: 0.5240
+    - Interest: 0.4095
+    - Calmness: 0.3709
+  Frame at 202.67s:
+    - Joy: 0.4888
+    - Amusement: 0.4638
+    - Love: 0.3774
+  Frame at 202.67s:
+    - Concentration: 0.4358
+    - Interest: 0.3755
+    - Calmness: 0.3490
+  Frame at 203.00s:
+    - Interest: 0.3663
+    - Confusion: 0.3605
+    - Calmness: 0.3353
+  Frame at 203.00s:
+    - Calmness: 0.4587
+    - Concentration: 0.4366
+    - Interest: 0.4009
+  Frame at 203.34s:
+    - Joy: 0.6871
+    - Amusement: 0.6598
+    - Love: 0.5159
+  Frame at 203.34s:
+    - Interest: 0.4543
+    - Calmness: 0.4060
+    - Concentration: 0.4040
+  Frame at 203.67s:
+    - Confusion: 0.4079
+    - Concentration: 0.3786
+    - Calmness: 0.3566
+  Frame at 203.67s:
+    - Interest: 0.4707
+    - Concentration: 0.4163
+    - Calmness: 0.3845
+  Frame at 204.00s:
+    - Joy: 0.5065
+    - Amusement: 0.4959
+    - Interest: 0.4163
+  Frame at 204.00s:
+    - Interest: 0.4689
+    - Concentration: 0.4159
+    - Calmness: 0.4105
+  Frame at 204.34s:
+    - Concentration: 0.3806
+    - Calmness: 0.3751
+    - Confusion: 0.3631
+  Frame at 204.34s:
+    - Calmness: 0.5762
+    - Tiredness: 0.3273
+    - Concentration: 0.3211
+  Frame at 204.67s:
+    - Confusion: 0.3620
+    - Sadness: 0.3042
+    - Pain: 0.2841
+  Frame at 204.67s:
+    - Calmness: 0.4485
+    - Concentration: 0.4464
+    - Interest: 0.3501
+  Frame at 205.00s:
+    - Concentration: 0.4458
+    - Calmness: 0.3821
+    - Confusion: 0.3787
+  Frame at 205.00s:
+    - Calmness: 0.4712
+    - Concentration: 0.4327
+    - Interest: 0.3884
+  Frame at 205.34s:
+    - Calmness: 0.3436
+    - Confusion: 0.3424
+    - Interest: 0.3392
+  Frame at 205.34s:
+    - Calmness: 0.4469
+    - Concentration: 0.4187
+    - Interest: 0.3535
+
+--------------------------------------------------
+
+Speaker ID: spk_1
+Hume Transcribed Text: know, and to tell you what I'm thinking. That's
+Youtuve Transcribed Text (what we use for the text emotions): I just want you to hear what I have to say!
+Time: 205.41s - 208.12s
+
+Text Top 3 Emotions:
+  - Annoyance: 0.6105
+  - Determination: 0.1715
+  - Anger: 0.1661
+
+Audio Top 3 Emotions:
+  - Calmness: 0.4302
+  - Determination: 0.1884
+  - Concentration: 0.1681
+
+Video Emotions:
+  Frame at 205.67s:
+    - Joy: 0.4253
+    - Amusement: 0.3842
+    - Love: 0.3447
+  Frame at 205.67s:
+    - Calmness: 0.4249
+    - Concentration: 0.4247
+    - Boredom: 0.3446
+  Frame at 206.01s:
+    - Joy: 0.5628
+    - Amusement: 0.5278
+    - Love: 0.4558
+  Frame at 206.01s:
+    - Concentration: 0.4773
+    - Calmness: 0.4283
+    - Boredom: 0.3625
+  Frame at 206.34s:
+    - Amusement: 0.3413
+    - Interest: 0.3402
+    - Joy: 0.3320
+  Frame at 206.34s:
+    - Calmness: 0.5504
+    - Satisfaction: 0.4018
+    - Contentment: 0.2948
+  Frame at 206.67s:
+    - Amusement: 0.3335
+    - Confusion: 0.3284
+    - Interest: 0.3255
+  Frame at 206.67s:
+    - Calmness: 0.4107
+    - Interest: 0.4077
+    - Concentration: 0.3456
+  Frame at 207.01s:
+    - Concentration: 0.4240
+    - Calmness: 0.3937
+    - Interest: 0.3885
+  Frame at 207.01s:
+    - Interest: 0.4450
+    - Calmness: 0.4235
+    - Amusement: 0.3571
+  Frame at 207.34s:
+    - Confusion: 0.4249
+    - Concentration: 0.3867
+    - Calmness: 0.3691
+  Frame at 207.34s:
+    - Calmness: 0.4039
+    - Interest: 0.3737
+    - Satisfaction: 0.3497
+  Frame at 207.67s:
+    - Confusion: 0.4443
+    - Concentration: 0.3956
+    - Interest: 0.3546
+  Frame at 207.67s:
+    - Interest: 0.5063
+    - Calmness: 0.4019
+    - Concentration: 0.3687
+  Frame at 208.01s:
+    - Confusion: 0.3725
+    - Interest: 0.3671
+    - Concentration: 0.3156
+  Frame at 208.01s:
+    - Interest: 0.4810
+    - Amusement: 0.3988
+    - Joy: 0.3594
+
+--------------------------------------------------
+
+Speaker ID: spk_1
+Hume Transcribed Text: what I'm trying to do.
+Youtuve Transcribed Text (what we use for the text emotions): I just want to find out how you're feeling at this moment.
+Time: 208.12s - 208.92s
+
+Text Top 3 Emotions:
+  - Annoyance: 0.7957
+  - Anger: 0.2241
+  - Distress: 0.1464
+
+Audio Top 3 Emotions:
+  - Determination: 0.5862
+  - Calmness: 0.1696
+  - Anxiety: 0.1379
+
+Video Emotions:
+  Frame at 208.34s:
+    - Calmness: 0.3757
+    - Interest: 0.3263
+    - Concentration: 0.3201
+  Frame at 208.34s:
+    - Interest: 0.4164
+    - Amusement: 0.3382
+    - Calmness: 0.3260
+  Frame at 208.68s:
+    - Calmness: 0.3959
+    - Confusion: 0.3495
+    - Concentration: 0.3458
+  Frame at 208.68s:
+    - Concentration: 0.4196
+    - Interest: 0.3745
+    - Calmness: 0.3639
+
+--------------------------------------------------
+
+Speaker ID: spk_0
+Hume Transcribed Text: I mean, how does that sound to you?
+Youtuve Transcribed Text (what we use for the text emotions): I mean the pair of you...
+Time: 211.48s - 212.75s
+
+Text Top 3 Emotions:
+  - Sarcasm: 0.5800
+  - Amusement: 0.5579
+  - Annoyance: 0.1509
+
+Audio Top 3 Emotions:
+  - Realization: 0.1610
+  - Confusion: 0.1444
+  - Calmness: 0.1426
+
+Video Emotions:
+  Frame at 211.68s:
+    - Joy: 0.4026
+    - Amusement: 0.3865
+    - Interest: 0.3484
+  Frame at 211.68s:
+    - Interest: 0.4222
+    - Amusement: 0.3755
+    - Calmness: 0.3507
+  Frame at 212.01s:
+    - Calmness: 0.3535
+    - Interest: 0.3395
+    - Concentration: 0.3254
+  Frame at 212.01s:
+    - Interest: 0.4409
+    - Amusement: 0.3518
+    - Concentration: 0.3280
+  Frame at 212.35s:
+    - Concentration: 0.4363
+    - Calmness: 0.4116
+    - Confusion: 0.3918
+  Frame at 212.35s:
+    - Interest: 0.3962
+    - Concentration: 0.3584
+    - Calmness: 0.3388
+  Frame at 212.68s:
+    - Joy: 0.4054
+    - Amusement: 0.3897
+    - Interest: 0.3844
+  Frame at 212.68s:
+    - Amusement: 0.5323
+    - Joy: 0.5278
+    - Love: 0.5047
+
+--------------------------------------------------
+
+Speaker ID: spk_0
+Hume Transcribed Text: I'm okay. That
+Youtuve Transcribed Text (what we use for the text emotions): I think kind of, on my case...
+Time: 213.78s - 215.08s
+
+Text Top 3 Emotions:
+  - Amusement: 0.4814
+  - Sarcasm: 0.3625
+  - Empathic Pain: 0.2171
+
+Audio Top 3 Emotions:
+  - Amusement: 0.2101
+  - Joy: 0.1445
+  - Relief: 0.1388
+
+Video Emotions:
+  Frame at 214.01s:
+    - Joy: 0.7608
+    - Amusement: 0.7320
+    - Love: 0.6289
+  Frame at 214.01s:
+    - Interest: 0.4319
+    - Amusement: 0.3872
+    - Concentration: 0.2848
+  Frame at 214.35s:
+    - Joy: 0.7971
+    - Amusement: 0.7939
+    - Love: 0.6046
+  Frame at 214.35s:
+    - Interest: 0.4742
+    - Amusement: 0.4245
+    - Joy: 0.3421
+  Frame at 214.68s:
+    - Joy: 0.7611
+    - Amusement: 0.7414
+    - Love: 0.6300
+  Frame at 214.68s:
+    - Interest: 0.3576
+    - Confusion: 0.3108
+    - Concentration: 0.3037
+  Frame at 215.01s:
+    - Joy: 0.8114
+    - Amusement: 0.8014
+    - Love: 0.6134
+  Frame at 215.01s:
+    - Amusement: 0.5519
+    - Joy: 0.5225
+    - Excitement: 0.3648
+
+--------------------------------------------------
+
+Speaker ID: spk_1
+Hume Transcribed Text: okay. Pretty funny.
+Youtuve Transcribed Text (what we use for the text emotions): Is that okay?
+Time: 215.45s - 216.40s
+
+Text Top 3 Emotions:
+  - Annoyance: 0.7389
+  - Awkwardness: 0.2812
+  - Anxiety: 0.2777
+
+Audio Top 3 Emotions:
+  - Amusement: 0.6444
+  - Joy: 0.2770
+  - Relief: 0.2165
+
+Video Emotions:
+  Frame at 215.68s:
+    - Amusement: 0.9200
+    - Joy: 0.9052
+    - Excitement: 0.6208
+  Frame at 215.68s:
+    - Joy: 0.5709
+    - Amusement: 0.5617
+    - Love: 0.4586
+  Frame at 216.02s:
+    - Joy: 0.7485
+    - Amusement: 0.7469
+    - Love: 0.6350
+  Frame at 216.02s:
+    - Amusement: 0.5515
+    - Joy: 0.5372
+    - Interest: 0.4429
+  Frame at 216.35s:
+    - Amusement: 0.8296
+    - Joy: 0.8139
+    - Excitement: 0.5703
+  Frame at 216.35s:
+    - Amusement: 0.3870
+    - Interest: 0.3726
+    - Joy: 0.3337
+
+--------------------------------------------------
+
+Speaker ID: spk_0
+Hume Transcribed Text: Sounds good. Okay.
+Youtuve Transcribed Text (what we use for the text emotions): Look, my mom is who she is and
+And I never promised that she was going to be like the sweetest...
+Time: 217.53s - 218.73s
+
+Text Top 3 Emotions:
+  - Realization: 0.5648
+  - Love: 0.3380
+  - Contemplation: 0.3323
+
+Audio Top 3 Emotions:
+  - Satisfaction: 0.4054
+  - Joy: 0.3362
+  - Amusement: 0.2843
+
+Video Emotions:
+  Frame at 217.65s:
+    - Joy: 0.8459
+    - Amusement: 0.8198
+    - Love: 0.5739
+  Frame at 217.65s:
+    - Joy: 0.7633
+    - Amusement: 0.7290
+    - Love: 0.6268
+  Frame at 217.98s:
+    - Joy: 0.8642
+    - Amusement: 0.8433
+    - Love: 0.5851
+  Frame at 217.98s:
+    - Amusement: 0.6691
+    - Joy: 0.6488
+    - Excitement: 0.5631
+  Frame at 218.32s:
+    - Joy: 0.7728
+    - Amusement: 0.7452
+    - Love: 0.6821
+  Frame at 218.32s:
+    - Interest: 0.4949
+    - Love: 0.4714
+    - Amusement: 0.4710
+  Frame at 218.65s:
+    - Joy: 0.9071
+    - Amusement: 0.8794
+    - Excitement: 0.5991
+  Frame at 218.65s:
+    - Interest: 0.5213
+    - Amusement: 0.4476
+    - Love: 0.4011
+
+--------------------------------------------------
+
+Speaker ID: spk_1
+Hume Transcribed Text: Good.
+Youtuve Transcribed Text (what we use for the text emotions): I'm angry
+You're angry?
+Time: 220.33s - 220.57s
+
+Text Top 3 Emotions:
+  - Anger: 0.8458
+  - Distress: 0.6249
+  - Annoyance: 0.5975
+
+Audio Top 3 Emotions:
+  - Calmness: 0.3270
+  - Contentment: 0.1374
+  - Boredom: 0.1045
+
+Video Emotions:
+  No video emotions data available
+
+--------------------------------------------------
+
+Speaker ID: spk_0
+Hume Transcribed Text: Let's go. Okay.
+Youtuve Transcribed Text (what we use for the text emotions): Sweetest???
+Time: 224.25s - 225.54s
+
+Text Top 3 Emotions:
+  - Love: 0.5678
+  - Realization: 0.4644
+  - Romance: 0.4248
+
+Audio Top 3 Emotions:
+  - Calmness: 0.3309
+  - Determination: 0.2736
+  - Boredom: 0.2716
+
+Video Emotions:
+  Frame at 224.32s:
+    - Joy: 0.6973
+    - Amusement: 0.6438
+    - Love: 0.5916
+  Frame at 224.32s:
+    - Interest: 0.5203
+    - Amusement: 0.5159
+    - Joy: 0.5082
+  Frame at 224.66s:
+    - Joy: 0.6789
+    - Amusement: 0.6398
+    - Love: 0.5713
+  Frame at 224.66s:
+    - Amusement: 0.5445
+    - Joy: 0.5278
+    - Interest: 0.4961
+  Frame at 224.99s:
+    - Joy: 0.7452
+    - Amusement: 0.7160
+    - Love: 0.6026
+  Frame at 224.99s:
+    - Interest: 0.4396
+    - Calmness: 0.4177
+    - Amusement: 0.3932
+  Frame at 225.33s:
+    - Joy: 0.8107
+    - Amusement: 0.7864
+    - Excitement: 0.5601
+
+--------------------------------------------------
+
