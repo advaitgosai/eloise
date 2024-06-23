@@ -1,6 +1,10 @@
-# Eloise
+<img width="1138" alt="Screen Shot 2024-06-23 at 1 23 39 PM" src="https://github.com/advaitgosai/eloise/assets/66398068/f4210baa-5f9c-439b-9815-0fdb7b4bc71c">
 
-Emotional Intelligence is crucial for your career, yet hard to master without costly coaching. Meet Eloise, your executive EQ coach to make you an effective communicator and an empathetic colleague
+### Demo
+
+[![eloise_demo](http://img.youtube.com/vi/xUAml7a8NYk/0.jpg)](http://www.youtube.com/watch?v=xUAml7a8NYk "Eloise_Demo")
+
+### Usage
 
 1. Use 'app.py', provide it a youtube link to extract the video, audio and text transcript.
 2. Add your OpenAI and Hume API keys in the .env file 
